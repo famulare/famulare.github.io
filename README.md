@@ -4,4 +4,6 @@
 
 [github.com/famulare](https://github.com/famulare)
 
+[Google Scholar](https://scholar.google.com/citations?user=TPWwr18AAAAJ)
 
+[The Institute for Disease Modeling](http://idmod.org/)
