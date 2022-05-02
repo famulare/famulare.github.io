@@ -45,7 +45,7 @@ social:
     - https://scholar.google.com/citations?user=TPWwr18AAAAJ
 
 header_pages:
-  - _includes/Famulare_CV.pdf
+  - Famulare_CV.pdf
   - archive.md
 
 titles_from_headings:
