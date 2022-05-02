@@ -3,8 +3,6 @@ layout: page
 title: CV
 ---
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  
-  "http://www.w3.org/TR/html4/loose.dtd">  
 <html > 
 <head><title>CV</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -964,7 +962,4 @@ class="ecbx-1000">Private Tutor </span><span class="location">Feb 2000 &#8211; J
 class="ecbx-1000">Date compiled</span>: May 2, 2022.
  
 </body></html> 
-
-                                                                                   
-
 
