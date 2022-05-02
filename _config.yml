@@ -2,13 +2,15 @@ title: "Nothing Is One Thing"
 author: "Mike Famulare"
 description: "Thoughts on the practice and philosophy of mathematical modeling in epidemiology, among other things." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
+future: false # GitHub Pages will publish future posts if this isn't set to false
+
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 # email: "mikefamulare@gmail.com"
 twitter_username: "famulare_mike"
 github_username: "famulare"
 #google_scholar_username: "TPWwr18AAAAJ"
-linkedin_username: "michael-famulare"
+#linkedin_username: "michael-famulare"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -30,6 +32,21 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# plugin: jekyll-seo-tag
+twitter:
+  username: famulare
+  card: summary_large_image
+social:
+  name: Mike Famulare
+  links:
+    - https://twitter.com/famulare_mike
+    - https://github.com/famulare
+    - https://scholar.google.com/citations?user=TPWwr18AAAAJ
+
+header_pages:
+  - _includes/Famulare_CV.pdf
+  - archive.md
 
 titles_from_headings:
   strip_title: true
