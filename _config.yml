@@ -45,7 +45,7 @@ social:
     - https://scholar.google.com/citations?user=TPWwr18AAAAJ
 
 header_pages:
-  - _posts\2022-05-02-About-this-blog.md
+  - About.md
   - Famulare_CV.md
   - archive.md
 
