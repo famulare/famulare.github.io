@@ -4,7 +4,7 @@ title: "Welcome to Nothing Is One Thing"
 tags: About
 ---
 
-My name is Mike Famulare and I've been working as an epidemiological modeler at the [Institute for Disease Modeling](www.idmod.org) for a decade now. In that time, I've been part of a lot of things---some you might've heard of like the [Seattle Flu Study](www.seattleflu.org) and [very stressful days in February 2020](https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html) or [This Podcast Will Kill You](https://thispodcastwillkillyou.com/2020/05/04/covid-19-chapter-11-modeling/) ([transcript](http://thispodcastwillkillyou.com/wp-content/uploads/2021/04/TPWKY-COVID-11-Modeling.pdf)), and [many you probably haven't](https://scholar.google.com/citations?hl=en&user=TPWwr18AAAAJ&view_op=list_works&sortby=pubdate).
+My name is Mike Famulare and I've been working as an epidemiological modeler at the [Institute for Disease Modeling](www.idmod.org) for a decade now. In that time, I've been part of a lot of things---some you might've heard of like the [Seattle Flu Study](www.seattleflu.org) and [very stressful days in February 2020](https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html) or [This Podcast Will Kill You](https://thispodcastwillkillyou.com/2020/05/04/covid-19-chapter-11-modeling/) ([transcript](http://thispodcastwillkillyou.com/wp-content/uploads/2021/04/TPWKY-COVID-11-Modeling.pdf)), and many you probably haven't ([Google Scholar](https://scholar.google.com/citations?hl=en&user=TPWwr18AAAAJ&view_op=list_works&sortby=pubdate)).
 
 During this time, I've grown a lot of strong opinions, partially formed and not-so-loosely held, about the practice and philosophy of mathematical modeling in epidemiology. Before the COVID-19 pandemic, I was mostly content to daydream and chat about this stuff over lunches. For about 18 months during the pandemic, when I spent a lot of time working voluntarily[^1] in close coordination with the Washington state Department of Health, I had a very direct outlet for my thoughts about the best[^2] ways to help people make good decisions amid uncertainty[^3]. Since withdrawing to better address the enormous toll that work took on my mental health and family[^4], I'm left with a lot of feelings about how to be a _good modeler_[^5] that are bigger and messier than the things I normally do at work can contain. So I need a place to work some stuff out. Hence this blog.
 
@@ -34,7 +34,7 @@ ___
 
 [^2]: LOL. Somehow I hope starting a blog will be a _treatment_ for arrogance?
 
-[^3]: and, within the constraints of what's possible in the US, we've done better than most ([Age-adjusted COVID-19 deaths per capita across US states](https://www.bioinformaticscro.com/blog/states-ranked-by-age-adjusted-covid-deaths/)).
+[^3]: and, within the constraints of what's possible in the US, we've done better than most ([Age-adjusted COVID-19 deaths per capita across US states as of April 27, 2022](https://web.archive.org/web/20220503234017/https://www.bioinformaticscro.com/blog/states-ranked-by-age-adjusted-covid-deaths/)).
 
 [^4]: I'm scared to write about this in public, but I hope that changes.
 
