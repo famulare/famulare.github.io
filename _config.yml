@@ -46,7 +46,7 @@ social:
 
 header_pages:
   - About.md
-  - Famulare_CV.md
+#  - Famulare_CV.md
   - archive.md
 
 titles_from_headings:

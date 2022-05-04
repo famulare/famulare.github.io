@@ -19,23 +19,7 @@ title: CV
         <!--l. 28-->
       <p class="noindent">
         <span class="eccc1728-">
-          <span class="small-caps">m</span>
-          <span class="small-caps">i</span>
-          <span class="small-caps">c</span>
-          <span class="small-caps">h</span>
-          <span class="small-caps">a</span>
-          <span class="small-caps">e</span>
-          <span class="small-caps">l</span>
-          <span class="small-caps">g</span>
-          <span class="small-caps">.</span>
-          <span class="small-caps">f</span>
-          <span class="small-caps">a</span>
-          <span class="small-caps">m</span>
-          <span class="small-caps">u</span>
-          <span class="small-caps">l</span>
-          <span class="small-caps">a</span>
-          <span class="small-caps">r</span>
-          <span class="small-caps">e</span>
+          <span class="small-caps">Michael G. Famulare</span>
         </span>
         <br />
         <span class="ecrm-1440">Curriculum Vitae</span>
@@ -309,7 +293,7 @@ title: CV
             </tr>
             <tr>
               <td>&#8226; </td>
-              <td class="items">Kerr CC, Stuart RM, Mistry D, Abeysuriya R, Rosenfeld K, Hart GR, Nu�ez RC, Cohen JA, Selvaraj P, Hagedorn B, George L, Jastrzebski M, Izzo AS, Fowler G, Wagner A, Chang ST, Oron AP, Wenger EA, Panovska-Griffiths J, <span class="ecbx-1000">Famulare M</span>, Klein DJ (2021). Covasim: an agent-based model of COVID-19 dynamics and interventions. <span class="ecti-1000">PLOS Computational Biology</span> 17(7):e1009149. doi:10.1371/journal.pcbi.1009149 </td>
+              <td class="items">Kerr CC, Stuart RM, Mistry D, Abeysuriya R, Rosenfeld K, Hart GR, Nunez RC, Cohen JA, Selvaraj P, Hagedorn B, George L, Jastrzebski M, Izzo AS, Fowler G, Wagner A, Chang ST, Oron AP, Wenger EA, Panovska-Griffiths J, <span class="ecbx-1000">Famulare M</span>, Klein DJ (2021). Covasim: an agent-based model of COVID-19 dynamics and interventions. <span class="ecti-1000">PLOS Computational Biology</span> 17(7):e1009149. doi:10.1371/journal.pcbi.1009149 </td>
             </tr>
             <tr>
               <td>&#8226; </td>
@@ -325,13 +309,13 @@ title: CV
             </tr>
             <tr>
               <td>&#8226; </td>
-              <td class="items">M�ller NF, Wagner C, Frazar CD, Roychoudhury P, Lee J, Moncla LH, Pelle B, Richardson M, Ryke E, Xie H, Shrestha L, Addetia A, Rachleff VM, Lieberman NAP, Huang ML, Gautom R, Melly G, Hiatt B, Dykema P, Adler A, Brandstetter E, Han PD, Fay K, Ilcisin M, Lacombe K, Sibley TR, Truong M, Wolf CR, Boeck M, Englund JA, <span class="ecbx-1000">Famulare M</span>, Lutz BR, Rieder MJ, Thompson M, Duchin JS, Starita LM, Chu HY, Shendure J, Jerome KR, Lingquist S, Greninger AL, Nickerson DA, Bedford T (2021). <span class="ecti-1000">Science Translational</span>
+              <td class="items">Mueller NF, Wagner C, Frazar CD, Roychoudhury P, Lee J, Moncla LH, Pelle B, Richardson M, Ryke E, Xie H, Shrestha L, Addetia A, Rachleff VM, Lieberman NAP, Huang ML, Gautom R, Melly G, Hiatt B, Dykema P, Adler A, Brandstetter E, Han PD, Fay K, Ilcisin M, Lacombe K, Sibley TR, Truong M, Wolf CR, Boeck M, Englund JA, <span class="ecbx-1000">Famulare M</span>, Lutz BR, Rieder MJ, Thompson M, Duchin JS, Starita LM, Chu HY, Shendure J, Jerome KR, Lingquist S, Greninger AL, Nickerson DA, Bedford T (2021). <span class="ecti-1000">Science Translational</span>
                 <span class="ecti-1000">Medicine </span>13(595):eabf0202. doi:10.1126/scitranslmed.abf0202
               </td>
             </tr>
             <tr>
               <td>&#8226; </td>
-              <td class="items">Kerr CC, Mistry D, Stuart RM, Rosenfeld K, Hart GR, Nu�ez RC, Cohen JA, Selvaraj P, Abeysuriya RG, Jastrzebski M, George L, Hagedorn B, Panovska-Griffiths J, Fagalde M, Duchin J, <span class="ecbx-1000">Famulare M</span>, Klein DJ (2021). Controlling COVID-19 via test-trace-quarantine. <span class="ecti-1000">Nature Communications </span>12(1):2993. doi:10.1038/s41467-021-23276-9 </td>
+              <td class="items">Kerr CC, Mistry D, Stuart RM, Rosenfeld K, Hart GR, Nunez RC, Cohen JA, Selvaraj P, Abeysuriya RG, Jastrzebski M, George L, Hagedorn B, Panovska-Griffiths J, Fagalde M, Duchin J, <span class="ecbx-1000">Famulare M</span>, Klein DJ (2021). Controlling COVID-19 via test-trace-quarantine. <span class="ecti-1000">Nature Communications </span>12(1):2993. doi:10.1038/s41467-021-23276-9 </td>
             </tr>
             <tr>
               <td>&#8226; </td>
@@ -345,7 +329,7 @@ title: CV
             </tr>
             <tr>
               <td>&#8226; </td>
-              <td class="items">Bedford T, Greninger AL, Roychoudhury P, Starita LM, <span class="ecbx-1000">Famulare M</span>, Huang ML, Nalla A, Pepper G, Reinhardt A, Xie H, Shrestha L, Nguyen TN, Adler A, Brandstetter E, Cho S, Giroux D, Han PD, Fay K, Frazar CD, Ilcisin M, Lacombe K, Lee J, Kiavand A, Richardson M, Sibley TR, Truong M, Wolf CR, Nickerson DA, Rieder MJ, Englund JA, Seattle Flu Study Investigators, Hadfield J, Hodcroft EB, Huddleston J, Moncla LH, M�ller NF, Neher RA, Deng X, Gu W, Federman S, Chiu C, Duchin JS, Gautom R, Melly G, Hiatt B, Dykema P, Lindquist S, Queen K, Tao Y, Uehara A, Tong S, MacCannell D, Armstrong GL, Baird GS, Chu HY, Shendure J, Jerome KR (2020). Cryptic transmission of SARS-CoV-2 in Washington state. <span class="ecti-1000">Science </span>370(6516). doi:10.1126/science.abc0523 </td>
+              <td class="items">Bedford T, Greninger AL, Roychoudhury P, Starita LM, <span class="ecbx-1000">Famulare M</span>, Huang ML, Nalla A, Pepper G, Reinhardt A, Xie H, Shrestha L, Nguyen TN, Adler A, Brandstetter E, Cho S, Giroux D, Han PD, Fay K, Frazar CD, Ilcisin M, Lacombe K, Lee J, Kiavand A, Richardson M, Sibley TR, Truong M, Wolf CR, Nickerson DA, Rieder MJ, Englund JA, Seattle Flu Study Investigators, Hadfield J, Hodcroft EB, Huddleston J, Moncla LH, Mueller NF, Neher RA, Deng X, Gu W, Federman S, Chiu C, Duchin JS, Gautom R, Melly G, Hiatt B, Dykema P, Lindquist S, Queen K, Tao Y, Uehara A, Tong S, MacCannell D, Armstrong GL, Baird GS, Chu HY, Shendure J, Jerome KR (2020). Cryptic transmission of SARS-CoV-2 in Washington state. <span class="ecti-1000">Science </span>370(6516). doi:10.1126/science.abc0523 </td>
             </tr>
             <tr>
               <td>&#8226; </td>
@@ -481,7 +465,7 @@ title: CV
             </tr>
             <tr>
               <td>&#8226; </td>
-              <td class="items">Nu�ez RC, <span class="ecbx-1000">Famulare M</span>, Seaman V, and Klein DJ (27 Jan 2021). In search of an effective NPI blend for COVID-19 control in rural environments: lessons learned from the early epidemic control measures in Yakima County, Washington. <a href="https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Effect-of-NPIs-in-Yakima-County.pdf">(covid.idmod.org)</a>
+              <td class="items">Nunez RC, <span class="ecbx-1000">Famulare M</span>, Seaman V, and Klein DJ (27 Jan 2021). In search of an effective NPI blend for COVID-19 control in rural environments: lessons learned from the early epidemic control measures in Yakima County, Washington. <a href="https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Effect-of-NPIs-in-Yakima-County.pdf">(covid.idmod.org)</a>
               </td>
             </tr>
             <tr>
@@ -829,7 +813,7 @@ title: CV
             <br />
             <br class="newline" />Methods in Computational Neuroscience, Woods Hole MA <span class="location">Aug 2011</span>
             <br />
-            <br class="newline" />Seminar: Group for Neural Theory at l&#8217;�cole Normale Sup�riure, Paris FR <span class="location">Feb 2011</span>
+            <br class="newline" />Seminar: Group for Neural Theory at l&#8217;Ecole Normale Superiure, Paris FR <span class="location">Feb 2011</span>
             <br />
             <br class="newline" />Emerging Techniques in Neuroscience, Santa Barbara CA <span class="location">Oct 2010</span>
             <br />
