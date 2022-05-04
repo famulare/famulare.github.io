@@ -24,15 +24,8 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <a class="page-link" href="{{ site.baseurl }}/assets/Famulare_CV.pdf">CV</a>
         </div>
-        <li class="inline-block">
-            <a
-              target="_blank"
-              class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2"
-              href="/__assets/Famulare_CV.pdf"
-              >CV</a
-            >
-          </li>
       </nav>
     {%- endif -%}
   </div>
