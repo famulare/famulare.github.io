@@ -20,7 +20,7 @@ To do this, there are three main purposes for modeling that relate to how they p
 - prediction and forecasting
 - complex interventions
 
-![closed-loop-contro](/assets/2022-05-04-The-Best-Tools-Are-Fit-For-Purpose/closed-loop-control.PNG)
+![closed-loop-control](/assets/2022-05-04-The-Best-Tools-Are-Fit-For-Purpose/closed-loop-control.PNG)
 
 It would be awesome if we could do all of the modeling steps in one big model, but infectious disease is not nearly as simple as a fighter jet or nuclear reactor or toaster oven or adjusting the blanket when it's exactly neither hot nor cold in the bedroom. Because the world is much more complex than we can model, the models we have tend to be good at (at most) one of these three roles, and so it's important to know where you plan to plug in when you choose your model. What do I mean by the three roles?
 
@@ -48,7 +48,7 @@ To that end, I think forecasting has gotten way too much attention during the pa
 
 Effective control strategies must make good choices from competing options amid uncertainty. Models of **complex interventions** help us predict the most effective ways to change the world and anticipate things that can go wrong.
 
-![complex-interventions](assets/2022-05-04-The-Best-Tools-Are-Fit-For-Purpose/complex-interventions.PNG)
+![complex-interventions](/assets/2022-05-04-The-Best-Tools-Are-Fit-For-Purpose/complex-interventions.PNG)
 
 These models are about choices, the evidence required to understand them, and the factors that going into making them. Complex intervention modeling is really important in epidemiology because everything is about trade-offs under constraints. No intervention is simple. And moreover, [reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) and we must understand which details matter and when to reliably improve things thru our actions.
 
