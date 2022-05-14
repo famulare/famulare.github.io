@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5% of the problem we can't solve becomes 100% of the problem
-tags: control known-unknowns
+tags: disease-control known-unknowns
 ---
 
 This is a post about hidden correlations.[^1]

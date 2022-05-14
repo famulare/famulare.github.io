@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best tools are fit for purpose
-tags: control situational-awareness prediction complex-interventions
+tags: disease-control situational-awareness prediction complex-interventions
 ---
 
 Through research and policy work in epidemiology, we often want to learn stuff and communicate it to help make things less bad. As an infectious disease modeler, I most often focus on learning about disease transmission and its control, to try to help fewer people get infected with nasty things, so there is less death, disability, and discontent. Since the world is so complicated, it's really important that I think through how I plan to hook into the system before I pull my favorite model or analysis technique off the shelf and start playing with computers. To that end, it's worth thinking about what models can do well.
