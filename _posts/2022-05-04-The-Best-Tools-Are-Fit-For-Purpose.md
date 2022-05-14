@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best tools are fit for purpose
-tags: control situational-awareness prediction forecasting complex-interventions
+tags: control situational-awareness prediction complex-interventions
 ---
 
 Through research and policy work in epidemiology, we often want to learn stuff and communicate it to help make things less bad. As an infectious disease modeler, I most often focus on learning about disease transmission and its control, to try to help fewer people get infected with nasty things, so there is less death, disability, and discontent. Since the world is so complicated, it's really important that I think through how I plan to hook into the system before I pull my favorite model or analysis technique off the shelf and start playing with computers. To that end, it's worth thinking about what models can do well.
@@ -38,11 +38,11 @@ From that mess of data and knowledge about the system you're working on from the
 
 ![prediction-forecasting](/assets/2022-05-04-The-Best-Tools-Are-Fit-For-Purpose/prediction-forecasting.PNG)
 
-There are at least two broad classes of predictions. Forecasts focus on taking what we know about the state of the system and assumptions about future interventions that will happen and project them forward, to predict new data of the same kind that went into the model. Models can also make structural predictions that identify features of the system that we didn’t use to build the model. A good example that was possibly by mid-2020 for COVID was seeing that if antibody levels across trials of different vaccines correlate with vaccine efficacy, then vaccine efficacy should wane as antibodies wane, even though we haven't had time to see this yet.  Checking both types of predictions helps us test how well we understand the system and give us evidence for when we need to change interventions because the system is behaving in unplanned ways.
+There are at least two broad classes of predictions. **Forecasts** focus on taking what we know about the state of the system and assumptions about future interventions that will happen and project them forward, to predict new data of the same kind that went into the model. Models can also make **structural predictions** that identify features of the system that we didn’t use to build the model. A good example that was possibly by mid-2021 for COVID was seeing that if antibody levels across trials of different vaccines correlate with vaccine efficacy, then vaccine efficacy should wane as antibodies wane, even though we haven't had time to see this yet.  Checking both types of predictions helps us test how well we understand the system and give us evidence for when we need to change interventions because the system is behaving in unplanned ways.
 
 It's important to not take predictions as truth, because quality matters a ton. When accurate, prediction is useful for many things, including prioritization, resource allocation, anticipating trials, designing interventions... When imprecise, predictions tell you when you need more information. When inaccurate, predictions can lead to ineffective or harmful actions.
 
-To that end, I think forecasting has gotten way too much attention during the pandemic, as 9 times out of 10, when someone is being given a forecast they probably need situational awareness. I much prefer modeling that doesn't take people's agency away by telling them what's gonna happen, particularly when the prective accuracy is poor. I'd much rather see modeling that helps people understand what has happened and how their actions influenced it, so they can build their own understanding of the system dynamics and make good choices in the future. I should probably write a post dedicated to this rant, now that I've defined my terms.
+To that end, I think forecasting has gotten way too much attention during the pandemic, as 9 times out of 10, when someone is being given a forecast they probably need situational awareness. I much prefer modeling that doesn't take people's agency away by telling them what's gonna happen, particularly when the predictive accuracy is poor. I'd much rather see modeling that helps people understand what has happened and how their actions influenced it, so they can build their own understanding of the system dynamics and make good choices in the future. I should probably write a post dedicated to this rant, now that I've defined my terms.
 
 ### Complex interventions
 
