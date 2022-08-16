@@ -67,3 +67,9 @@ And if you are the 1 out of 10 that needs a forecast, you probably don't want a 
 Thinking about this matters because most models are only good at one thing. So if you pick the wrong model type for your objective, you've got trouble coming. At best you'll be wrestling with the model to force it to do what you need (and so you should have a good reason to do this hard work (like, agent-based models excel for complex interventions but are rough for situational awareness (cite: [ABMs and calibration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007893))). At worst, you'll make some [ludicrous predictions because your model is unable to accommodate reality](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00100-3/fulltext).
 
 There is no one universal multitool in epi modeling. And while we should aspire to bring these closer together, we're still very far away. So think carefully about your objectives, and how you want to plug into the control loop of human activity, and choose wisely.
+
+___
+
+For attribution, please cite this work as
+
+`Famulare (2022, May 4). Nothing is one thing: The best tools are fit for purpose. Retrieved from https://famulare.github.io/2022/05/04/The-Best-Tools-Are-Fit-For-Purpose.html`

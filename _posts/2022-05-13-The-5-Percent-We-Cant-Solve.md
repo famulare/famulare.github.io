@@ -24,6 +24,12 @@ This is a post about polio eradication. Or the panic-neglect cycle and burden of
 
 ___
 
+For attribution, please cite this work as
+
+`Famulare (2022, May 13). Nothing is one thing: The 5% of the problem we can't solve becomes 100% of the problem. Retrieved from https://famulare.github.io/2022/05/13/The-5-Percent-We-Cant-Solve.html`
+
+___
+
 [^1]: It's also a post that doesn't really capture what I want to say, but let's call it a first try.
 
 [^2]: I intend the collective "We, humanity", although being a Seattlite working in global health, I must also mean the interventionist we, the personal we, the colonial we.
