@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talk today -- Choices give meaning to uncertainty.
-tags: model-building
+tags: model-building situational-awareness decision-making-under-uncertainty personal-reflection
 ---
 
 I had the privilege to give a talk today for Foundations of Biomedical Data Science seminar series hosted by the [Innovation Lab at the University of Virginia](https://www.innovation.lab.virginia.edu/).
