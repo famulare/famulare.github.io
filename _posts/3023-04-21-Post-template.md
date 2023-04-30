@@ -11,4 +11,4 @@ ___
 
 For attribution, please cite this work as:
 
-`Famulare (YYYY, Mon D). Title. Retrieved from text_link.`
+`Famulare (YYYY, Mon D). Title. Retrieved from https://famulare.github.io/YYYY/MM/DD/Title.html.`
