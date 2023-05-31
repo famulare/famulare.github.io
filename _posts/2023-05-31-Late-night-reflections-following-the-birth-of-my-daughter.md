@@ -22,7 +22,7 @@ Marisa, the brown child of mixed race parents in a white town, does not know the
 
 She saw my soul, and mine managed to catch just enough light to see hers. Tomorrow we’ll be married five years. 
 
-It’s taken an enormous amount of work from us both for me to heal enough to be capable of partnership, and for us to form a true partnership together. Through all that, we’re surviving a pandemic and the loss of our son Dominic Joseph, born and died on October 8. 2021. As we hoped for ourselves very early on, we hold hands through everything, if only with our fingers just barely touching in the hardest times.
+It’s taken an enormous amount of work from us both for me to heal enough to be capable of partnership, and for us to form a true partnership together. Through all that, we’re surviving a pandemic and the loss of our son Dominic Joseph, born and died on October 8. 2021.[^1] As we hoped for ourselves very early on, we hold hands through everything, if only with our fingers just barely touching in the hardest times.
 
 Today, at 1 in the morning, I’m holding my daughter, Rosemary Joy, born May 19, 2023, 12 days old. She rests on my shoulder after I feed her. Marisa, recovering well, sleeps upstairs, with the comfort of our sweet little dog, Niko. The house is quiet and full.
 
@@ -33,3 +33,7 @@ ___
 For attribution, please cite this work as:
 
 `Famulare (2023, May 31). Late-night reflections following the birth of my daughter. Retrieved from https://famulare.github.io/2023/05/31/Late-night-reflections-following-the-birth-of-my-daughter.html.`
+
+---
+
+[^1]: I wrote about Dominic and our loss [on Twitter](https://twitter.com/famulare_mike/status/1541749779234820096) and mirrored [on Typefully](https://typefully.com/famulare_mike/gYAAV2E).
