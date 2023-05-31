@@ -1,1 +1,1 @@
-I'm an epidemiological modeler at the [Institute for Disease Modeling](idmod.org), a research institute within Global Health at the [Bill & Melinda Gates Foundation](www.gatesfoundation.org). This is a personal blog.
+I am parts striving to be whole. Man, husband, scientist, father, child, protector, shirker, student, teacher... Everything is comnected.
