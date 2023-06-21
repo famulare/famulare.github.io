@@ -6,7 +6,9 @@ tags:  repost disease-control COVID-19 polio
 
 From time to time, I'll be reposting content from Twitter here so I have it for posterity. 
 
-This is probably my [most popular thread](https://twitter.com/famulare_mike/status/1550617477461053440?s=20) on COVID, posted 22 July 2022 and [mirrored on Typefully](https://typefully.com/famulare_mike/o7ZUHuD), in which I talk through the history of polio and what it tells us about how santitation and vaccination can interact to eliminate a highly infectious pathogen. I'm not terribly optimistic about mucosal vaccines for SARS-2, but the overall arguments stand, and I'll take thrice yearly boosters with humoral vaccines as a similarly effective consolation prize if I can! 
+This is probably my [most popular thread](https://twitter.com/famulare_mike/status/1550617477461053440?s=20) on COVID,[^1] posted 22 July 2022 and [mirrored on Typefully](https://typefully.com/famulare_mike/o7ZUHuD), in which I talk through the history of polio and what it tells us about how santitation and vaccination can interact to eliminate a highly infectious pathogen. I'm not terribly optimistic about mucosal vaccines for SARS-2, but the overall arguments stand, and I'll take thrice yearly boosters with humoral vaccines as a similarly effective consolation prize if I can! 
+
+[^1]: Second-most-popular it turns out. Helping people understand [the sitation headed into Thanksgiving 2020](https://twitter.com/famulare_mike/status/1328858771733454850) was #1. I suppose I feel good about that--I'm sure that thread saved lives. But I don't know how well we learned its lessons. Maybe this one will do more over time. One can dream anyway.
 
 The thread has been lightly modified for this format.
 
