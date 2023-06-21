@@ -77,4 +77,4 @@ ___
 
 For attribution, please cite this work as
 
-`Famulare (2023, June 20). Polio shows us the way for COVID (repost). Retrieved from https://famulare.github.io/2022/06/20/Polio-shows-us-the-way-for-COVID-repost.html`
+`Famulare (2023, June 20). Polio shows us the way for COVID (repost). Retrieved from https://famulare.github.io/2023/06/20/Polio-shows-us-the-way-for-COVID-repost.html`
