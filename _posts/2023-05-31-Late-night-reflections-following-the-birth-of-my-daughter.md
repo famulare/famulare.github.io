@@ -16,7 +16,7 @@ On this I’ve been lucky too. My whole life, I’ve been able to hear my soul s
 
 In the photon’s frame of reference, the moment it leaves the star and the moment it hits your eye are the same.
 
-Identity is a funny thing. Seven years ago, I met my wife, Marisa Kahle, now Marisa Famulare. Marisa was adopted from the Philippines by a Filipino immigrant mom and German-Irish dad who both had the right mix of talents, passports, competences, ambitions, fears, and luck to meet at work in the second half of the twentieth century in the United States. 
+Identity is a funny thing. Seven years ago, I met my wife, Marisa Kahle, now Marisa Famulare. Marisa was adopted from the Philippines by a Filipino immigrant mom and German-Irish-Polish dad who both had the right mix of talents, passports, competences, ambitions, fears, and luck to meet at work in the second half of the twentieth century in the United States. 
 
 Marisa, the brown child of mixed race parents in a white town, does not know the alienation of the soul. She is one whole person, who speaks and acts as one person, and always has. She has the right mix of talents, upbringing, competence, trust, and emotional security to thrive both inwardly and outwardly despite this society. She can see underneath the pain and alienation of others, always looking for connection, and not willing to settle for illusions of it.
 
