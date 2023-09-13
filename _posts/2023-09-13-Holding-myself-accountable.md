@@ -36,6 +36,6 @@ Reflecting on so many incidents and so many conversations, there really are thre
 
 - When the screaming perfectionist is at its loudest, do not speak. Literally do not open my mouth. Feel that pressure and use it to step away.
 
-In place of the cycle of reward for having company in Hell and self-important repentance for it is secure love and actually being the good man I front as.
+In place of the cycle of reward for having company in Hell, and self-important repentance for it, is secure love and actually being the good man I front as.
 
 I have the knowledge, I have the power, and despite as awful as I've been, I have the support. So this morning, I hereby promise to finish what I've started and stop the cycle.
