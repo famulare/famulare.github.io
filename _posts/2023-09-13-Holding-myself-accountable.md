@@ -22,17 +22,19 @@ It's incredibly selfish to bring someone else into Hell to make myself feel bett
 
 After lashing out and forcing someone else---far too often my wife---to hold me accountable, I feel guilty and ashamed. I try to love-bomb in penance and feel rejected when that doesn't fix it. My dad taught me to do this, but I know it's wrong.
 
-By playing both roles, I perpetuate this disfunction---this pattern of emotional abuse---in my family today, dominating my partner's much healthier instincts. 
+By playing both roles, I perpetuate this dysfunction---this pattern of emotional abuse---in my family today, dominating my partner's much healthier instincts. 
 
 Unlike in my childhood, where I tried so hard to fix the family and couldn't, I do uniquely have the power to fix it here. 
 
 Playing both the old roles and now my own, I have been using the power I finally have---that I want more desperately than I ever knew---to be capricious. Mostly good, in places learning to be better, but always lashing out when the flood overtakes. My wife and daughter deserve better than that. I deserve better than that too.
 
-Reflecting on so many incidents and so many conversations, there really are just two things left to do to use my power in my family and to care for myself much more reliably for good. 
+Reflecting on so many incidents and so many conversations, there really are three things left to do to use my power in my family and to care for myself much more reliably for good. 
 
 - Ask for help simply, without excuses or justification when I need it, no matter how scary and wrong it feels.
 
 - Step away immediately when the pressure to lash out is building, and honestly process my feelings.
+
+- When the screaming perfectionist is at its loudest, do not speak. Literally do not open my mouth. Feel that pressure and use it to step away.
 
 In place of the cycle of reward for having company in Hell and self-important repentance for it is secure love and actually being the good man I front as.
 
