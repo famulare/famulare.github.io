@@ -34,9 +34,12 @@ If we take seriously that $\alpha$ and $\beta$ describe the distribution of infe
 
 $$ \bar{r}_{N_{Ab}}=\frac{\frac{\alpha}{N_{Ab}^{\gamma}}}{\frac{\alpha}{N_{Ab}^{\gamma}}+\beta}$$
 
-For the poliovirus type 1 Sabin vaccine, where we have the best data, we found that $\alpha=0.44$, $\beta=14$, and $\gamma=0.46$ (ignoring uncertainty; see Table A in the [paper's supplement](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016) for more.)  For someone with no pre-existing immunity ($N_{Ab}=1$ by definition), the mean infectiousness per infectious dose CCID50 is $ \bar{r}_{N_{Ab}=1}=\frac{0.44}{0.44+14} = 0.03$. Or equivalently, roughly 1 of every 33 infectious units on average causes an infection in people with no prior immunity.
+For the poliovirus type 1 Sabin vaccine, where we have the best data, we found that $\alpha=0.44$, $\beta=14$, and $\gamma=0.46$ (ignoring uncertainty; see Table A in the [paper's supplement](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016) for more.)  For someone with no pre-existing immunity ($N_{Ab}=1$ by definition), the mean infectiousness per infectious dose CCID50 is 
 
-Similarly, for a highly-immune person with an antibody titer of $2^9=512$, the mean infectiousness per dose CCID50 is $\bar{r}_{N_{Ab}=512}=\frac{\frac{0.44}{2^{9*.46}}}{\frac{0.44}{2^{9*.46}}+14} = 0.0018$, or roughly every 1 of 560 infectious units gets through the immunity to cause an infection.
+$$\bar{r}_{N_{\text{Ab}}=1}=\frac{0.44}{0.44+14} = 0.03.$$
+Or equivalently, roughly 1 of every 33 infectious units on average causes an infection in people with no prior immunity.
+
+Similarly, for a highly-immune person with an antibody titer of $2^9=512$, the mean infectiousness per dose CCID50 is $\bar{r}_{N_{\text{Ab}}=512}=\frac{\frac{0.44}{2^{9*.46}}}{\frac{0.44}{2^{9*.46}}+14} = 0.0018$, or roughly every 1 of 560 infectious units gets through the immunity to cause an infection.
 
 This gives us a nice picture of how immunity works. Even without prior adaptive immunity, most viruses don't manage to cause an infection. Too many things go wrong, both by chance and due to other antiviral defenses we have. But, even with a lot of prior immunity, it is possible for really large doses to get through and cause an infection. [In the case of polio, the infection is much milder, shorter lived, and less likely to transmit](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468), but it's an infection nonetheless---immunity is leaky.  
 
