@@ -32,11 +32,12 @@ In the standard beta-Poisson model, there is no antibody dependence ($\gamma=0$)
 
 If we take seriously that $\alpha$ and $\beta$ describe the distribution of infectiousness per infectious unit, we can calculate the mean infectious probability and how it changes with immunity. 
 
-$$ \bar{r}_{N_{Ab}}=\frac{\frac{\alpha}{N_{Ab}^{\gamma}}}{\frac{\alpha}{N_{Ab}^{\gamma}}+\beta}$$
+$$\bar{r}_{N_{\text{Ab}}}=\frac{\frac{\alpha}{N_{\text{Ab}}^{\gamma}}}{\frac{\alpha}{N_{\text{Ab}}^{\gamma}}+\beta}$$
 
 For the poliovirus type 1 Sabin vaccine, where we have the best data, we found that $\alpha=0.44$, $\beta=14$, and $\gamma=0.46$ (ignoring uncertainty; see Table A in the [paper's supplement](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016) for more.)  For someone with no pre-existing immunity ($N_{Ab}=1$ by definition), the mean infectiousness per infectious dose CCID50 is 
 
 $$\bar{r}_{N_{\text{Ab}}=1}=\frac{0.44}{0.44+14} = 0.03.$$
+
 Or equivalently, roughly 1 of every 33 infectious units on average causes an infection in people with no prior immunity.
 
 Similarly, for a highly-immune person with an antibody titer of $2^9=512$, the mean infectiousness per dose CCID50 is $\bar{r}_{N_{\text{Ab}}=512}=\frac{\frac{0.44}{2^{9*.46}}}{\frac{0.44}{2^{9*.46}}+14} = 0.0018$, or roughly every 1 of 560 infectious units gets through the immunity to cause an infection.
@@ -53,7 +54,7 @@ With this intuition in mind, it makes sense that pre-existing adaptive immunity 
 
 Furthermore, purely mathematically, let's consider the log odds of infection for an average particle.
 
-$$\log\left(\frac{\bar{r_{N_Ab}}}{1-\bar{r_{N_Ab}}}\right)=\log\left(\frac{\alpha}{\beta}\right)-\gamma\log(N_{Ab})$$
+$$\log\left(\frac{\bar{r_{N_\text{Ab}}}}{1-\bar{r_{N_\text{Ab}}}}\right)=\log\left(\frac{\alpha}{\beta}\right)-\gamma\log(N_{\text{Ab}})$$
 
 This logit-log dependence on antibody titer is exactly how we think about neutralization in cell culture, as [discussed here for example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7973348/). 
 
