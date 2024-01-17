@@ -21,7 +21,9 @@ I kept saying "infectious unit" above because there are different definitions. O
 ## Back to polio
 
 Our poliovirus dose response model is the standard approxiamte beta-Poisson model for the probability of infection as a function of dose, with a novel dependency on pre-existing neutralizing antibody levels
-![Dose Response Model](/assets/2024-01-12-Two-fun-inferences-about-neutralizing-antibodies-and-viral-infection/dose-response-model.png) 
+
+$$ P\left(\text{infection}|\text{dose},N_{\text{Ab}}\right) = 1-\left(1+\frac{\text{dose}}{\beta}\right)^{-\alpha/\left(N_{\text{Ab}}\right)^{\gamma}}$$
+
 where $\alpha$ and $\beta$ control the distribution of the probability an infectious dose causes a human infection, $N_{Ab}$ refers to the measured neutralizing antibody titer in a person before being dosed, and $\gamma$ controls how measured antibody titers influence infectious probability.
 
 In the standard beta-Poisson model, there is no antibody dependence ($\gamma=0$). But that's one of the key questions for polio and we have a lot of data, so I came up with the antibody dependence term just by looking at the data, trying to find a one-parameter function that would work okay, and knowing that power laws come up in biology all the time so that was a good guess. This model has held up pretty well to new data since, and so we're happy to keep using it.
@@ -34,7 +36,7 @@ $$ \bar{r}_{N_{Ab}}=\frac{\frac{\alpha}{N_{Ab}^{\gamma}}}{\frac{\alpha}{N_{Ab}^{
 
 For the poliovirus type 1 Sabin vaccine, where we have the best data, we found that $\alpha=0.44$, $\beta=14$, and $\gamma=0.46$ (ignoring uncertainty; see Table A in the [paper's supplement](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016) for more.)  For someone with no pre-existing immunity ($N_{Ab}=1$ by definition), the mean infectiousness per infectious dose CCID50 is $ \bar{r}_{N_{Ab}=1}=\frac{0.44}{0.44+14} = 0.03$. Or equivalently, roughly 1 of every 33 infectious units on average causes an infection in people with no prior immunity.
 
-Similarly, for a highly-immune person with an antibody titer of $2^9=512$, the mean infectiousness per dose CCID50 is $\bar{r}_{N_{Ab}=512}=\frac{\frac{0.44}{2^{9*.46}}{\frac{0.44}{2^{9*.46}}+14} = 0.0018$, or roughly every 1 of 560 infectious units gets through the immunity to cause an infection.
+Similarly, for a highly-immune person with an antibody titer of $2^9=512$, the mean infectiousness per dose CCID50 is $\bar{r}_{N_{Ab}=512}=\frac{\frac{0.44}{2^{9*.46}}}{\frac{0.44}{2^{9*.46}}+14} = 0.0018$, or roughly every 1 of 560 infectious units gets through the immunity to cause an infection.
 
 This gives us a nice picture of how immunity works. Even without prior adaptive immunity, most viruses don't manage to cause an infection. Too many things go wrong, both by chance and due to other antiviral defenses we have. But, even with a lot of prior immunity, it is possible for really large doses to get through and cause an infection. [In the case of polio, the infection is much milder, shorter lived, and less likely to transmit](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468), but it's an infection nonetheless---immunity is leaky.  
 
@@ -65,7 +67,7 @@ But until then, it's cool to see that looking at the probability a person gets a
 
 ____
 
-[^1] I should write up something about the fractal dimensions of various tissue and organ systems, because it's super cool too. 
+[^1]: I should write up something about the fractal dimensions of various tissue and organ systems, because it's super cool too. 
 
 For attribution, please cite this work as:
 
