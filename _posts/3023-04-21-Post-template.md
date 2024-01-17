@@ -4,7 +4,7 @@ title: Template
 tags: template-tag
 ---
 
-Lorum ipsum...
+Lorum ipsum...[^1]
 
 ![image-link](/assets/3023-04-21-Post-template/image.png)
 ___
@@ -12,3 +12,7 @@ ___
 For attribution, please cite this work as:
 
 `Famulare (YYYY, Mon D). Title. Retrieved from https://famulare.github.io/YYYY/MM/DD/Title.html.`
+
+____
+
+[^1]: footnote text

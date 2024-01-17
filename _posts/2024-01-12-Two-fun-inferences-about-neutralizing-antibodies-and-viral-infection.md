@@ -67,8 +67,10 @@ But until then, it's cool to see that looking at the probability a person gets a
 
 ____
 
-[^1]: I should write up something about the fractal dimensions of various tissue and organ systems, because it's super cool too. 
-
 For attribution, please cite this work as:
 
 `Famulare (2023, Jan 12). Two fun inferences about neutralizing antibodies and viral infection. Retrieved from https://famulare.github.io/2024/01/12/Two-fun-inferences-about-neutralizing-antibodies-and-viral-infection.html.`
+
+____
+
+[^1]: I should write up something about the fractal dimensions of various tissue and organ systems, because it's super cool too. 
