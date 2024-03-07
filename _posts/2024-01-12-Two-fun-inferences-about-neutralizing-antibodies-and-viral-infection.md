@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Two fun inferences about neutralizing antibodies and viral infection
-tags: polio biophysics just-so-stories
+tags: polio biophysics night-science immunity-theory-series
 ---
+
+> **Edit March 7, 2024**: In hindsight, this is the first of what I hope will be many ["Night Science"](https://night-science.org/) posts on the fuzzy, playfully creative side of science. Many thanks to [Itan Yanai](https://twitter.com/ItaiYanai) and [Martin Lercher](https://twitter.com/MartinJLercher) for celebrating this kind of thing in the biosciences.
+
+____
 
 I find myself thinking a lot about immunity these days. What is the immune system doing? I've acquired a lot of biological knowledge over the last decade and change, but I'm not so much interested at the moment in *how* it does what it does, but why it does it and what are its constraints. 
 
@@ -77,7 +81,7 @@ ____
 
 For attribution, please cite this work as:
 
-`Famulare (2023, Jan 12). Two fun inferences about neutralizing antibodies and viral infection. Retrieved from https://famulare.github.io/2024/01/12/Two-fun-inferences-about-neutralizing-antibodies-and-viral-infection.html.`
+`Famulare (2024, Jan 12). Two fun inferences about neutralizing antibodies and viral infection. Retrieved from https://famulare.github.io/2024/01/12/Two-fun-inferences-about-neutralizing-antibodies-and-viral-infection.html.`
 
 ____
 
