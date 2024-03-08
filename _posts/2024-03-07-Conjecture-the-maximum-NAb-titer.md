@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conjecture: the maximimum possible neutralizing antibody titer
+title: Conjecture---the maximimum possible neutralizing antibody titer
 tags: polio COVID-19 biophysics night-science immunity-theory-series
 ---
 
