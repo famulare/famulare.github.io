@@ -4,7 +4,7 @@ title: I love "Night Science" but wish we didn't need the term
 tags: night-science personal-reflection
 ---
 
-[Itan Yanai](https://twitter.com/ItaiYanai) and [Martin Lercher](https://twitter.com/MartinJLercher) are doing a great service for biomedical science by pumping the idea of "Night Science" in [editorials](https://night-science.org/) and an excellent [podcast](https://night-science.org/the-night-science-podcast/).
+[Itai Yanai](https://twitter.com/ItaiYanai) and [Martin Lercher](https://twitter.com/MartinJLercher) are doing a great service for biomedical science by pumping the idea of "Night Science" in [editorials](https://night-science.org/) and an excellent [podcast](https://night-science.org/the-night-science-podcast/).
 
 "Night Science" is Yanai's term for the deeply creative, intuitive parts of science that aren't part of the day job. Night science is the shower thoughts, the things that you daydream about, the conversations a few drinks deep at the conference that aren't gossip, the stuff you find time to work on when you're not doing what you feel like you're supposed to do. Day Science is all the stuff you're supposed to do. There is no science without Day Science, but there is much less transformative science without Night Science. Must less fun science without Night Science. Night Science is the stuff of why so many of us fell in love with science in the first place. Certaintly it is for me.
 
