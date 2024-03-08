@@ -27,7 +27,7 @@ Back in the beforetimes, I was modeling poliovirus transmission across all ages 
 
 ![louisianaBoosting](/assets/2024-03-07-Conjecture-the-maximum-NAb-titer/louisianaBoosting.png)
 
-When he looked at it in terms of the boosting multiplier, post-titer over pre-titer, he found that *both the mean and the variance* of the boost went to zero (the pre-post ratio went to one) at the same place and at approximately a neutralizing antibody titer of $2^14$. 
+When he looked at it in terms of the boosting multiplier, post-titer over pre-titer, he found that *both the mean and the variance* of the boost went to zero (the pre-post ratio went to one) at the same place and at approximately a neutralizing antibody titer of $2^{14}$. 
 
 I've forever worried that this is somehow an artifact of how titering assays are done, but I've never figured out a reason for how that could be. A nice thing about 1957 is labor was cheap and people didn't know everything so they did terminal titrations on all of these and so there's no censoring to deal with like you have in every antibody titer ever done today. And this model built on one very rich figure from 1957 has helped us successfully predict the outcome of vaccine trials and field studies conducted in the last 15 years, so it seems to be a real thing.[^2]  
 
