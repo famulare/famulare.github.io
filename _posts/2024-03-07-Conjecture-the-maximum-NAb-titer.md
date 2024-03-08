@@ -93,7 +93,7 @@ ____
 
 For attribution, please cite this work as:
 
-`Famulare (2024, Mar 7). Conjecture: the maximimum possible neutralizing antibody titer. Retrieved from https://famulare.github.io/2024/03/07/Conjecture-the-maximum-possible-neutralizing-antibody-titer.html.`
+`Famulare (2024, Mar 7). Conjecture---the maximimum possible neutralizing antibody titer. Retrieved from https://famulare.github.io/2024/03/07/Conjecture-the-maximum-possible-neutralizing-antibody-titer.html.`
 
 ____
 [^1]: with 50% female authors in 1957!
