@@ -4,14 +4,16 @@ title: Conjecture---the maximimum possible neutralizing antibody titer
 tags: polio COVID-19 biophysics night-science immunity-theory-series
 ---
 
-> This is the next in what is looking like a series of ["Night Science"](https://famulare.github.io/2024/03/07/I-love-night-science-but_wish-we-didnt-need-the-term.html) posts about how the immune system works, from the point of view of someone who thinks *a lot* about the impacts of immunity on human infections but has a very incomplete and idiosynchratic knowledge of immunology. As explained in [this post](https://famulare.github.io/2024/03/07/I-love-night-science-but_wish-we-didnt-need-the-term.html), my goal in sharing this kind of thing is to show multiscale thinking in action---what does it look like to make quantitative connections across domains, with an eye toward thinking more clearly about how biology and epidemiology interact? Anyway, enjoy!
-
-
 Here's a conjecture for you: the maximum possible neutralizing antibody titer against any virus in humans is around $2^{14}$ aka $10^{4.2}$ aka $16,000$. 
 
 As in, whenever you measure neutralizing antibody titers to a pathogenic virus, no matter how many times a person has been immunized against that pathogen, you'll find the highest titer you ever measure is around $2^{14}$. This is both a statement about some approximate biological universality that is very surprising (at least to me!) and says a lot about how immune responses work, if only we can decode what it means. 
 
 In the rest of this post, I'll lay out some choice evidence, and discuss some of the "but wait how can this make any sense?"s. And remember, this is a blog post. This is Night Science. I'm hoping to spark curiosity and a discussion. I'm hoping I'm right and someone out there runs with it. And I'm hoping if I'm wrong someone will see this and tell me why. Point being, I'm hoping for connection. 
+
+> This is the next in what is looking like a series of ["Night Science"](https://famulare.github.io/2024/03/07/I-love-night-science-but_wish-we-didnt-need-the-term.html) posts about how the immune system works, from the point of view of someone who thinks *a lot* about the impacts of immunity on human infections but has a very incomplete and idiosynchratic knowledge of immunology. As explained in [this post](https://famulare.github.io/2024/03/07/I-love-night-science-but_wish-we-didnt-need-the-term.html), my goal in sharing this kind of thing is to show multiscale thinking in action---what does it look like to make quantitative connections across domains, with an eye toward thinking more clearly about how biology and epidemiology interact? Anyway, enjoy!
+
+> *Previous post in the immunity theory series*
+> - [Two fun inferences about neutralizing antibodies and viral infection](https://famulare.github.io/2024/01/12/Two-fun-inferences-about-neutralizing-antibodies-and-viral-infection.html)
 
 # The evidence
 
@@ -89,6 +91,9 @@ And at that, let me know what you think!  Especially if you think this is bonker
 
 In the next post, I'll propose a very simple model for why neutralizing antibody titers max out. From that and using our polio model, I'll show that susceptibility to infection and boosting response are both driven by the dynamics of poliovirus replication and neutralization at the cellular level. We'll speculate a bit about what the simple model tells us about how the $2^{14}$ conjecture is probably a little bit wrong, from one virus to another and one vaccine formulation to another, but probably not too wrong. Until then!
 
+> *Next post in the immunity theory series*
+> - [Hypothesis---why do neutralizing antibody titers max out?](https://famulare.github.io/2024/03/18/Hypothesis-why-do-neutralizing-antibody-titers-max-out.html)
+
 ____
 
 For attribution, please cite this work as:
@@ -102,4 +107,6 @@ ____
 
 [^3]: (My original question was could we predict the neutralizing antibody response against omicron BA.1/2 from a first dose of the bivalent vaccine in previously-immunized people by assuming it was half boosting cross-reactive wild-type antibodies and half starting a new response with omicron-specific antibodies. And the last line of my script says `# holy shirtballs, it works!` but that's a story for another day.)
 
-[^4]: "You keep saying "boosting." But the first data point is a primary response, right? What do you mean by boosting?" Funny right? One feature of the polio model and this COVID model is that it spans the entire range of neutralizing antibody responses with a single, two-parameter equation. Not shown here is it correctly predicts polio vaccine responses after the first dose. This model shows a continuous relationship, without any evidence for different mechanisms underneath. What this says to me is that the immune system is solving one math problem---how to boost in response to a bolus of antigen across the entire range of necessary (and possible!) immunity---with multiple systems (naive immunity and priming, creation of memory, then memory responses). The math problem biology needs to solve is often much simpler than how evolution cobbled together a way to solve it, but that's a story for another day.
+[^4]: "You keep saying "boosting." But the first data point is a primary response, right? What do you mean by boosting?" Funny right? One feature of the polio model and this COVID model is that it spans the entire range of neutralizing antibody responses with a single, two-parameter equation. Not shown here is it correctly predicts polio vaccine responses after the first dose. This model shows a continuous relationship, without any evidence for different mechanisms underneath. What this says to me is that the immune system is solving one math problem---how to boost in response to a bolus of antigen across the entire range of necessary (and possible!) immunity---with multiple systems (naive immunity and priming, creation of memory, then memory responses). The math problem biology needs to solve is often much simpler than how evolution cobbled together a way to solve it, but that's a story for another day. 
+**Edit: March 22, 2024.** I'm not the first to go down this road! Here's a very relevant passage from [this very relevant paper from 1984](https://www.sciencedirect.com/science/article/abs/pii/S0022519384800107?via%3Dihub)!
+![Smith1984_discussion_grab](/assets/2024-03-07-Conjecture-the-maximum-NAb-titer/Smith1984_discussion_grab.png)

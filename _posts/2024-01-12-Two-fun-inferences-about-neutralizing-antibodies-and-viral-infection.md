@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two fun inferences about neutralizing antibodies and viral infection
-tags: polio biophysics night-science immunity-theory-series
+tags: polio biophysics night-science immunity-theory-series dose-response
 ---
 
 > **Edit March 7, 2024**: In hindsight, this is the first of what I hope will be many ["Night Science"](https://night-science.org/) posts on the fuzzy, playfully creative side of science. Many thanks to [Itan Yanai](https://twitter.com/ItaiYanai) and [Martin Lercher](https://twitter.com/MartinJLercher) for celebrating this kind of thing in the biosciences.

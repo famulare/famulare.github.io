@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Polio shows us the way for COVID (repost from Twitter)
-tags:  repost disease-control COVID-19 polio
+tags:  repost disease-control COVID-19 polio dose-response
 ---
 
 From time to time, I'll be reposting content from Twitter here so I have it for posterity. 
