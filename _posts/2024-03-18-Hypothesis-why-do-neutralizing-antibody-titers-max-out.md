@@ -72,7 +72,7 @@ Equating terms, we see first that we should have
 
 $$\frac{\mu_0}{\log_2(\text{max titer})}=\gamma \tag{4}$$
 
-relating our model derived from antibody response and our model derived from susceptibility to infection. The remarkable thing is $\gamma=0.46$ and $\frac{\mu_0}{\log_2(\text{max titer})}=0.48$!  I've been lazy and not showing uncertainty intervals, but this is damn near exactly the same, and very much not significantly different!
+relating our model derived from antibody response and our model derived from susceptibility to infection. The remarkable thing is $\gamma=0.46$ and $\frac{\mu_0}{\log_2(\text{max titer})}=0.48$!  I've been lazy and not showing uncertainty intervals, but this is damn near exactly the same, and very much not significantly different with the intervals that I have!
 
 **I want you to share in my excitement. We get the exact same model, with the exact same numbers, from two very different places.  The first is from just directly measuring adaptive immune response.  The second is from fitting a model to human challenge studies for the probability a person gets infected from a range of oral doses,[^4] taking seriously the biological interpretation of the model in terms of the human infectiousness per cell culture infectious unit, and *finding empirically via this agreement* that pre-challenge neutralizing antibodies have *exactly the same effect* on both getting infected and building new responses to prevent the next infection. And the *assumption that ties them together is that this all is determined by what happens during the viral replication and propagation process at the cellular level*!**
 
@@ -105,11 +105,13 @@ For attribution, please cite this work as:
 
 `Famulare (2024, Mar 18). Hypothesis---why do neutralizing antibody titers max out? Retrieved from https://famulare.github.io/2024/03/18/Hypothesis-why-do-neutralizing-antibody-titers-max-out.html.`
 
+The script used to generate various numbers in this post can be found [here](/assets/2024-03-18-Hypothesis-why-do-neutralizing-antibody-titers-max-out/linkages_among_polio_immune_model_components.R).
+
 ____
 [^1]: but unfortunately the numbers aren't directly comparable because it's based on hemagglutinin assay inhibition titers and not neutralizing antibody titers. Different reference standard.
 
-[^2]: To my eternal shame, we fit the mean and variance separately in the paper even though we knew they should've been coupled. In my defence, I was very frazzled at the time by intense overwork on the [Seattle Flu Study](https://seattleflu.org/history) and Wes had no help debugging what I now suspect was a subtle convergence error in the fitting script when he tried to do it right. The figures and parameters mentioned in this post differ from the paper because I redid the analysis correctly here.
+[^2]: To my eternal shame, we fit the mean and variance separately in the paper even though we knew they should've been coupled. In my defence, I was very frazzled at the time by intense overwork on the [Seattle Flu Study](https://seattleflu.org/history) and Wes had no help debugging what I now suspect was a subtle convergence error in the fitting script when he tried to do it right. The figures and parameters mentioned in this post differ from the paper because I redid the analysis correctly here. 
 
 [^3]: except you might notice that at very high titer, some of the non-responder dots are inside the range of expected responses. At very high titer, responses are small enough that you can't tell from seroresponse if someone was infected in the interval or not. This should be accounted for in how I fit the model, but I was too lazy to do so. Which also means the max titer is likely biased a bit higher than the real value. Or closer to $2^{14}$ :-). 
 
-[^4]: As an aside, I started my deep dive because I couldn't make sense of the susceptibility dose response part of the original model in the [Behrend paper](https://www.ijidonline.com/article/S1201-9712(13)00297-X/fulltext), and so I re-did it my own way (and found the original was wrong but for reasonable reasons). In going down that road, I since redeveloped a bunch of other stuff, but I periodically find myself surprised that Matthew already thought and wrote about it and I forgot!
+[^4]: As an aside, I started my deep dive because I couldn't make sense of the susceptibility dose response part of the original model in the [Behrend paper](https://www.ijidonline.com/article/S1201-9712(13)00297-X/fulltext), and so I re-did it my own way (and found the original was wrong but for reasonable reasons). In going down that road, I've since redeveloped a bunch of other stuff, but I periodically find myself surprised at everything Matthew thought about, wrote about, got right, and I forgot!
