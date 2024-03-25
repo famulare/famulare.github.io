@@ -123,11 +123,11 @@ mean(c(11.1,11.2,15.3,12.9,15.5,15.2))
 
 
 pred=data.frame(preExposureTiter=2^seq(0,-1/res@coef[3],by=0.01)) |>
-  mutate(median=exp(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter)))) |>
-  mutate(lower=exp(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))-(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
-  mutate(upper=exp(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))+(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
-  mutate(lower2=exp(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))-2*(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
-  mutate(upper2=exp(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))+2*(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter)))))
+  mutate(median=2^(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter)))) |>
+  mutate(lower=2^(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))-(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
+  mutate(upper=2^(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))+(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
+  mutate(lower2=2^(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))-2*(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter))))) |>
+  mutate(upper2=2^(res@coef[1]*(1+res@coef[3]*log2(preExposureTiter))+2*(res@coef[2]*(1+res@coef[3]*log2(preExposureTiter)))))
 
 ggplot(df)+
   geom_jitter(aes(x=log2(preExposureTiter),y=postExposureTiter/preExposureTiter,color=seroconverted)) +
@@ -136,7 +136,7 @@ ggplot(df)+
   geom_ribbon(data=pred,aes(x=log2(preExposureTiter),ymin=lower,ymax=upper),alpha=0.1)+
   geom_ribbon(data=pred,aes(x=log2(preExposureTiter),ymin=lower2,ymax=upper2),alpha=0.1)+
   scale_x_continuous(breaks=(3*(0:5)))+
-  scale_y_continuous(trans='log2',breaks=2^(2*(0:5))) 
+  scale_y_continuous(trans='log2',breaks=2^(2*(0:8))) 
 
 
 ## venom

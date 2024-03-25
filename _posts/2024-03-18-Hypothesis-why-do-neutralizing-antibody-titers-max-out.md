@@ -50,11 +50,11 @@ $$ (\text{post-challenge titer}) = \text{c}*(\text{viable dose})*(\text{pre-chal
  
 ## When we look at what we know about poliovirus infectiousness in humans and antibody titers, we see something super cool
 
-What is the relevant viable dose at the start of a polio infection? Well, each infected cell makes about 1000 infectious units per replication cycle ([one source of many](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093869/)). So, in the absence of any prior immunity, the viable dose should be about 1000. But, as described in the first post in this series, we know from human challenge studies that only 1 in 33 of the typical poliovirus infectious units cause infection in an unimmized person, and that the dependence of the probability a cell culture infectious unit is infectious in a person with pre-challenge neutralizing antibody titers looks like
+What is the relevant viable dose at the start of a polio infection? Well, each infected cell makes about 900 infectious units per replication cycle ([one source of many](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093869/)). So, in the absence of any prior immunity, the viable dose should be about 900. But, as described in the first post in this series, we know from human challenge studies that only 1 in 33 of the typical poliovirus infectious units cause infection in an unimmized person, and that the dependence of the probability a cell culture infectious unit is infectious in a person with pre-challenge neutralizing antibody titers looks like
 
 $$\bar{r}_{\text{pre-challenge titer}}=\frac{1}{1+\frac{\beta}{\alpha}(\text{pre-challenge titer})^{\gamma}}$$
 
-with $\alpha=0.44$, $\beta=2.3$, and $\gamma=0.46$ for wild poliovirus ([source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016)). So the viable dose shed by each infected cell in a person is roughly $1000\bar{r}_{\text{pre-challenge titer}}$, and our simple immune response model is
+with $\alpha=0.44$, $\beta=2.3$, and $\gamma=0.46$ for wild poliovirus ([source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002468#sec016)). So the viable dose shed by each infected cell in a person is roughly $900\bar{r}_{\text{pre-challenge titer}}$, and our simple immune response model is
 
 $$ (\text{post-challenge titer}) = \text{c}*(900\bar{r}_{\text{pre-challenge titer}})*(\text{pre-challenge titer}) \tag{3} $$
 
