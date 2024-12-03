@@ -23,7 +23,7 @@ Contact network density has the same effects on polio as for any communicable di
 
 (As an aside, respiratory transmission was debated heavily back in the day, but was determined insignificant because poliovirus is only rarely found in lungs and nasal mucosa. The dismissal of the airborne route is grounded in biology and not sloppy epi. [An early reference from Sabin showing where poliovirus is found upon autopsy provides the table below](ncbi.nlm.nih.gov/pmc/articles/PMC2135158/pdf/771.pdf).)
 
-![Sabin autopsy table on where poliovirus is found](/assets/IMG_0042.png)
+![Sabin autopsy table on where poliovirus is found](/assets/2023-06-20-Polio-shows-us-the-way-for-COVID-repost/Sabin_autopsies_poliovirus_tissue_distribution.png)
 
 So, poliovirus transmission rates depend on social context, but transient superspreading through indoor air is unlikely to be a big factor. Rather, the first big factor is water and sewer sanitation.
 
@@ -51,7 +51,7 @@ First, effective mucosal vaccines, if we can get ones that work in humans, will 
 
 Similarly, as [shown by Josh Schiffer and colleagues](elifesciences.org/articles/63537) (and others) and excerpted below, there is a dose-response relationship to SARS2 transmission. With realistic indoor air interventions using current technology, we can pretty easily imagine reducing viral loads in the air also by a factor of 5 or so in lots of spaces.
 
-![Schiffer dose response](/assets/IMG_0043.png)
+![Schiffer dose response](/assets/2023-06-20-Polio-shows-us-the-way-for-COVID-repost/Goyal_sars2_dose_response.png)
 
 Realistic indoor air interventions applied at scale would turn R0=10ish to Re=2ish, which is much better than where we are today (for ex, it would eliminate flu and rsv -- much better than vaccines alone), but still kinda sucks, because long COVID and an IFR still worse than flu.
 
