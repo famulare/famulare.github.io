@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A story heard over dinner---the culture of innovation at icddr,b
-tags: complex-interventions story-time heroes-in-health culture-of-innovation
+tags: complex-interventions story-time heroes culture-of-innovation
 ---
 
 Back in 2015, I had the privilege to be at a dinner in Dhaka with [Dr. Mohammed Yunus](https://www.scopus.com/authid/detail.uri?authorId=7102140180). No, not the Nobel-winning economist, although I'm sure he's interesting company. Rather, Dr. Mohammed Yunus, the retired, long-time head of the the [Matlab health and demographic surveillance system](https://www.icddrb.org/news-and-events/features?id=16) run by [icddr,b](https://en.wikipedia.org/wiki/ICDDR,B). Dr. Yunus is as close to a hero of mine as I'm willing to let myself have[^1], and the approach to health care he and his colleagues pioneered has saved and improved countless lives. 

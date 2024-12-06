@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If I fail, he dies
-tags: template-tag
+tags: personal-reflection
 ---
 
 “All I can say is that on this earth there are pestilences and there are victims ― and it’s up to us, so far as possible, to not join forces with the pestilences.”

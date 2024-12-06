@@ -59,4 +59,4 @@ ___
 
 For attribution, please cite this work as
 
-`Famulare (2023, June 20). Nothing about birth or death is simple (repost). Retrieved from https://famulare.github.io/2022/06/20/Nothing-about-birth-or-death-is-simple-repost.html`
+`Famulare (2023, June 20). Nothing about birth or death is simple (repost). Retrieved from https://famulare.github.io/2023/06/20/Nothing-about-birth-or-death-is-simple-repost.html`
