@@ -1,0 +1,517 @@
+\documentclass{article}
+
+\usepackage{resume}
+\usepackage{color}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+
+\pagestyle{plain}
+
+\makeatletter
+\newlength{\bibhang}
+\setlength{\bibhang}{1em}
+\newlength{\bibsep}
+ {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
+\newenvironment{bibsection}
+    {\minipage[t]{\linewidth}\list{}{%
+        \setlength{\leftmargin}{\bibhang}%
+        \setlength{\itemindent}{-\leftmargin}%
+        \setlength{\itemsep}{\bibsep}%
+        \setlength{\parsep}{\z@}%
+        }}
+    {\endlist\endminipage}
+\makeatother
+\begin{document}
+
+\begin{center}
+    \textsc{ \LARGE{Michael G. Famulare} } \\
+    \Large{Curriculum Vitae} \\
+\end{center}
+
+\addresses
+     {Institute for Disease Modeling\\
+     Global Health | Gates Foundation\\
+     500 5th Ave N\\
+     Seattle, WA  98109\\
+	 Mike.Famulare``at''gatesfoundation.org}
+%----------------------
+     {
+     	\href{https://scholar.google.com/citations?user=TPWwr18AAAAJ\&hl=en}{Google Scholar} \\
+      	\href{https://www.ncbi.nlm.nih.gov/pubmed/?term=Famulare\%20M\%5BAuthor\%5D\&cauthor=true\&cauthor_uid=19922290}{Pubmed} \\ 
+     	\href{https://github.com/famulare/}{github.com/famulare} \\
+     	\href{https://twitter.com/famulare_mike}{Twitter:  @famulare\textunderscore mike} \\
+ 	 	\href{https://bsky.app/profile/famulare.bsky.social}{Bluesky: famulare}	
+  	}
+ 
+
+\begin{llist}
+
+%__________________Professional Appointments___________
+\sectiontitle{Employment} \vspace{4pt}
+
+\employer{\textbf{Institute for Disease Modeling | Global Health | Gates Foundation}}
+\location{Seattle, WA} \\
+Principal Research Scientist \location{Dec 2023 -- Present} \\
+Senior Research Manager \location{Jul 2020 -- Nov 2023} \\
+
+\employer{\textbf{Institute for Disease Modeling$\,$|$\,$Global Good$\,$|$\,$Intellectual Ventures}}
+\location{Bellevue,$\,$WA} \\
+Principal Research Scientist, co-chair of Epidemiology \location{Jan 2019 -- Jul 2020} \\
+Senior Research Scientist \location{Jan 2016 -- Dec 2018} \\
+Research Scientist \location{May 2012 -- Dec 2015} \\
+
+
+%-------------------- Education --------------------
+
+\sectiontitle{Education} \vspace{4pt}
+
+\employer{\textbf{University of Washington}} \location{Seattle, WA} \\
+Ph.D. in Physics \location{May 2012}\\
+Thesis title:  Probabilistic Neural Coding from Deterministic Neural Dynamics---mathematics and biophysics of adaptive single neuron computation. 
+
+\employer{\textbf{New York University}} \location{New York, NY}\\
+B.S. in Physics Education \location{May 2004}\\
+
+
+
+%--------------------Professional Service-------------------------+
+\sectiontitle{Professional Service} \vspace{4pt}
+
+\employer{\textbf{COVID-19 advisor to Washington State Department of Health and Gov. Inslee}} \\
+DOH Modeling Group \& Weekly DOH-IDM Modeling Briefing \location{Apr 2020 -- Jul 2021} 
+
+\employer{\textbf{\href{https://www.scanpublichealth.org}{SCAN}: the greater Seattle Coronavirus Assessment Network}} \\
+co-PI at-home COVID-19 community testing program \location{Mar 2020 -- Jul 2021} 
+
+\employer{\textbf{Global Polio Eradication Initiative}} \\
+nOPV2 Working Group:  clinical/pilot studies sub-group \location{Jan 2020 -- Mar 2020} \\
+Post-Cessation Polio Outbreak Strategic Simulation Exercise \location{Sep 2018}\\
+Cessation Risk Task Team (CRTT) \location{Jul 2016 -- Mar 2020}
+
+% \employer{\textbf{Reviewer}} \location{2015 -- Present}\\
+% American Journal of Epidemiology (AJE), Biomedical and Environmental Sciences, Clinical Microbiology and Infection, Cochrane Review (CDPLP), Journal of the Pediatric Infectious Diseases Society, PLOS Computational Biology, PLOS One, PLOS Pathogens, Proceedings of the National Academy of Sciences (PNAS), Science, Society for Modeling and Simulation International, Wellcome Trust
+
+\employer{\textbf{IDM Symposium}} \\
+Session organizer: Evolutionary Epidemiology \location{Apr 2018} \\
+Session organizer: Surveillance \location{Apr 2016}
+
+\employer{\textbf{SIAM LS10 Minisymposium} \\
+Understanding the Link Between Neuronal Dynamics and Computation} \location{Jul 2010}
+
+\employer{\textbf{University of Washington Department of Physics}}\\
+12X Labs Subcommittee \location{Jun 2009 - Jun 2010}
+
+
+
+
+%__________________Professional Development___________
+\sectiontitle{Professional Development} \vspace{4pt}
+
+\employer{\textbf{Harvard Extension School}} \location{Cambridge, MA} \\
+Managing Yourself and Leading Others \location{June 2019}\\
+Leading More Effective Teams \location{June 2019}
+
+\employer{\textbf{Summer Institute in Statistics and Modeling in Infectious Diseases}} \location{Seattle, WA}\\
+Evaluating Immune Correlates of Protection \location{July 2014}\\ 
+Evolutionary Dynamics and Molecular Epidemiology of Viruses \location{July 2012} \\
+Stochastic Epidemic Models with Inference  \location{July 2012} \\
+MCMC1 for Infectious Diseases  \location{July 2012}\\ 
+Contact Network Epidemiology  \location{July 2012}
+
+\employer{\textbf{Kavli Institute for Theoretical Physics} \location{Santa Barbara, CA} \\ Emerging Techniques in Neuroscience} \location{Sep 2010 -- Nov 2010} 
+
+\employer{\textbf{Marine Biological Laboratory}} \location{Woods Hole, MA} \\
+Methods in Computational Neuroscience \location{Aug 2009}
+
+%__________________Awards and Honors___________
+
+%\sectiontitle{Awards and Honors} \vspace{4pt}
+
+%\employer{\textbf{COSYNE Gatsby Travel Fellowship}} \location{2010} %COSYNE, Salt Lake City, UT
+
+%\employer{\textbf{Member: Sigma Pi Sigma}} \location{2004} %NYU, New York NY\\
+
+%\employer{\textbf{Member: Kappa Delta Pi}} \location{2003} %NYU, New York NY \\
+
+
+
+%-------------------- Publications --------------------
+
+\sectiontitle{Preprints}  \vspace{4pt}
+
+\begin{items}
+	
+\item[{}] For most recent, see my \href{https://www.medrxiv.org/search/author1%3AM%2BFamulare%20jcode%3Amedrxiv%20numresults%3A75%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard}{medrXiv} and \href{https://www.biorxiv.org/search/author1%3AM%2BFamulare%20jcode%3Abiorxiv%20numresults%3A75%20sort%3Apublication-date%20direction%3Adescending%20format_result%3Astandard}{biorXiv} author searches. 
+
+\item[{[7]}] N\'{u}\~{n}ez RC, Hart GR, \textbf{Famulare M}, Lorton C, Herbeck JT (2024). Using phylogenetic summary statistics for epidemiological inference. \emph{biorXiv} 2024.08.07.607080. doi:\href{https://doi.org/10.1101/2024.08.07.607080}{10.1101/2024.08.07.607080}
+
+\item[{[6]}] Thakkar N and \textbf{Famulare M} (2023). A generating function perspective on the transmission forest. \emph{arXiv} 2311.16317. doi:\href{https://doi.org/10.48550/arXiv.2311.16317}{10.48550/arXiv.2311.16317}
+
+\item[{[5]}] Thakkar N and \textbf{Famulare M}. COVID-19 epidemiology as emergent behavior on a dynamic transmission forest (2022). \emph{arXiv} 2205.02150. doi:\href{https://doi.org/10.48550/arXiv.2205.02150}{10.48550/arXiv.2205.02150}
+
+\item[{[4]}] Burstein R, Althouse BM, Adler A, Akullian A, Brandstetter E, Cho S, Emanuels A, Fay K, Gamboa L, Han P, Huden K, Ilcisin M, Izzo M, Jackson ML, Kim AE, Kimball L, Lacombe K, Lee J, Logue JK, Rogers J, Chung E, Sibley TR, Van Raay K, Wenger E, Wolf CR, Boeckh M, Chu H, Duchin J, Rieder M, Shendure J, Starita LM, Viboud C, Bedford T, Englund JA, \textbf{Famulare M} (2022). Interactions among 17 respiratory pathogens: a cross-sectional study using clinical and community surveillance data. \emph{medrXiv} 2022.02.04.22270474. doi:\href{https://doi.org/10.1101/2022.02.04.22270474}{10.1101/2021.05.31.21258018}
+	
+\item[{[3]}] Cohen JA, Stuart RM, Rosenfeld K, Lyons H, White M, Kerr CC, Klein DJ, \textbf{Famulare M} (2021). Quantifying the role of naturally- and vaccine-derived neutralizing antibodies as a correlate of protection against COVID-19 variants. \emph{medrXiv} 2021.05.31.21258018. \href{https://doi.org/10.1101/2021.05.31.21258018}{doi:10.1101/2021.05.31.21258018}
+
+\item[{[2]}] Chao DL, Oron AP, Srikrishna D, \textbf{Famulare M} (2020). Modeling layered non-pharmaceutical interventions against SARS-CoV-2 in the United States with Corvid. \emph{medrXiv}  2020.04.08.20058487. \href{https://doi.org/10.1101/2020.04.08.20058487}{doi:10.1101/2020.04.08.20058487}
+
+\item[{[1]}] \textbf{Famulare M}, Fairhall A (2011). Adaptive probabilistic neural coding from deterministic spiking neurons: analysis from first principles. \emph{arXiv} \href{https://doi.org/10.48550/arXiv.1111.0097}{doi:10.48550/arXiv.1111.0097}
+
+\end{items}
+
+    
+\sectiontitle{Journal Articles}  \vspace{4pt}
+
+\begin{items}
+
+\item[{}] For most recent, see my \href{https://scholar.google.com/citations?hl=en\&user=TPWwr18AAAAJ\&view_op=list_works\&sortby=pubdate}{Google Scholar page}.
+
+\item[{[34]}] Perofsky AC, Hansen CL, Burstein R, Boyle S, Prentice R, Marshall C, Reinhart D, Capodanno B, Truong M, Schwabe-Fry K, Kuchta K, Pfau B, Acker Z, Lee J, Sibley TR, McDermot E, Rodriguez-Salas L, Stone J, Gamboa L, Han PD, Adler A, Waghmare A, Jackson ML, \textbf{Famulare M}, Shendure J, Bedford T, Chu HY, Englund JA, Starita LM, Viboud C (2024). Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. \emph{Nature Communications} 15:4164. doi:\href{https://doi.org/10.1038/s41467-024-48528-2}{10.1038/s41467-024-48528-2}
+
+\item[{[33]}] Streicker DG, Griffiths ME, Antia R, Bergner L, Bowman P, dos Santos de Moraes MV, Esvelt K, \textbf{Famulare M}, Gilbert A, He B, Jarvis MA, Kennedy DA, Kuzma J, Nasimiyu Wanyonyi C, Remien C, Rocke T, Rosenke K, Schreiner C, Sheen J, Simons D, Yordanova IA, Bull JJ, and Nuismer SL (2024). Developing transmissible vaccines for animal infections: Intrinsically safe designs and a staged transparent development process will be essential. \emph{Science} 384:6693. doi:\href{https://doi.org/10.1126/science.adn3231}{10.1126/science.adn3231} 
+
+\item[{[32]}] Wong W, Gauld J, \textbf{Famulare M} (2023). From Vaccine to Pathogen: Modeling Sabin 2 Vaccine Virus Reversion and Evolutionary Epidemiology. \emph{Virus Evolution} 9(2):vead044.
+doi:\href{https://doi.org/10.1093/ve/vead044}{10.1093/ve/vead044}
+
+\item[{[31]}] Cohen JA, Stuart RM, Panovska-Griffiths J, Mudimu E, Abeysuriya RG, Kerr CC, \textbf{Famulare M}, Klein DJ (2023). The changing impact of vaccines in the COVID-19 pandemic. \emph{Cell Reports} S2211-1247(23)00319-4. doi:\href{https://doi.org/10.1016/j.celrep.2023.112308}{10.1016/j.celrep.2023.112308}
+
+\item[{[30]}] Hansen C, Perofsky AC, Burstein R, \textbf{Famulare M}, Boyle S, Prentice R, Marshall C, McCormick BJJ, Reinhart D, Capodanno B, Truong M, Schwabe-Fry K, Kuchta K, Pfau B, Acker Z, Lee J, Sibley TR, McDermot E, Rodriguez-Salas L, Stone J, Gamboa L, Han PD, Duchin JS, Waghmare A, Englund JA, Shendure J, Bedford T, Chu HY, Starita LM, Viboud C (2022). Trends in Risk Factors and Symptoms Associated With SARS-CoV-2 and Rhinovirus Test Positivity in King County, Washington, June 2020 to July 2022. \emph{JAMA Network OPEN} 5(12):e2245861. \href{https://doi.org/10.1001/jamanetworkopen.2022.45861}{doi:10.1001/jamanetworkopen.2022.45861}
+
+\item[{[29]}] Brouwer AF, Eisenberg MC, Shulman LM, \textbf{Famulare M}, Koopman JS, Kroiss SJ, Hindiyeh M, Manor Y, Grotto I, Eisenberg JNS (2022). The role of time-varying viral shedding in modelling environmental surveillance for public health: revisiting the 2013 poliovirus outbreak in Israel. \emph{J Roy Soc Interface} 19:20220006. \href{https://doi.org/10.1098/rsif.2022.0006}{doi:10.1098/rsif.2022.0006}
+
+\item[{[28]}] Paredes MI, Lunn SM, \textbf{Famulare M}, Frisbie LA, Painter I, Burstein R, Roychoudhury P, Xie H, Bakhash SA, Perez R, Lukes M, Ellis S, Sathees S, Mathias PC, Greninger A, Starita LM, Frazar CD, Ryke E, Zhong W, Gamboa L, Threlkeld M, Lee J, Nickerson DA, Bates DL, Hartman ME, Haugen E, Nguyen TN, Richards JD, Rodriguez JL, Stamatoyannopoulos JA, Thorland E, Melly G, Dykema PE, MacKellar DC, Gray HK, Singh A, Peterson JM, Russel D, Torres LM, Lindquist S, Bedford T, Allen KJ, Oltean H (2021). Associations between SARS-CoV-2 variants and risk of COVID-19 hospitalization among confirmed cases in Washington State: a retrospective cohort study. \emph{Clinical Infectious Diseases} ciac279. \href{https://doi.org/10.1093/cid/ciac279}{doi:10.1093/cid/ciac279}
+
+\item[{[27]}] \textbf{Famulare M}, Wong W, Haque R, Platts-Mills JA, Saha P, Aziz AB, Ahmed T, Islam MO, Uddin MJ, Bandyopadhyay AS, Yunus M, Zaman Q, Taniuchi M (2021). Multiscale model for forecasting Sabin 2 vaccine virus household and community transmission. \emph{PLOS Computational Biology} 17(2):e1009690. \href{https://doi.org/10.1371/journal.pcbi.1009690}{doi:10.1371/journal.pcbi.1009690}
+
+\item[{[26]}] Jackson ML, Hart GR, McCulloch DJ, Adler A, Brandstetter E, Fay K, Han P, Lacombe K, Lee J, Sibley TR, Nickerson DA, Rieder MJ, Starita L, Englund JA, Bedford T, Chu H, \textbf{Famulare M} (2021). Effects of weather-related social distancing on city-scale transmission of respiratory viruses: a retrospective cohort study. \emph{BMC Infectious Diseases} 21(1):335. \href{https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06028-4}{doi:10.1186/s12879-021-06028-4}
+
+\item[{[25]}] Kerr CC, Stuart RM, Mistry D, Abeysuriya R, Rosenfeld K, Hart GR, Nu\~{n}ez RC, Cohen JA, Selvaraj P, Hagedorn B, George L, Jastrzebski M, Izzo AS, Fowler G, Wagner A, Chang ST, Oron AP, Wenger EA, Panovska-Griffiths J, \textbf{Famulare M}, Klein DJ (2021). Covasim: an agent-based model of COVID-19 dynamics and interventions. \emph{PLOS Computational Biology} 17(7):e1009149. \href{https://doi.org/10.1371/journal.pcbi.1009149}{doi:10.1371/journal.pcbi.1009149}
+
+\item[{[24]}] Chung E, Chow EJ, Wilcox NC, Burstein R, Brandstetter E, Han PD, Fay K, Pfau B, Adler A, Lacombe K, Lockwood CM, Uyeki TM, Shendure J, Duchin JS, Rieder MJ, Nickerson DA, Boeckh M, \textbf{Famulare M}, Hughes JP, Starita LM, Bedford T, Englund JA, Chu HY (2021). Comparison of symptoms and RNA levels in children and adults with SARS-CoV-2 infection in the community setting. \emph{JAMA Pediatrics} 175(10):e212025. \href{https://doi.org/10.1001/jamapediatrics.2021.2025}{doi:10.1001/jamapediatrics.2021.2025}
+
+\item[{[23]}] Tordoff DM, Greninger AL, Roychoudhury P, Shrestha L, Xie H, Jerome KR, Breit N, Huang ML, \textbf{Famulare M}, Herbeck JT (2021). Phylogenetic estimates of SARS-CoV-2 introductions into Washington State. \emph{Lancet Regional Health} 1:100018. \href{https://doi.org/10.1101/2021.04.05.21254924}{doi:10.1101/2021.04.05.21254924}
+
+\item[{[22]}] Goyal A, Reeves DB, Thakkar N, \textbf{Famulare M}, Cardozo-Ojeda EF, Mayer BT, Schiffer JT (2021). Slight reduction in SARS-CoV-2 exposure viral load due to masking results in a significant reduction in transmission with widespread implementation. \emph{Scientific Reports} 11(1):11838. \href{https://doi.org/10.1038/s41598-021-91338-5}{doi:10.1038/s41598-021-91338-5}
+
+\item[{[21]}] M\"uller NF, Wagner C, Frazar CD, Roychoudhury P, Lee J, Moncla LH, Pelle B, Richardson M, Ryke E, Xie H, Shrestha L, Addetia A, Rachleff VM, Lieberman NAP, Huang ML, Gautom R, Melly G, Hiatt B, Dykema P, Adler A, Brandstetter E, Han PD, Fay K, Ilcisin M, Lacombe K, Sibley TR, Truong M, Wolf CR, Boeck M, Englund JA, \textbf{Famulare M}, Lutz BR, Rieder MJ, Thompson M, Duchin JS, Starita LM, Chu HY, Shendure J, Jerome KR, Lingquist S, Greninger AL, Nickerson DA, Bedford T (2021). \emph{Science Translational Medicine} 13(595):eabf0202. \href{https://doi.org/10.1126/scitranslmed.abf0202}{doi:10.1126/scitranslmed.abf0202}
+
+\item[{[20]}] Kerr CC, Mistry D, Stuart RM, Rosenfeld K, Hart GR, Nu\~nez RC, Cohen JA, Selvaraj P, Abeysuriya RG, Jastrzebski M, George L, Hagedorn B, Panovska-Griffiths J, Fagalde M, Duchin J, \textbf{Famulare M}, Klein DJ (2021). Controlling COVID-19 via test-trace-quarantine. \emph{Nature Communications} 12(1):2993. \href{https://doi.org/10.1038/s41467-021-23276-9}{doi:10.1038/s41467-021-23276-9}
+
+\item[{[19]}] Jackson ML, Starita L, Biniry E, Phillips CH, Wellwood S, Cho S, Kiavand A, Truong M, Han P, Richardson M, Wolf CR, Heimonen J, Nickerson DA, Chu HY, Boeckh M, Englund JA, \textbf{Famulare M}, Lutz BR, Rieder MJ, Thompson M, Shendure J, Bedford T, Adler A, Brandstetter E, Bosua J, Frazar CD, Han PD, Gulati RK, Hadfield J, Huang S, Kimball LE, Lacombe K, Logue JK, Lyon V, Newman KL, Sibley TR, Zigman Suchsland ML, Seattle Flu Study Investigators (2021). Incidence of medically attended acute respiratory illnesses due to respiratory viruses across the life course during the 2018/19 influenza season. \emph{Clinical Infectious Diseases} 73(5). \href{https://doi.org/10.1093/cid/ciab131}{doi:10.1093/cid/ciab131}
+
+\item[{[18]}] Valesano AL, Taniuchi M, Fitzsimmons WJ, Islam MO, Ahmed T, Zaman K, Haque R, Wong W, \textbf{Famulare M}, Lauring AS (2021). The early evolution of oral poliovirus vaccine is shaped by strong positive selection and tight transmission bottlenecks. \emph{Cell Host \& Microbe} 29(1). \href{https://doi.org/10.1016/j.chom.2020.10.011}{doi:10.1016/j.chom.2020.10.011}
+
+\item[{[17]}] Bedford T, Greninger AL, Roychoudhury P, Starita LM, \textbf{Famulare M}, Huang ML, Nalla A, Pepper G, Reinhardt A, Xie H, Shrestha L, Nguyen TN, Adler A, Brandstetter E, Cho S, Giroux D, Han PD, Fay K, Frazar CD, Ilcisin M, Lacombe K, Lee J, Kiavand A, Richardson M, Sibley TR, Truong M, Wolf CR, Nickerson DA, Rieder MJ, Englund JA, Seattle Flu Study Investigators, Hadfield J, Hodcroft EB, Huddleston J, Moncla LH, M\"uller NF, Neher RA, Deng X, Gu W, Federman S, Chiu C, Duchin JS, Gautom R, Melly G, Hiatt B, Dykema P, Lindquist S, Queen K, Tao Y, Uehara A, Tong S, MacCannell D, Armstrong GL, Baird GS, Chu HY, Shendure J, Jerome KR (2020). 
+Cryptic transmission of SARS-CoV-2 in Washington state. \emph{Science} 370(6516). \href{https://doi.org/10.1126/science.abc0523}{doi:10.1126/science.abc0523}
+
+\item[{[16]}] Deng X, Gu W, Federman S, Du Plessis L, Pybus O, Faria N, Wang C, Yu G, Pan CY, Guevara H, Sotomayor-Gonzalez A, Zorn K, Gopez A, Servellita V, Hsu E, Miller S, Bedford T, Greninger A, Roychoudhury P, \textbf{Famulare M}, Chu HY, Shendure J, Starita L, Anderson C, Gangavarapu K, Zeller M, Spencer E, Andersen K, MacCannell D, Tong S, Armstrong G, Paden C, Li Y, Zhang Y, Morrow S, Willis M, Matyas B, Mase S, Kasirye O, Park M, Chan C, Yu A, Chai S, Villarino E, Bonin B, Wadfored D, and Chiu CY	(2020). A Genomic Survey of SARS-CoV-2 Reveals Multiple Introductions into Northern California without a Predominant Lineage. \emph{Science} 369(6503). \href{https://doi.org/10.1126/science.abb9263}{doi:10.1126/science.abb9263}
+
+\item[{[15]}] CDC COVID Response Team, Jorden MA, Rudman SL, Villarino E, Hoferka S, Patel MT, Bemis K, Simmons CR, Jespersen M, Johnson JI, Mytty E, Arends KD, Henderson JJ, Mathes RW, Weng CX, Duchin J, Lenahan J, Close N, Bedford T, Boeckh M, Chu HY, Englund JA, \textbf{Famulare M}, Nickerson DA, Rieder MJ, Shendure J, Starita LM, Armstrong GL, Butler JC, Coletta MA, Kite-Powell A, Bhatnagar J, Reagan-Steiner S, Tong S, Flannery B, Ferdinands JM, Chung JR (2020). Evidence for limited early spread of COVID-19 within the United States, January–February 2020. \emph{MMWR} 69(22). \href{https://doi.org/10.15585/mmwr.mm6922e1}{doi:10.15585/mmwr.mm6922e1}
+
+\item[{[14]}] Chu HY, Englund JA, Starita LM, \textbf{Famulare M}, Brandstetter E, Nickerson DA, Rieder MJ, Adler A, Lacombe K, Kim AE, Graham C, Logue J, Wolf CR, Heimonen J, McCullock DJ, Han PD, Sibley TR, Lee J, Ilcisin M, Fay K, Burstein R, Martin B, Lockwood CM, Thompson M, Lutz B, Jackson M, Hughes JP, Boeckh M, Shendure J, Bedford T (2020). Early detection of Covid-19 through a citywide pandemic surveillance platform. \emph{New England Journal of Medicine} 383(2). \href{https://doi.org/10.1056/NEJMc2008646}{doi:10.1056/NEJMc2008646}
+
+\item[{[13]}] Chu HY, Boeckh M, Englund JA, \textbf{Famulare M}, Lutz BR, Nickerson DA, Rieder MJ, Starita LM, Adler A, Brandstetter E, Frazar CD, Han PD, Gulati RK, Hadfield J, Jackson ML, Kiavand A, Kimball LE, Lacombe K, Logue J, Lyon V, Newman KL, Sibley TR, Zigman Suschland ML, Wolf C, Shendure J, and Bedford T (2020). Protocol: The Seattle Flu Study: a multi-arm community-based prospective study protocol for assessing influenza prevalence, transmission, and genomic epidemiology. \emph{BMJ Open} 10(10):e037295. \href{https://doi.org/10.1136/bmjopen-2020-037295}{doi:10.1136/bmjopen-2020-037295}
+
+
+\item[{[12]}] Kroiss SJ, Ahmadzai M, Ahmed J, Alam MM, Chabot-Couture G, \textbf{Famulare M}, Mahamud A, McCarthy KA, Mercer LD, Muhammad S, Safdar RM, Sharif S, Shaukat S, Shukla H, Lyons H (2018). Assessing the sensitivity of the polio environmental surveillance system. \emph{PLOS One} 13(12):e0208336. \href{https://doi.org/10.1371/journal.pone.0208336}{doi:10.1371/journal.pone.0208336}
+
+\item[{[11]}] \textbf{Famulare M}, Selinger C, McCarthy KA, Eckhoff PA, Chabot-Couture G (2018). Assessing the stability of polio eradication after the withdrawal of oral polio vaccine. \emph{PLOS Biology} 16(4):e2002468. \href{https://doi.org/10.1371/journal.pbio.2002468}{doi:10.1371/journal.pbio.2002468}
+
+\item[{[10]}] McCarthy KA, Chabot-Couture G, \textbf{Famulare M}, Lyons HM, Mercer LD (2017). The risk of type 2 oral polio vaccine use in post-cessation outbreak response. \emph{BMC Medicine} 15(1):175. \href{https://doi.org/10.1186/s12916-017-0937-y}{doi:10.1186/s12916-017-0937-y}
+
+\item[{[9]}] Kroiss SJ, \textbf{Famulare M}, Lyons H, McCarthy KA, Mercer LD, Chabot-Couture G (2017). Evaluating cessation of the type 2 oral polio vaccine by modeling pre-and post-cessation detection rates.  \emph{Vaccine} 35(42):5674--5681. \href{https://doi.org/10.1016/j.vaccine.2017.08.048}{doi:10.1016/j.vaccine.2017.08.048}
+
+\item[{[8]}] Taniuchi M, \textbf{Famulare M}, Zaman K, Uddin MJ, Upfill-Brown AM, Ahmed T, Saha P, Haque R, Bandyopadhyay AS, Modlin JF, Platts-Mills JA, Houpt ER, Yunus M, and Petri WA (2017). Community transmission of type 2 poliovirus after cessation of trivalent oral polio vaccine in Bangladesh: an open-label cluster-randomised trial and modelling study.  \emph{Lancet Infectious Diseases} 17(1):1069--1079.  \href{https://doi.org/10.1016/S1473-3099(17)30358-4}{doi:10.1016/S1473-3099(17)30358-4}
+	
+\item[{[7]}] \textbf{Famulare M}, Change S, Iber J, Zhao K, Adeniji JA, Bukbuk D, Baba M, Behrend M, Burns CC, and Oberste MS (2016). Sabin vaccine reversion in the field: a comprehensive analysis of Sabin-like poliovirus isolates in Nigeria. \emph{Journal of Virology} 90(1):317--331. \href{https://doi.org/10.1128/JVI.01532-15}{doi:10.1128/JVI.01532-15}
+	
+\item[{[6]}] \textbf{Famulare M} (2015). Has wild poliovirus been eliminated from Nigeria? \emph{PLOS One} 10(8):e0135765. \href{https://doi.org/10.1371/journal.pone.0135765}{doi:10.1371/journal.pone.0135765}
+	
+\item[{[5]}] \textbf{Famulare M} and Hu H (2015). Extracting transmission networks from phylogeographic data for epidemic and endemic diseases: Ebola virus in Sierra Leone, 2009 H1N1 pandemic influenza and polio in Nigeria. \emph{International Health} 7(2):130--138. \href{https://doi.org/10.1093/inthealth/ihv031}{doi:10.1093/inthealth/ihv031}
+
+\item[{[4]}] Mease RA, \textbf{Famulare M}, Gjorgjieva J, Moody WJ, and Fairhall AL (2013). Emergence of adaptive computation by single neurons in the developing cortex. \emph{Journal of Neuroscience} 33(30):12154--12170. \href{https://doi.org/10.1523/JNEUROSCI.3263-12.2013}{doi:10.1523/JNEUROSCI.3263-12.2013}
+	
+\item[{[3]}] Goldwyn JH, Imennov NS, \textbf{Famulare M}, and Shea-Brown E (2011).  On stochastic differential equation models for ion channel noise in Hodgkin-Huxley neurons. \emph{Physical Review E} 83:041908. \href{https://doi.org/10.1103/PhysRevE.83.041908}{doi:10.1103/PhysRevE.83.041908}
+
+\item[{[2]}] \textbf{Famulare M}, Fairhall AL (2010). Feature selection in simple neurons: how coding depends on spiking dynamics. \emph{Neural Computation} 22:581--598. \href{https://doi.org/10.1162/neco.2009.02-09-956}{doi:10.1162/neco.2009.02-09-956}
+
+\item[{[1]}] Lundstrom BN, \textbf{Famulare M}, Sorenson LB, Spain WJ, and Fairhall AL (2009).  Sensitivity of firing rate to input fluctuations depends on time scale separation between fast and slow variables in single neurons.  \emph{J. Computational Neuroscience} 27(2):227--290. \href{https://doi.org/10.1007/s10827-009-0142-x}{doi:10.1007/s10827-009-0142-x} \\
+
+\end{items}
+
+\sectiontitle{Public Health Reports}  \vspace{4pt}
+
+\begin{items}
+	
+	\item[{[53]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (21 Jul 2021). WA Situation Report 37: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210721.pdf}{(doh.wa.gov)}
+	
+	\item[{[52]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (29 Jun 2021). WA Situation Report 36: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210630.pdf}{(doh.wa.gov)}
+	
+	\item[{[51]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (15 Jun 2021). WA Situation Report 35: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210616.pdf}{(doh.wa.gov)}
+		
+	\item[{[50]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (2 Jun 2021). WA Situation Report 34: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210603.pdf}{(doh.wa.gov)}
+	
+	\item[{[49]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (4 May 2021). WA Situation Report 33: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210519.pdf}{(doh.wa.gov)}
+	
+	\item[{[48]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (4 May 2021). WA Situation Report 32: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210505.pdf}{(doh.wa.gov)}
+		
+	\item[{[47]}] Singh G, Painter I, \textbf{Famulare M}, Thakkar N,  Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (20 Apr 2021). WA Situation Report 31: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210421.pdf}{(doh.wa.gov)}
+	
+	\item[{[46]}] Singh G, Painter I, Thakkar N, \textbf{Famulare M}, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (27 Jan 2021). WA Situation Report 25: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-01272021.pdf}{(doh.wa.gov)}
+	
+	\item[{[45]}] Nu\~nez RC, \textbf{Famulare M}, Seaman V, and Klein DJ (27 Jan 2021). In search of an effective NPI blend for COVID-19 control in rural environments: lessons learned from the early epidemic control measures in Yakima County, Washington. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Effect-of-NPIs-in-Yakima-County.pdf}{(covid.idmod.org)}
+	
+	\item[{[44]}] Burstein R, \textbf{Famulare M}, Thakkar N (19 Jan 2021). An intuitive heuristic for interpreting COVID-19 test positivity and cases per capita. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-03/reports/pdf/An_intuitive_heuristic_for_interpreting_COVID-19_test_positivity_and_cases_per_capita.pdf}{(covid.idmod.org)}
+	
+	\item[{[43]}] Thakkar N, Burstein R, \textbf{Famulare M} (16 Dec 2020). Towards robust, real-time, high-resolution COVID-19 prevalence and incidence estimation. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf}{(covid.idmod.org)}
+	
+	\item[{[42]}] Painter I, Singh G, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (9 Dec 2020). WA Situation Report 22: COVID-19 transmission across Washington State. \href{https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/WA-COVID19-Situation-Report-820-114.pdf}{(doh.wa.gov)}
+	
+	\item[{[41]}] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (25 Nov 2020). WA Situation Report 21: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_21_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[40]}] Sashidhar D, Thakkar N, McCarthy K, \textbf{Famulare M}, Burstein B (24 Nov 2020). Survival rates among hospitalized COVID-19 patients in Washington State have improved. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Covid_Mortality_Report.pdf}{(covid.idmod.org)}
+
+	\item[{[39]}] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (10 Nov 2020). WA Situation Report 20: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_20_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[38]}] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (28 Oct 2020). WA Situation Report 19: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_19_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[37]}] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (14 Oct 2020). WA Situation Report 18: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_18_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	
+	\item[{[36]}] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, \textbf{Famulare M}, Wasserman C (25 Sep 2020). WA Situation Report 17: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_17_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[35]}] Painter I,  Huynh GH, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N,  \textbf{Famulare M} (18 Sep 2020). WA Situation Report 16: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_16_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[34]}] Painter I,  Huynh GH, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N,  \textbf{Famulare M} (11 Sep 2020). WA Situation Report 15: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_15_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[33]}] Hart G, \textbf{Famulare M} (10 Sep 2020). Alongside the ongoing transmission of COVID-19, common colds are on the rise in Seattle and King County. \href{https://publichealthinsider.com/2020/09/10/alongside-the-ongoing-transmission-of-covid-19-common-colds-are-on-the-rise-in-seattle-and-king-county/}{(publichealthinsider.com)}
+	
+	\item[{[32]}] Richardson BA, Thakkar N, Lavista Ferres JM, Huynh GH, Etzioni R, Painter I,  \textbf{Famulare M} (28 Aug 2020). WA Situation Report 14: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_14_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[31]}] Thakkar N, \textbf{Famulare M} (18 Aug 2020). One state, many outbreaks: a transmission modeling perspective on current COVID-19 trends in King, Pierce, and Yakima counties. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/One_state_many_outbreaks.pdf}{(covid.idmod.org)}
+	
+	\item[{[30]}] Etzioni R, Richardson B, Lavista Ferres JM, Thakkar N, Huynh GH, Painter I,  \textbf{Famulare M} (14 Aug 2020). WA Situation Report 13: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_13_COVID-19_transmission_across_Washington_State.pdfmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[29]}] Lavista Ferres JM, Thakkar N, Etzioni R,  Huynh GH, Painter I, \textbf{Famulare M} (7 Aug 2020). WA Situation Report 12: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_12_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[28]}] Burstein R, \textbf{Famulare M} (3 Aug 2020). SCAN Data Results and Technical Report \#3. \href{https://publichealthinsider.com/wp-content/uploads/2020/08/8.3-SCAN-Technical-Report-3_FINAL_CLEAN.pdf}{(publichealthinsider.com)}
+	
+	\item[{[27]}] Etzioni R, Lavista Ferres JM, Burstein R, Huynh GH, Painter I, Gulati R, Thakkar N, \textbf{Famulare M} (31 Jul 2020). WA Situation Report 11: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_11_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[26]}] Thakkar N, Burstein R,  Lavista Ferres JM, Etzioni R,  Huynh GH, Painter I,  \textbf{Famulare M} (24 Jul 2020). WA Situation Report 10: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_10_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[25]}] Etzioni R, Lavista Ferres JM, Burstein R, Huynh GH, Painter I, Gulati R, Thakkar N, \textbf{Famulare M} (17 Jul 2020). WA Situation Report 9: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_9_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	
+	\item[{[24]}] Cohen J, Mistry D, Kerr C, \textbf{Famulare M}, Klein DJ (15 Jul 2020). Schools are not islands: we must mitigate community transmission to reopen schools.  \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf}{(covid.idmod.org)}
+	
+	\item[{[23]}] Etzioni R, Lavista Ferres JM, Huynh GH, Painter I, Gulati R, Thakkar N, \textbf{Famulare M} (26 Jun 2020). WA Situation Report 8: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_8_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[22]}] Thakkar N, Huynh GH, Etzioni R, Painter I, Lavista Ferres JM, \textbf{Famulare M} (2 Jul 2020). WA Situation Report 7: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_7_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[21]}] \textbf{Famulare M}, Hart G (2 Jul 2020). Wear your mask and keep your distance! We need you to fight the surge of COVID-19 in King County. \href{https://publichealthinsider.com/2020/07/02/wear-your-mask-and-keep-your-distance-we-need-you-to-fight-the-surge-of-covid-19-in-king-county/}{(publichealthinsider.com)}
+	
+	\item[{[20]}] Zimmermann M, Burstein R, Bennette C, Chao DL, \textbf{Famulare M} (2 Jul 2020). COVID-19 epidemic shifts younger while inequities grow wider in Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Inequities_in_COVID-19_dynamics.pdf}{(covid.idmod.org)}
+	
+	\item[{[19]}] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, \textbf{Famulare M} (26 Jun 2020). WA Situation Report 6: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_6_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[18]}] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, \textbf{Famulare M} (19 Jun 2020). WA Situation Report 5: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_5_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[17]}] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, \textbf{Famulare M} (13 Jun 2020). WA Situation Report 4: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_4_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[16]}] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, \textbf{Famulare M} (8 Jun 2020). WA Situation Report 3: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_3_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[15]}] Thakkar N, Zimmermann M, Burstein R, Wenger E, \textbf{Famulare M} (29 May 2020). Comparing COVID-19 dynamics in King and Yakima counties. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Comparing_COVID-19_dynamics_in_King_and_Yakima_counties.pdf}{(covid.idmod.org)}
+	
+	\item[{[14]}] Huynh GH, Lavista Ferres JM, Thakkar N, Painter I, \textbf{Famulare M} (26 May 2020). WA Situation Report 2: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_2_COVID-19_transmission_across_Washington_State.pdf}{(covid.idmod.org)} 
+	
+	\item[{[13]}] Burstein R, Cowgill K, \textbf{Famulare M}, Shendure J (22 May 2020). SCAN Data Results and Technical Report \#2. \href{https://publichealthinsider.com/wp-content/uploads/2020/06/new-technical-report.pdf}{(publichealthinsider.com)}
+	
+	\item[{[12]}] Thakkar N, Lavista Ferres JM, Huynh G, Painter I, \textbf{Famulare M} (15 May 2020). WA Situation Report 1: COVID-19 transmission across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID-19_transmission_patterns_across_Washington_State.pdf}{(covid.idmod.org)}
+	
+	\item[{[11]}] Thakkar N, \textbf{Famulare M} (8 May 2020). COVID-19 transmission was likely rising through April 22 across Washington State. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID-19-transmission-likely-rising-through-April22-across-Washington-State.pdf}{(covid.idmod.org)}
+	
+	\item[{[10]}] Thakkar N, Burstein R, Klein DJ, \textbf{Famulare M} (1 May 2020). Sustained reductions in transmission have led to declining COVID-19 prevalence in King County, WA. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Sustained_reductions_in_transmission_have_led_to_declining_COVID_19_prevalence_in_King_County_WA.pdf}{(covid.idmod.org)}
+	
+	\item[{[9]}] Thakkar N, Burstein R, Schripsema J, Klein D, \textbf{Famulare M} (24 Apr 2020). Short report: Updated analysis of COVID-19 transmission in 
+	King County, WA. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Updated.analysis.of_.COVID-19.transmission.in_.King_.County.pdf}{(covid.idmod.org)}
+	
+	\item[{[8]}] Burstein R, Cowgill K, \textbf{Famulare M}, Shedure J (17 Apr 2020). SCAN Technical Report \#1. \href{https://publichealthinsider.com/wp-content/uploads/2020/04/SCAN-Technical-Report-1-v2-23-APR-2020.pdf}{(publichealthinsider.com)}
+	
+	\item[{[7]}] Thakkar N. Burstein R, Klein D, Schripsema J, \textbf{Famulare M}. Physical distancing is working and still needed to prevent COVID-19 resurgence in King, Snohomish, and Pierce counties (10 Apr 2020). \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Physical_distancing_working_and_still_needed_to_prevent_COVID-19_resurgence.pdf}{(covid.idmod.org)}
+	
+	\item[{[6]}]
+	Burstein R, Hu H, Thakkar N, Schroeder A, \textbf{Famulare M}, and Klein D (30 Mar 2020).	Understanding the Impact of COVID-19 Policy Change in the Greater Seattle Area using Mobility Data. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Understanding_impact_of_COVID_policy_change_Seattle_0.pdf}{(covid.idmod.org)}
+	
+	\item[{[5]}] Thakkar N, Klein DJ, Selvaraj P, \textbf{Famulare M} (14 Mar 2020). COVID in New York City: A Model-Based Perspective. \href{https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID_Modeling_NYC.pdf}{(covid.idmod.org)}
+		
+	\item[{[4]}]
+	Klein D, Hagedorn B, Keer C, Hu H, Bedford T, and \textbf{Famulare M} (10 Mar 2020). Working paper – model-based estimates of COVID-19 burden in King and Snohomish counties through April 7, 2020. \href{https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf}{(covid.idmod.org)}
+	
+	\item[{[3]}]
+	\textbf{Famulare M} (4 Feb 2020 \& revised 19 Feb 2020). 2019-nCoV: preliminary estimates of the confirmed-case-fatality-ratio and infection-fatality-ratio, and initial pandemic risk assessment. \href{https://institutefordiseasemodeling.github.io/COVID-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html}{(github)}
+	
+	\item[{[2]}] \textbf{Famulare M}, Hart G, Althouse B, Hu H (Jan 2020). Situation Report: first generation of local transmission outside of China. \href{https://institutefordiseasemodeling.github.io/COVID-public/analyses/sitRep_local_transmission_outside_China/sitRep_local_transmission_outside_China.html}{(github)}
+	
+	\item[{[1]}] \textbf{Famulare M} (26 Jan 2020). nCoV: incubation period distribution. \href{https://institutefordiseasemodeling.github.io/COVID-public/analyses/individual_dynamics_estimates/nCoV_incubation_period.html}{(github)} \
+	
+\end{items}
+
+
+\sectiontitle{Conference Proceedings} \vspace{4pt}
+ \begin{items}
+ 	\item[{[2]}] Kerr CC, Stuart RM, Mistry D, Abeysuriya RG, Cohen JA, George L, Jastrzebski M, \textbf{Famulare M}, Wenger E, Klein DJ (2022). Python vs. the pandemic: a case study in high-stakes software development. \emph{Proc. of the 21st Python in science comp. (SCIPY 2022)}. \href{https://doi.org/10.25080/majora-212e5952-00e}{doi:10.25080/10.25080/majora-212e5952-00e}
+ 	
+  \item[{[1]}] Schlamminger S, Hagedorn CA, \textbf{Famulare MG}, Pollack SE, and Gundlach JH (2006). High Sensitivity Torsion Balance Tests for LISA Proof Mass Modeling. \emph{AIP Conference Proceedings} 873:151-157.  \href{https://doi.org/10.1063/1.2405035}{doi:10.1063/1.2405035} \\
+
+\end{items}
+
+%-------- Media
+\sectiontitle{Selected Media} 
+\vspace{4pt}
+
+{BBC Two. \href{https://www.bbc.co.uk/iplayer/episode/m000ry3q/54-days-series-1-2-america-and-the-pandemic}{54 days: America and the Pandemic} \location{2 Feb 2021}}\\
+{King 5 News.  \href{https://www.king5.com/article/news/health/coronavirus/washington-state-health-warning-against-thanksgiving-gatherings-covid-19-coronavirus-pandemic/281-43867ff1-422c-45d8-a45e-6c95ecefc909}{Don't bring COVID-19 to dinner: Washington health officials warn against holiday gatherings} \location{18 Nov 2020}}\\
+{This Podcast Will Kill You. \href{https://thispodcastwillkillyou.com/2020/05/04/covid-19-chapter-11-modeling/}{COVID-19 Chapter 11: Modeling} \href{http://thispodcastwillkillyou.com/wp-content/uploads/2021/04/TPWKY-COVID-11-Modeling.pdf}{(transcript)} \location{4 May 2020}}\\
+{The New Yorker. \href{https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not}{Seattle’s Leaders Let Scientists Take the Lead. New York’s Did Not} \location{4 May 2020}}\\
+{The New Yorker. \href{https://www.newyorker.com/news/dispatch/the-end-of-the-beginning-seattle-braces-for-the-next-phase-of-the-coronavirus-fight}{The End of the Beginning: Seattle Braces for the Next Phase of the Coronavirus Fight} \location{4 May 2020}}\\
+{Public Health Seattle \& King County. \href{https://kingcounty.gov/depts/health/news/2020/April/~/media/depts/health/news/documents/15-covid-teleconference-transcript.ashx}{Transcript of a News Teleconference}\location{14 Apr 2020}}\\
+{The Seattle Times. \href{https://www.seattletimes.com/seattle-news/how-big-will-the-coronavirus-outbreak-get-this-bellevue-scientist-is-figuring-that-out/}{How big will the coronavirus outbreak get? This Bellevue scientist is figuring that out} \location{15 Mar 2020}}\\
+{The New York Times. \href{https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html}{Coronavirus May Have Spread in U.S. for Weeks, Gene Sequencing Suggests} \location{1 Mar 2020}}
+
+
+%-------------------- Talks --------------------
+
+\sectiontitle{Invited Talks} \vspace{4pt}
+
+    {The Foundations of Biomedical Data Science. Choices Give Meaning to Uncertainty: Stories from Pandemic Emergence, Policy Advising, and (very) Personalized Medicine. \href{https://www.youtube.com/watch?v=TZrNbMG0nGY}{(recording)}} \location{Mar 2023}\\
+	{Metaculus Million Predictions Hackathon. The Best Tools are Fit for Purpose: A Perspective on Information Flow, Modeling, and Decision Making.  \href{https://www.youtube.com/watch?v=3ikps84QztA}{(recording)}} \location{Dec 2022}\\
+	{Washington State Legislature, Democratic Caucus: COVID-19 Briefing--Schools} \location{Mar 2021}\\
+	{Washington State Senate: Health and Long-term Care Committee} \location{Sep 2020}\\
+	{\href{https://www.challengeseattle.com/}{Challenge Seattle} COVID-19 Briefing} \location{Aug 2020}\\
+	{Washington State Legislature, Democratic Caucus: COVID-19 Briefing--SitRep} \location{Jul 2020}\\
+	{\href{https://www.challengeseattle.com/}{Challenge Seattle} COVID-19 Briefing} \location{Jul 2020}\\
+	{Enabling infectious disease genomics for global health, Cambridge MA} \location{Jun 2018}\\
+	{BC CDC Grand Rounds. Biological Challenges on the Path to Poliovirus Eradication.} \location{May 2018} \\
+	{Vancouver Bioinformatics Users Group (VanBUG). Evolutionary epidemiology of vaccine-derived poliovirus transmission. \href{https://www.youtube.com/watch?v=83X-HwkMp3g}{(recording)}} \location{May 2018} \\
+	{Malaria Modeling Consortium, Seattle WA} \location{May 2018}\\
+	{University of Michigan School of Public Health Seminar, Ann Arbor MA} \location{Dec 2017} \\
+	{Langer Lab Seminar (MIT), Cambridge MA} \location{Mar 2017}\\
+	{Panel: Exploring Life Sciences Careers, Boston MA} \location{Feb 2017}\\
+	{PyLadies, Seattle WA} \location{Jul 2016} \\
+	{WHO Polio Research Council, Seattle WA} \location{Apr 2016}\\
+	{IDM Symposium, Bellevue WA} \location{Apr 2016}\\ 
+	{MAC-EPID Symposium at the University of Michigan, Ann Arbor WA} \location{Mar 2016} \\
+	{Fred Hutchinson Cancer Research Institute VISC Analysis meeting, Seattle WA} \location{Apr 2015}\\
+	{Consortium for a New OPV, Napa CA} \location{Feb 2014} \\
+	{Third Northwest Computational Neuroscience Connection, Seattle WA} \location{Sep 2011} \\ %University of Washington, Seattle WA\\
+    {Methods in Computational Neuroscience, Woods Hole MA} \location{Aug 2011}\\  %{Marine Biological Laboratory, Woods Hole MA}\\
+    {Seminar: Group for Neural Theory at {l'\'{E}cole Normale Sup\'{e}riure}, Paris FR} \location{Feb 2011}\\
+	{Emerging Techniques in Neuroscience, Santa Barbara CA}  \location{Oct 2010}\\ %{ KITP, Santa Barbara CA. }\\
+    {SIAM Life Sciences, Pittsburgh PA} \location{Jul 2010}\\ %Pittsburgh PA. \\
+    {Mathematical Biology Seminar, Davis CA} \location{May 2010} %{ UC-Davis, Davis CA.} \\
+    
+
+
+%-------------------- Poster Sessions --------------------
+
+\sectiontitle{Conference Poster Sessions and Talks} \vspace{4pt}
+
+\begin{items}
+	
+	\item[{[11]}] \textbf{Famulare M}. 
+	Experience with modeling to inform COVID-19 control strategy in Washington State. Second Symposium in Global Health: Shanghai Science and Technology Exchange Center 2020.
+
+	\item[{[10]}] \textbf{Famulare M.} High-resolution mapping of respiratory pathogens in the Seattle Metro Area. Epidemics 7, 2019. 	
+	
+	\item[{[9]}] \textbf{Famulare M}. Beyond reversion: evolutionary epidemiology of vaccine-derived poliovirus transmission. II Joint Congress on Evolutionary Biology 2018.
+	
+	\item[{[8]}] \textbf{Famulare M}, Chang S, Behrend M, Stern A, Iber J, Zhao K, Adeniji A, Baba M, Burns CC, Obserste MS. Analysis of the evolutionary dynamics of live polio vaccine in cases of non-polio acute flaccid paralysis in Nigeria. NIH Translational and Regulatory Science of Polio Vaccine and Antivirals 2014. 
+	
+	\item[{[7]}] \textbf{Famulare M}, Hu H, and Behrend M. Phylogeography of infectious diseases by direct descent: a pairwise method to reconstruct transmission history from genetic sequence data. Epidemics$^4$ 2013. 
+	  
+	\item[{[6]}] Gjorgjieva J, \textbf{Famulare M}, and Fairhall AL.  Implications of single-neuron gain scaling for information transmission in networks.  COSYNE 2011.
+	
+	\item[{[5]}] Goldwyn JH, \textbf{Famulare M}, Imennov NS, Fairhall AL, Rubenstein JT, and Shea-Brown E (2011).  Rethinking approximations of channel noise in stochastic Hogkin-Huxley models.  SfN 2010.
+	
+	\item[{[4]}] Gjorgjieva J, \textbf{Famulare M}, Mease RA, and Fairhall AL.  Implications of single-neuron gain control for information transmission in networks.  SfN 2010.
+	
+	\item[{[3]}] \textbf{Famulare M}, Mease RA, and Fairhall AL.  Origins of contrast gain control in isolated cortical neurons: deriving the code from the dynamics. COSYNE 2010.
+	
+	\item[{[2]}] \textbf{Famulare M}, Wark B, Mease RA, and Fairhall AL.  Mechanisms of adaptation to stimulus statistics in neuronal systems (talk).  APS March Meeting 2010. 
+	
+	\item[{[1]}] \textbf{Famulare M} and Fairhall AL. Adaptation in simple neurons: dependence of feature selectivity on stimulus statistics. COSYNE 2009. \\
+
+\end{items}
+
+%__________________Research Support___________
+\sectiontitle{Research Support} \vspace{4pt}
+
+The Institute for Disease Modeling (IDM) is a research institute within the Global Health division of the Bill and Melinda Gates Foundation. My role is fully funded within an organization that takes no external funding. Prior to being incorporated into the Gates Foundation in July 2020, IDM was an institute within Global Good at Intellectual Ventures. My role there was also fully funded, and I received no external funding. The following represent a selection of projects on which I was/am a co-Investigator and/or a co-author of the funded proposal and for which my leadership was essential to receiving funding.  
+
+\employer{\textbf{Environmental surveillance for typhoid in Nepal.}} Bill \& Melinda Gates Foundation. Co-investigator with PI Eric Alm (Massachussets Institute of Technology). \location{Jan 2019}  %\$534,813. 
+
+\employer{\textbf{Seattle Flu Study.}} Gift from Gates Ventures. Co-Principal Investigator. \location{Nov 2018} % ~\$20,000,000
+
+\employer{\textbf{Purpose: to produce evidence for the improved community-level safety of genetically-stabilized live-attenuated polio vaccines.}} Bill \& Melinda Gates Foundation. Co-investigator with PI Mami Taniuchi (University of Virginia).  \location{Aug 2018}  %\$198,480. OPP1198444
+
+\employer{\textbf{Purpose: to fill in existing knowledge gaps of the dynamics of Sabin virus transmission at a population level and on the impact of different vaccination schedules on such potential risk of transmission.}} Bill \& Melinda Gates Foundation. Co-investigator with PI William Petri (University of Virginia).  \location{Dec 2014} %\$2,493,991. OPP112545
+
+
+%-------------------- Teaching Experience --------------    
+
+\sectiontitle{Teaching Experience} \vspace{4pt}
+
+\employer{\textbf{Instructor: Methods in Computational Neuroscience}}% \hfill \mbox{8/10 \& 8/11}}
+\location{\mbox{Aug 2010 \& Aug 2011}}
+Marine Biological Laboratory, Woods Hole, MA\\
+Lecturer: Connections between adaptive computation and single neuron dynamics.
+
+\employer{\textbf{Lead Teaching Assistant: Physics 123}}
+\location{Jun 2009 -- Jun 2010} Department of Physics, UW \\
+Introductory Physics sequence labs (1XX)
+
+\employer{\textbf{Teaching Assistant}}
+\location{Sep 2005 -- Jun 2009} Department of Physics, UW\\
+Introductory Physics sequence lectures and labs (1XX), Light and Color for non-majors (214), undergraduate Quantum Mechanics (324), Electricity and Magnetism (331), and graduate Nuclear Theory (560). 
+
+\employer{\textbf{Physics Teacher: Stuyvesant High School}}
+\location{Sep 2004 -- Jun 2005} New York, NY
+
+\employer{\textbf{Special Education Teaching Assistant: Bergen County Special Services}}
+\location{Jan 2003 -- Aug 2005} Bergen County, NJ
+
+\employer{\textbf{Student Teacher: The Beacon School}}
+\location{Sep 2003 -- Jun 2004} New York, NY 
+
+\employer{\textbf{Private Tutor}}
+\location{Feb 2000 -- Jun 2005} Boston, MA and New York, NY 
+
+%-------------------- Teaching Statement -------------
+%\sectiontitle{Teaching Philosophy} \vspace{4pt}
+
+%I believe that the primary goal of science education is to help students learn that the world is comprehensible and that they have the right and obligation to understand it as best they can. Students need to learn to reason quantitatively, troubleshoot, play constructively, ask answerable questions, and make connections between ideas. In the classroom, I demonstrate effective behaviors and try to elicit them from the students with guided questioning tailored to their needs. The right amount of frustration and its release are necessary for deep learning, and so I try to provide the proper balance between active instruction and motivational presence in both problem solving and laboratory situations. In the courses I design, I try to craft them such that students must actively ask, "what am I doing? seeing?" and "does it make sense? why?" It is my hope that successful students will better trust their abilities to figure things out for themselves and better appreciate the intellectual discipline such autonomy requires.\\
+
+\end{llist}
+
+\textbf{Date compiled}: \today.
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
