@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Kepler and scientific Epiphany (repost from Twitter)
-tags: personal-reflection model-building  repost story-time heroes
+tags: personal-reflection model-building repost story-time heroes
 ---
 
 This is a lightly-edited repost of [one of my favorite threads from Twitter](https://twitter.com/famulare_mike/status/1599327336738213888), first posted on December 4, 2002, about Kepler and scientific Epiphany. I've been thinking about this a lot lately as I reconnect to my love of the game. Enjoy!
