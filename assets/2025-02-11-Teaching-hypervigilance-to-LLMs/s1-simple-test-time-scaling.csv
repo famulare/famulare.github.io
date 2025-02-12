@@ -1,0 +1,8 @@
+﻿average_tokens,accuracy,relative_accuracy,instructions,source,figure
+999,13,22.80701754,default,https://arxiv.org/abs/2501.19393,4a AIME24 competition math
+2004,30,52.63157895,force_2048,https://arxiv.org/abs/2501.19394,4a AIME24 competition math
+3943,43,75.43859649,force_4096,https://arxiv.org/abs/2501.19395,4a AIME24 competition math
+5312,50,87.71929825,rethink_1x,https://arxiv.org/abs/2501.19396,4a AIME24 competition math
+6656,53,92.98245614,rethink_2x,https://arxiv.org/abs/2501.19397,4a AIME24 competition math
+7320,57,100,rethink_4x,https://arxiv.org/abs/2501.19398,4a AIME24 competition math
+8477,57,100,rethink_6x,https://arxiv.org/abs/2501.19399,4a AIME24 competition math
