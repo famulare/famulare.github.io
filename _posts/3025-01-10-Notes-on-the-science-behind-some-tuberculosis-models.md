@@ -20,14 +20,16 @@ Here is the paper that describes IDM's (our) original EMOD-TB parameterization. 
 - Exponential waiting with a mean time of about a year, from BCG trial in the 1950s.
     ![primary-disease-progression-rate](../assets/2025-01-10-Notes-on-the-science-behind-some-tuberculosis-models/VynnyckyFine2b_exponential_waiting_primary_disease_data.png)
     - EMOD-TB does this via latent-fast with a 0.5 year time constant and presymptomatic active of 1 year time constant, for a total fast progression to active of 1.5 years on average.
-- Table 3: endogenous (slow) progressor rate in >5yo is very slow, roughly mean waiting time of 50 years. 3-8% progress in first 5 years upon reinfection; all else at that very slow rate. Seems kids (<=5) have no slow progression.
+- Table 3: endogenous (slow) progressor rate in >5yo is very slow, roughly mean waiting time of 50 years. 3-8% progress in first 5 years upon reinfection; all else at that very slow rate. Seems kids (<=5) have no slow progression. 
     ![VynnyckyFine Table 3](../assets/2025-01-10-Notes-on-the-science-behind-some-tuberculosis-models/VynnyckyFineTable3.png)
 - Implied effect of immunity is reduce rate of active disease from reinfection by a factor of 2 or so. This is consistent with everything T-cell-mediated in infectious disease that I'm aware of. 
+- This paper is cited repeatedly for specific parameters in EMOD-TB, but it's core feature is showing the importance of reinfection during latency, which is not part of the EMOD-TB model! That's bizarre.
 
 
 
 ## [Abu-Raddad *et al* 2009](https://www.pnas.org/doi/abs/10.1073/pnas.0901720106)
-
+- The model is similar to that of Vynnycky and Fine, including reinfection during latent slow leading to latent fast ("exogenous fast"). It also allows reinfection after recovery/clearance. 
+    ![Abu-Raddad model](../assets/2025-01-10-Notes-on-the-science-behind-some-tuberculosis-models/Abu-Raddad_fig1_model.png)
 ___
 
 For attribution, please cite this work as:
