@@ -63,6 +63,7 @@ ggplot() +
   geom_rect(aes(xmin=0,xmax=d$relative_thinking_time[6],ymin=d$relative_accuracy[5],ymax=d$relative_accuracy[7]),fill='firebrick1',alpha=0.3) +
   geom_rect(aes(xmin=d$relative_thinking_time[6],xmax=d$relative_thinking_time[7],ymin=d$relative_accuracy[5],ymax=d$relative_accuracy[7]),fill='firebrick1',alpha=0.6) +
   geom_text(aes(x = d$relative_thinking_time[6]/2, y = d$relative_accuracy[5] + (d$relative_accuracy[7]-d$relative_accuracy[5])/2, label = d$label[7]),size=3) +
+  # geom_smooth(data=d,aes(x=relative_thinking_time,y=relative_accuracy),color='black',se=FALSE,size=0.5,linetype='dashed', method='loess') +
   geom_point(data=d,aes(x=relative_thinking_time,y=relative_accuracy)) +
   theme_bw() +
   xlab('relative thinking time') +
