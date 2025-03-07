@@ -9,12 +9,13 @@ names(d)
 # drop low quality probably negative binax now sample
 d = d |> filter(!(brand == 'BinaxNow' & subject=='Mike' & days_since_symptom_onset==9))
 
+# organize data
 d = d |> 
   group_by(days_since_symptom_onset, sample,brand,subject) |>
   mutate(intensity_relative_to_background = (100-percent_lightness)/(100-percent_lightness[assay=='background'])-1) |>
   ungroup() |> 
   mutate(assay = factor(assay,levels=c('covid','background','control'))) |>
-  mutate(sample = factor(sample, levels=c('nose_throat','nose','throat','stool','toilet','hepa','mask_center','mask_top_left_of_nose'))) |>
+  mutate(sample = factor(sample, levels=c('nose_throat','nose','throat','sputum','stool','toilet','hepa','mask_center','mask_top_left_of_nose'))) |>
   mutate(days_since_symptom_onset_label=paste0('day ',days_since_symptom_onset,sep='')) |>
   mutate(subject=factor(subject,levels=c('Mike','Marisa'))) |>
   mutate(days_since_symptom_onset_label = factor(days_since_symptom_onset_label, 
@@ -22,7 +23,7 @@ d = d |>
 
 d$days_since_symptom_onset_label
 
-ggplot(d |> filter(sample == 'nose_throat')) +
+ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15))) +
   geom_line(aes(x=days_since_symptom_onset,y=100-percent_lightness, group=assay, color=assay)) +
   geom_point(aes(x=days_since_symptom_onset,y=100-percent_lightness, group=assay, color=assay,shape=brand)) +
   geom_vline(data=filter(d,subject=='Mike'),aes(xintercept=3),linetype='dotted') +
@@ -33,7 +34,7 @@ ggplot(d |> filter(sample == 'nose_throat')) +
     inherit.aes = FALSE
   ) +
   facet_wrap('subject') +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
   ylab('100 - brightness (%)') +
   xlab('days since symptom onset') +
@@ -41,7 +42,7 @@ ggplot(d |> filter(sample == 'nose_throat')) +
 ggsave('absolute_darkness.png',units='in',width=6,height=3)
 
 
-ggplot(d |> filter(assay !='background' & sample == 'nose_throat')) +
+ggplot(d |> filter(assay !='background' & sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15))) +
   geom_line(aes(x=days_since_symptom_onset,y=intensity_relative_to_background, group=assay, color=assay)) +
   geom_point(aes(x=days_since_symptom_onset,y=intensity_relative_to_background, group=assay, color=assay,shape=brand)) +
   facet_wrap('subject') +
@@ -50,7 +51,7 @@ ggplot(d |> filter(assay !='background' & sample == 'nose_throat')) +
                      minor_breaks = c(seq(0.01,0.09,by=0.01),seq(0.1,0.9,by=0.1),2))  +
   ylab('darkness relative to background') +
   xlab('days since symptom onset') +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,20,by=2)) +
   geom_vline(data=filter(d,subject=='Mike'),aes(xintercept=3),linetype='dotted') +
   geom_text(
     data = data.frame(subject = factor("Mike",levels=c('Mike','Marisa')), x = 3.1, y = 0.1, label = "started\npaxlovid"),
@@ -65,7 +66,7 @@ d = d |> filter(assay !='background') |>
   group_by(days_since_symptom_onset, sample,subject) |>
   mutate(intensity_relative_to_control = intensity_relative_to_background/intensity_relative_to_background[assay=='control']) |>
   ungroup()
-ggplot(d |> filter(assay != 'control'  & sample == 'nose_throat')) +
+ggplot(d |> filter(assay != 'control'  & (sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)))) +
   geom_line(aes(x=days_since_symptom_onset,y=intensity_relative_to_control, group=assay, color=assay)) +
   geom_point(aes(x=days_since_symptom_onset,y=intensity_relative_to_control, group=assay, color=assay,shape=brand)) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
@@ -75,7 +76,7 @@ ggplot(d |> filter(assay != 'control'  & sample == 'nose_throat')) +
   ylab('background-adjusted darkness\nrelative to control') +
   xlab('days since symptom onset') +
   facet_wrap('subject') +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   geom_vline(data=filter(d,subject=='Mike'),aes(xintercept=3),linetype='dotted') +
   geom_text(
     data = data.frame(subject = factor("Mike",levels=c('Mike','Marisa')), x = 3.1, y = 0.15, label = "started\npaxlovid"),
@@ -89,11 +90,11 @@ ggsave('background-adjusted-darkness-relative-to-control.png',units='in',width=6
 d = d |> filter(assay !='control') |>
   mutate(intensity_relative_to_peak = intensity_relative_to_control/intensity_relative_to_control[days_since_symptom_onset==2 & sample=='nose_throat' & subject=='Mike'])
 
-ggplot(d |> filter(assay != 'control'& sample == 'nose_throat')) +
+ggplot(d |> filter(assay != 'control'& sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15))) +
   geom_line(aes(x=days_since_symptom_onset,y=intensity_relative_to_peak, group=subject, color=subject)) +
   geom_point(aes(x=days_since_symptom_onset,y=intensity_relative_to_peak, group=subject, color=subject,shape=brand)) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   scale_y_continuous(trans='log10',breaks=c(0.02,0.04,0.06,0.08,0.1,0.2,0.4,0.6,0.8,1.0,2),
                      minor_breaks = c(seq(0.01,0.09,by=0.01),seq(0.1,0.9,by=0.1),seq(2,9,by=1)),
                      limits=c(0.03,1.0))+
@@ -182,7 +183,7 @@ d = d |>
   mutate(estimated_genomes_relative_to_peak_high = intensity_relative_to_peak^1.4) |>
   mutate(estimated_genomes_relative_to_peak_low = intensity_relative_to_peak^3) 
 
-ggplot(d |> filter(sample == 'nose_throat') ) +
+ggplot(d |> filter(sample == 'nose_throat'  | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject)) +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
@@ -190,7 +191,8 @@ ggplot(d |> filter(sample == 'nose_throat') ) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject),linetype='dashed') +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject,shape=brand )) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  geom_point(data = d |> filter(sample == 'nose_throat' & !is_positive), aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject),color='black',shape=4) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   scale_y_continuous(trans='log10',breaks=c(0.00001,0.0003,0.001,0.003,0.01,0.03,0.1,0.3,1),
                      minor_breaks = c(seq(0.00001,0.0009,by=0.0001),seq(0.001,0.009,by=0.001),seq(0.01,0.09,by=0.01),seq(0.1,0.9,by=0.1),seq(2,9,by=1)),
                      limits=c(0.00009,1.0))+
@@ -200,15 +202,16 @@ ggplot(d |> filter(sample == 'nose_throat') ) +
   # annotate('text',x=3.1,y=0.0008,label='started\npaxlovid',hjust=0)
 ggsave('viral-load-relative-to-peak.png',units='in',width=5,height=3)
 
-ggplot(d |> filter(sample == 'nose_throat') ) +
+ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject)) +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject),linetype='dashed') +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject,shape=brand)) +
+  geom_point(data = d |> filter(sample == 'nose_throat' & !is_positive), aes(x=days_since_symptom_onset,y=estimated_genomes_relative_to_peak_mid,group=subject),color='black',shape=4) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   scale_y_continuous(breaks=seq(0,1,by=0.2),
                      minor_breaks = seq(0,1,by=0.05),
                      limits=c(0,1.0))+
@@ -216,7 +219,7 @@ ggplot(d |> filter(sample == 'nose_throat') ) +
   xlab('days since symptom onset')
 ggsave('viral-load-relative-to-peak_linear_y.png',units='in',width=5,height=3)
 
-ggplot(d |> filter(sample == 'nose_throat') ) +
+ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
   geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject)) +
   geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
@@ -242,7 +245,7 @@ ggplot(d |> filter(sample == 'nose_throat') ) +
 ggsave('viral-load-relative-to-peak_linear_y_real_time.png',units='in',width=8,height=3)
 
 
-ggplot(d |> filter(sample == 'nose_throat') ) +
+ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
   geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject)) +
   geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
@@ -277,15 +280,16 @@ d = d |>
 
 
 
-ggplot(d |> filter(sample == 'nose_throat') ) +
+ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_ct,group=subject, color=subject)) +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_ct,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_ct_low,group=subject, color=subject),linetype='dashed') +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_ct_low,group=subject, color=subject,shape=brand)) +
   geom_line(aes(x=days_since_symptom_onset,y=estimated_ct_high,group=subject, color=subject),linetype='dashed') +
   geom_point(aes(x=days_since_symptom_onset,y=estimated_ct_high,group=subject, color=subject,shape=brand)) +
+  geom_point(data = d |> filter(sample == 'nose_throat' & !is_positive), aes(x=days_since_symptom_onset,y=estimated_ct,group=subject),color='black',shape=4) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
-  scale_x_continuous(breaks=seq(1,14,by=2)) +
+  scale_x_continuous(breaks=seq(1,22,by=2)) +
   scale_y_continuous(breaks=c(15,20,25,30,35,40),
                      minor_breaks = seq(15,40,by=2.5),
                      limits=c(15,40))+
@@ -297,7 +301,7 @@ ggsave('estimated_ct.png',units='in',width=5,height=3)
 
 
 
-ggplot(d |> filter(days_since_symptom_onset %in% c(2,3,8,12,13) & subject=='Mike') ) +
+ggplot(d |> filter(days_since_symptom_onset %in% c(2,3,8,12,13,15) & subject=='Mike') ) +
   geom_segment(aes(x=sample,y=estimated_genomes_relative_to_peak_low,yend=estimated_genomes_relative_to_peak_high, group=sample)) +
   geom_point(aes(x=sample,y=estimated_genomes_relative_to_peak_mid, group=sample)) +
   facet_grid('~days_since_symptom_onset_label',scales='free_x') +
@@ -305,10 +309,10 @@ ggplot(d |> filter(days_since_symptom_onset %in% c(2,3,8,12,13) & subject=='Mike
   scale_y_continuous(trans='log10',breaks=10^seq(-7,0,1),
                      minor_breaks = 10^seq(-7,0,0.1),
                      limits=c(1e-7,1.0))+
-  ylab('viral load\n(estimated genome copies per mL)\nrelative to peak nose/throat') +
+  ylab('viral load\n(estimated genome copies per mL)\nrelative to peak nose+throat') +
   xlab('sample type') +
   theme(axis.text.x = element_text(angle = 25, vjust = 1., hjust=1))
-ggsave('mask_vs_nt_viral-load-relative-to-peak_observed.png',units='in',width=7,height=3)
+ggsave('alternate_samples_vs_nt_viral-load-relative-to-peak_observed.png',units='in',width=7,height=3)
 
 ggplot(d |> filter(days_since_symptom_onset == 2 & subject=='Mike') ) +
   geom_segment(aes(x=sample,y=estimated_ct_low,yend=estimated_ct_high, group=sample)) +
@@ -323,9 +327,9 @@ ggplot(d |> filter(days_since_symptom_onset == 2 & subject=='Mike') ) +
 ggsave('mask_vs_nt_estimated_ct.png',units='in',width=5,height=3)
 
 
-# day 8 vs day 2 comparisons
+# alternative sample comparisons
 
-d2 = d |> filter(days_since_symptom_onset %in% c(2,3,8,12,13)  & subject=='Mike')
+d2 = d |> filter(days_since_symptom_onset %in% c(2,3,8,12,13,15)  & subject=='Mike')
 
 # raw data show complete and total negative for day 8 mask sample, even after 11 hours.
 # but, to get an upper limit, we can note that day 2 mask-top was just barely detectable (brightness 3 below background)
@@ -356,18 +360,14 @@ ggplot(d2 ) +
   scale_y_continuous(trans='log10',breaks=10^seq(-8,0,1),
                      minor_breaks = 10^seq(-8,0,0.1),
                      limits=c(2e-8,1.0))+
-  ylab('viral load\n(estimated genome copies per mL)\nrelative to peak nose/throat') +
+  ylab('viral load\n(estimated genome copies per mL)\nrelative to peak nose+throat') +
   xlab('sample type') +
   theme(axis.text.x = element_text(angle = 25, vjust = 1., hjust=1))
-ggsave('mask_vs_nt_viral-load-relative-to-peak_adjusted.png',units='in',width=7,height=3)
+ggsave('alternate_samples_vs_nt_viral-load-relative-to-peak_adjusted.png',units='in',width=7,height=3)
 
 
 
 # relative infectiousness nose and mask center
-
-ref_mid = d$estimated_genomes_relative_to_peak_mid[d$days_since_first_hh_positive==2 & d$sample=='nose_throat']
-ref_high = d$estimated_genomes_relative_to_peak_high[d$days_since_first_hh_positive==2 & d$sample=='nose_throat']
-ref_low = d$estimated_genomes_relative_to_peak_low[d$days_since_first_hh_positive==2 & d$sample=='nose_throat']
 
 d3 = d2 |> filter(sample %in% c('nose_throat','mask_center','hepa')) |>
   group_by(sample) |>
@@ -388,7 +388,7 @@ ggplot(d3 |> filter(days_since_symptom_onset_label!='day 2')) +
   ylab('viral load relative to day 2') +
   xlab('sample type')  +
   theme(axis.text.x = element_text(angle = 25, vjust = 1., hjust=1))
-ggsave('relative_viral_load_relative_to_day2.png',units='in',width=3,height=3)
+ggsave('aerosol_relative_viral_load_relative_to_day2.png',units='in',width=3,height=3)
 
 
 d |> filter(subject=='Marisa') |> select(days_since_first_hh_positive,contains('estimated'))

@@ -83,3 +83,12 @@
 11,control,Flowflex,NaN,134,52.54901961,NaN,nose_throat,Marisa,NaN,14,TRUE,
 11,covid,Flowflex,NaN,122,47.84313725,NaN,nose_throat,Marisa,NaN,14,TRUE,
 11,background,Flowflex,NaN,168,65.88235294,NaN,nose_throat,Marisa,NaN,14,TRUE,
+15,control,Flowflex,12,111,43.52941176,NaN,nose,Mike,NaN,15,TRUE,
+15,covid,Flowflex,12,130,50.98039216,NaN,nose,Mike,NaN,15,TRUE,
+15,background,Flowflex,12,212,83.1372549,NaN,nose,Mike,NaN,15,TRUE,
+15,control,Flowflex,12,134,52.54901961,NaN,throat,Mike,NaN,15,TRUE,
+15,covid,Flowflex,12,189,74.11764706,NaN,throat,Mike,NaN,15,TRUE,
+15,background,Flowflex,12,204,80,NaN,throat,Mike,NaN,15,TRUE,
+15,control,Flowflex,12,131,51.37254902,NaN,sputum,Mike,NaN,15,TRUE,sample was too dilute -- low sensitivity
+15,covid,Flowflex,12,159,62.35294118,NaN,sputum,Mike,NaN,15,FALSE,
+15,background,Flowflex,12,159,62.35294118,NaN,sputum,Mike,NaN,15,TRUE,

@@ -171,3 +171,62 @@ image_df |> filter((x==125) & (y>370 & y<510)) |>
 round(0.525*255) # control
 round(0.48*255) # test
 round(0.66*255) # background
+
+
+
+
+# mike day 15 nose and throat
+image <- load.image("IMG_1507.JPEG")
+
+# Convert the image to a dataframe
+image_df <- as.data.frame(image, wide = "c") |>
+  mutate(y=max(y)-y)
+
+# plot image
+ggplot(image_df) +
+  geom_point(aes(x=x,y=y,color=c.1)) +
+  scale_color_distiller(type = "seq",direction = -1,palette = "Greys",guide='none') +
+  scale_y_continuous(breaks=seq(0,500,by=100),minor_breaks=seq(0,500,by=50))
+
+# nose test strip extraction, with approx location of the lines
+image_df |> filter((x %in% 77) & (y>250 & y<350)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.435*255) # control
+round(0.51*255) # test
+round(0.83*255) # background
+
+# throat test strip extraction, with approx location of the lines
+image_df |> filter((x %in% 232) & (y>210 & y<330)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.525*255) # control
+round(0.74*255) # test
+round(0.80*255) # background
+
+
+
+# mike day 15 sputum # sample too dilute -- low sensitivity
+image <- load.image("IMG_1508.JPEG")
+
+# Convert the image to a dataframe
+image_df <- as.data.frame(image, wide = "c") |>
+  mutate(y=max(y)-y)
+
+# plot image
+ggplot(image_df) +
+  geom_point(aes(x=x,y=y,color=c.1)) +
+  scale_color_distiller(type = "seq",direction = -1,palette = "Greys",guide='none') +
+  scale_y_continuous(breaks=seq(0,500,by=100),minor_breaks=seq(0,500,by=50))
+
+# nose test strip extraction, with approx location of the lines
+image_df |> filter((x %in% c(100,184)) & (y>370 & y<=500)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.515*255) # control
+round(0.625*255) # test
+round(0.625*255) # background
+
