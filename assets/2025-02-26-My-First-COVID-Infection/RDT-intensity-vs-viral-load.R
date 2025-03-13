@@ -220,12 +220,13 @@ ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' &
 ggsave('viral-load-relative-to-peak_linear_y.png',units='in',width=5,height=3)
 
 ggplot(d |> filter(sample == 'nose_throat' | (sample=='nose' & subject=='Mike' & days_since_symptom_onset==15)) ) +
+  geom_ribbon(aes(x=days_since_first_hh_positive,ymax=estimated_genomes_relative_to_peak_high,ymin=estimated_genomes_relative_to_peak_low,group=subject, fill=subject),alpha=0.2) +
   geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject)) +
   geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject, color=subject,shape=brand)) +
-  geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
-  geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject,shape=brand)) +
-  geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject),linetype='dashed') +
-  geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject,shape=brand)) +
+  # geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject),linetype='dashed') +
+  # geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_low,group=subject, color=subject,shape=brand)) +
+  # geom_line(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject),linetype='dashed') +
+  # geom_point(aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_high,group=subject, color=subject,shape=brand)) +
   geom_point(data = d |> filter(sample == 'nose_throat' & !is_positive), aes(x=days_since_first_hh_positive,y=estimated_genomes_relative_to_peak_mid,group=subject),color='black',shape=4) +
   theme_bw() +   scale_shape_manual(values=c(15, 16, 17, 18)) +
   scale_y_continuous(breaks=seq(0,1,by=0.2),
@@ -351,6 +352,14 @@ d2$estimated_genomes_relative_to_peak_mid[d2$days_since_symptom_onset==12 & d2$s
   1/4.25*d2$estimated_genomes_relative_to_peak_mid[d2$days_since_symptom_onset==12 & d2$sample=='mask_center']
 d2$estimated_genomes_relative_to_peak_low[d2$days_since_symptom_onset==12 & d2$sample=='mask_center'] =
   1/4.25*d2$estimated_genomes_relative_to_peak_low[d2$days_since_symptom_onset==12 & d2$sample=='mask_center']
+
+# adjust day 15 for number of hours
+d2$estimated_genomes_relative_to_peak_high[d2$days_since_symptom_onset==15 & d2$sample=='mask_center'] =
+  1/5*d2$estimated_genomes_relative_to_peak_high[d2$days_since_symptom_onset==15 & d2$sample=='mask_center']
+d2$estimated_genomes_relative_to_peak_mid[d2$days_since_symptom_onset==15 & d2$sample=='mask_center'] =
+  1/5*d2$estimated_genomes_relative_to_peak_mid[d2$days_since_symptom_onset==15 & d2$sample=='mask_center']
+d2$estimated_genomes_relative_to_peak_low[d2$days_since_symptom_onset==15 & d2$sample=='mask_center'] =
+  1/5*d2$estimated_genomes_relative_to_peak_low[d2$days_since_symptom_onset==15 & d2$sample=='mask_center']
 
 ggplot(d2 ) +
   geom_segment(aes(x=sample,y=estimated_genomes_relative_to_peak_low,yend=estimated_genomes_relative_to_peak_high, group=sample)) +

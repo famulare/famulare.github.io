@@ -230,3 +230,76 @@ round(0.515*255) # control
 round(0.625*255) # test
 round(0.625*255) # background
 
+
+
+
+# marisa day 14 
+image <- load.image("IMG_3545.JPEG")
+
+# Convert the image to a dataframe
+image_df <- as.data.frame(image, wide = "c") |>
+  mutate(y=max(y)-y)
+
+# plot image
+ggplot(image_df) +
+  geom_point(aes(x=x,y=y,color=c.1)) +
+  scale_color_distiller(type = "seq",direction = -1,palette = "Greys",guide='none') +
+  scale_y_continuous(breaks=seq(0,1200,by=100),minor_breaks=seq(0,1200,by=50))
+
+# nose test strip extraction, with approx location of the lines
+image_df |> filter((x %in% c(150)) & (y>500 & y<=700)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.52*255) # control
+round(0.745*255) # test
+round(0.78*255) # background
+
+
+
+# mike day 17 
+image <- load.image("IMG_1523.JPEG")
+
+# Convert the image to a dataframe
+image_df <- as.data.frame(image, wide = "c") |>
+  mutate(y=max(y)-y)
+
+# plot image
+ggplot(image_df) +
+  geom_point(aes(x=x,y=y,color=c.1)) +
+  scale_color_distiller(type = "seq",direction = -1,palette = "Greys",guide='none') +
+  scale_y_continuous(breaks=seq(0,1200,by=100),minor_breaks=seq(0,1200,by=50))
+
+# nose test strip extraction, with approx location of the lines
+image_df |> filter((x %in% c(200)) & (y>600 & y<=900)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.38*255) # control
+round(0.485*255) # test
+round(0.53*255) # background
+
+
+
+# mike day 19
+image <- load.image("IMG_1542.JPEG")
+
+# Convert the image to a dataframe
+image_df <- as.data.frame(image, wide = "c") |>
+  mutate(y=max(y)-y)
+
+# plot image
+ggplot(image_df) +
+  geom_point(aes(x=x,y=y,color=c.1)) +
+  scale_color_distiller(type = "seq",direction = -1,palette = "Greys",guide='none') +
+  scale_y_continuous(breaks=seq(0,1200,by=100),minor_breaks=seq(0,1200,by=50))
+
+# nose test strip extraction, with approx location of the lines
+image_df |> filter((x %in% c(90)) & (y>350 & y<=450)) |>
+  ggplot() +
+  geom_point(aes(x=y,y=c.1,color=x))
+
+round(0.48*255) # control
+round(0.79*255) # test
+round(0.81*255) # background
+

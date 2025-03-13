@@ -92,3 +92,24 @@
 15,control,Flowflex,12,131,51.37254902,NaN,sputum,Mike,NaN,15,TRUE,sample was too dilute -- low sensitivity
 15,covid,Flowflex,12,159,62.35294118,NaN,sputum,Mike,NaN,15,FALSE,
 15,background,Flowflex,12,159,62.35294118,NaN,sputum,Mike,NaN,15,TRUE,
+15,control,Flowflex,12,100,39.21568627,NaN,mask_center,Mike,5,15,TRUE,
+15,covid,Flowflex,12,200,78.43137255,NaN,mask_center,Mike,5,15,FALSE,"test was clearly negative by eye, so I didn't digitize it. This is made-up data to report that."
+15,background,Flowflex,12,200,78.43137255,NaN,mask_center,Mike,5,15,TRUE,
+13,control,Flowflex,NaN,133,52.15686275,NaN,nose_throat,Marisa,NaN,16,TRUE,
+13,covid,Flowflex,NaN,190,74.50980392,NaN,nose_throat,Marisa,NaN,16,TRUE,
+13,background,Flowflex,NaN,199,78.03921569,NaN,nose_throat,Marisa,NaN,16,TRUE,
+17,control,Flowflex,14,97,38.03921569,NaN,nose_throat,Mike,NaN,17,TRUE,
+17,covid,Flowflex,14,124,48.62745098,NaN,nose_throat,Mike,NaN,17,TRUE,
+17,background,Flowflex,14,135,52.94117647,NaN,nose_throat,Mike,NaN,17,TRUE,
+14,control,Flowflex,NaN,100,39.21568627,NaN,nose_throat,Marisa,NaN,17,TRUE,
+14,covid,Flowflex,NaN,200,78.43137255,NaN,nose_throat,Marisa,NaN,17,FALSE,"test was clearly negative by eye, so I didn't digitize it. This is made-up data to report that."
+14,background,Flowflex,NaN,200,78.43137255,NaN,nose_throat,Marisa,NaN,17,TRUE,
+18,control,Flowflex,15,99,38.82352941,NaN,nose_throat,Mike,NaN,18,TRUE,
+18,covid,Flowflex,15,161,63.1372549,NaN,nose_throat,Mike,NaN,18,TRUE,
+18,background,Flowflex,15,170,66.66666667,NaN,nose_throat,Mike,NaN,18,TRUE,
+19,control,iHealth,16,122,47.84313725,NaN,nose_throat,Mike,NaN,19,TRUE,
+19,covid,iHealth,16,201,78.82352941,NaN,nose_throat,Mike,NaN,19,TRUE,
+19,background,iHealth,16,207,81.17647059,NaN,nose_throat,Mike,NaN,19,TRUE,
+20,control,iHealth,17,100,39.21568627,NaN,nose_throat,Mike,NaN,20,TRUE,
+20,covid,iHealth,17,200,78.43137255,NaN,nose_throat,Mike,NaN,20,FALSE,"test was clearly negative by eye, so I didn't digitize it. This is made-up data to report that."
+20,background,iHealth,17,200,78.43137255,NaN,nose_throat,Mike,NaN,20,TRUE,
