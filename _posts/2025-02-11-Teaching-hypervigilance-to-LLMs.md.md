@@ -28,7 +28,7 @@ And the returns beyond checking its work twice are diminishing still. In the hyp
 
 For those of us who are especially dysregulated, we should be so lucky.
 
-As I aspire to be more less hypervigilant, I hope contemplating this graph helps me learn to stop more often after just thinking hard. To be less bimodal between default effort and hypervigilance.
+As I aspire to be less hypervigilant, I hope contemplating this graph helps me learn to stop more often after just thinking hard. To be less bimodal between default effort and hypervigilance.
 
 In this way, LLM research is useful for studying the phenomenology of intelligence, as it is for prompting introspection about ourselves. I'm bored by most debates about if linear algebra can be conscious or "truly intelligent" or whatever. Just as I'm bored by most discussions of human consciousness. That said, I'm pretty sure intelligence is a substrate-independent thing that has a lot to do with the ability to build abstract models that predict the world a being interacts with well enough to be useful to the being. Any decent measure of the degree of intelligence within a domain is a measure of that utility. Insofar as LLMs can do the same tasks we do, then studying their intelligence is probably useful for understanding ours. And vice versa. I doubt the numbers are the same, but the features seem similar enough to be interesting. 
 
