@@ -4,15 +4,15 @@ title: My First COVID Infection (personal science, reposted from Twitter)
 tags: repost COVID-19 personal-science aerosols masks viral-load rapid-tests paxlovid
 ---
 
-From time to time I repost old Twitter threads here for posterity. In February 2025 I caught COVID for the first (and so far only) time, and allowed myself the fun of running a series of at-home experiments on my own viral load and infectiousness: cutting up N-95s into rapid tests, capturing exhaled virus in a HEPA filter overnight, and turning rapid-test photos into semi-quantitative viral-load curves. I posted them as a handful of threads, now repackaged as a blog post, *with* the missing conclusion. Enjoy!
+From time to time I repost old Twitter threads here for posterity. In February 2025 I caught COVID for the first (and so far only) time, and allowed myself the fun of running a series of at-home experiments on my own viral load and infectiousness: cutting up N-95s into rapid tests, capturing exhaled virus in a HEPA filter overnight, and turning rapid-test photos into semi-quantitative viral-load curves. I posted them as a handful of threads, now repackaged as a blog post, *with* the missing conclusion. I'll end up showing my nose can scream positive while my breath is clean. Enjoy!
 
 ## ‘Twas a good run
 
-*[Posted](https://x.com/famulare_mike/status/1893061064662884675) February 21, 2025.*
+**Day 2** *February 21, 2025.*
 
 Whelp. ‘Twas a good run!
 
-![Image](../media/1893061064662884675-1893061064662884675-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893061064662884675-1893061064662884675-1.jpg)
 
 Boring so far 🤞🏻. Thought it was a cold but maybe flu (since that’s everywhere right now). Coming up red hot for Covid was a big surprise!
 
@@ -20,7 +20,7 @@ I’m gonna be chill. Also started metformin and will start pax tmrw (I’m low 
 
 ## Round 1: where's my virus?
 
-*[Posted](https://x.com/famulare_mike/status/1893095652462338263) February 22, 2025.*
+**Day 3** *February 22, 2025.*
 
 Feeling okay so far, so let the science fun begin! (Not gonna lie, I've been happy to avoid COVID for the last 5 years, but I've been looking forward to having fun with it, god-willing, when it got me.)
 
@@ -28,19 +28,19 @@ First, the red hot positive yesterday was on what I think is day 2 of symptoms. 
 
 Now, to the fun. I put a fresh 3M Vflex n-95 on for the last hour. And then I cut two pieces out. One from right in front of the mouth/nose, and one from the top side as far from the droplet "splash zone" as possible. And then put both cutouts in rapid tests.
 
-![Image](../media/1893095652462338263-1893095689095389549-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893095652462338263-1893095689095389549-1.jpg)
 
-![Image](../media/1893095652462338263-1893095689095389549-2.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893095652462338263-1893095689095389549-2.jpg)
 
-![Image](../media/1893095652462338263-1893095689095389549-3.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893095652462338263-1893095689095389549-3.jpg)
 
 Result? The line-of-fire center sample was positive after about a minute, and maybe doubled in intensity over the remaining 14 minutes. I have no cough or sneezing at all, and so this is a measure of virus excreted during tidal breathing.
 
-![Image](../media/1893095652462338263-1893095706396946940-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893095652462338263-1893095706396946940-1.jpg)
 
 The side sample from top-left of the nose was negative.
 
-![Image](../media/1893095652462338263-1893095722377183309-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893095652462338263-1893095722377183309-1.jpg)
 
 Each sample was about 1 cm^2 in area, from a total x-sectional mask area of ~200 cm^2. With the mask on, the side surface is nearly parallel with the breath jet, and is far off-axis. So the effective x-section is very low.
 
@@ -50,23 +50,23 @@ This can't disambiguate droplet from fine aerosol shedding. I'll put a mask cuto
 
 ## Round 2: it’s airborne!
 
-*[Posted](https://x.com/famulare_mike/status/1893370704663568511) February 22, 2025.*
+**Day 3** *February 22, 2025.*
 
 Last night, I put a mask filter inside my hepa and left it near my pillow, in the direction I tend to face while sleeping, about 18 inches away. Because the mask was inside the machine, there was no path for ballistic droplets to get to it. Only exposure is fine aerosols.
 
-![Image](../media/1893370704663568511-1893370749051904069-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893370704663568511-1893370749051904069-1.jpg)
 
-![Image](../media/1893370704663568511-1893370749051904069-2.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893370704663568511-1893370749051904069-2.jpg)
 
 Why near the pillow? Because I also ran the fan blowing out to keep viral concentrations low and to prevent leakage into the house. CO2 ~525ppm all night.
 
-![Image](../media/1893370704663568511-1893370768345702502-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893370704663568511-1893370768345702502-1.jpg)
 
 Result after testing a square centimeter of mask filter? Positive! (Nose/throat this morning on left, overnight HEPA on right).
 
-![Image](../media/1893370704663568511-1893370803523367258-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893370704663568511-1893370803523367258-1.jpg)
 
-![Image](../media/1893370704663568511-1893370803523367258-2.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1893370704663568511-1893370803523367258-2.jpg)
 
 Despite only covering ~1/4 the hepa filter surface with a mask, and being in a very well ventilated room, I got direct evidence of virus excretion on fine aerosols. Not a surprise as it’s been very well studied, but fun to see at home! There really is no room left for doubt.
 
@@ -74,25 +74,25 @@ Thankfully still feeling fine. Started paxlovid this morning, so the next round 
 
 ## Brief interlude
 
-*[Posted](https://x.com/famulare_mike/status/1894124001204867424) February 24, 2025.*
+**Day 5** *February 24, 2025.*
 
 Viral load still frustratingly high despite two days of paxlovid and metformin. Not a surprise given the data, but still. 😡
 
 So how do we help keep the bathroom clear, since we don’t have hepas and windows like everywhere else? Far UV-C from @NukitToBeSure!
 
-![Image](../media/1894124001204867424-1894124001204867424-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894124001204867424-1894124001204867424-1.jpg)
 
-![Image](../media/1894124001204867424-1894124001204867424-2.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894124001204867424-1894124001204867424-2.jpg)
 
 Unfortunately my wife tested positive Sunday. I probably got her in the first twelve hours overnight, before the v-flex came out. Toddler still negative, and as asymptomatic as she ever is at this age, so I’m putting the 10,000x fit factor of a 3M v-flex to the test! 🤞🏻
 
 ## Observations on viral load (Fun inside!)
 
-*[Posted](https://x.com/famulare_mike/status/1894899637217304636) February 26, 2025.*
+**Day 7** *February 26, 2025.*
 
 Viral load plummeted after 4 days of Paxlovid. I did some math (somewhere between back-of-the-envelope and semi-quantitative modeling) to estimate changes in viral load.
 
-![Image](../media/1894899637217304636-1894899637217304636-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899637217304636-1.jpg)
 
 As you can see, I went from screaming hot viral load on symptomatic days 2 thru 5, to very low but still detectable on day 7. Along the way, on day 5, I lost much of my sense of taste and smell, but it started coming back yesterday and is not bad today.
 
@@ -100,21 +100,21 @@ Because I'm annoyed we don't have app readers to turn rapid tests into semiquant
 
 First, convert to grayscale and use a color picker to grab approximate absolute brightness data for the test line, the control line, and the test strip background. Put that in a spreadsheet and plot.
 
-![Image](../media/1894899637217304636-1894899689578979735-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899689578979735-1.jpg)
 
-![Image](../media/1894899637217304636-1894899689578979735-2.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899689578979735-2.png)
 
 Second, normalize the test and control data by the background to get the excess darkness relative to the lighting and materials (and put it on a log scale). The control line is less variable now, although there is still a difference between flowflex (day 2,7) and iHealth.
 
-![Image](../media/1894899637217304636-1894899705106309477-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899705106309477-1.png)
 
 So, we go one step further to normalize the test line darkness relative to the control. And now we have a nice time trend of antigen detected.
 
-![Image](../media/1894899637217304636-1894899720667177320-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899720667177320-1.png)
 
 And since the y-axis units don't have an absolute scale anymore, let's also just plot it as adjusted darkness relative to peak. What we see by eye at the top is now clear: after a small decline in antigen detected over the first 5 days, day 7 was ~12x less intense.
 
-![Image](../media/1894899637217304636-1894899736316125345-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899736316125345-1.png)
 
 From there, what does that mean for my viral load (and likely infectiousness). For that, we need some idea of how more quantitative measures like pcr ct and genome copies vary with lateral flow test antigen binding. I couldn't find one paper that does that for either test, so I stitched together some bits from a few papers to get the gist.
 
@@ -130,9 +130,9 @@ And the dynamic range of rapid tests with pcr ct is well-known to be something l
 
 So anyway, with that in mind, I can stitch together estimates of the pcr-equivalent ct value I would've likely had, and the relative genome copies from peak. Here ya go!
 
-![Image](../media/1894899637217304636-1894899818742587738-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899818742587738-1.png)
 
-![Image](../media/1894899637217304636-1894899818742587738-2.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1894899637217304636-1894899818742587738-2.png)
 
 This is cool, because I find it really useful to know that I'm something like 30-200x less infectious per minute of contact than I was a few days ago.
 
@@ -146,7 +146,7 @@ We could know so much more about bespoke, personalized infectiousness! Which wou
 
 ## Relative infectiousness via mask samples
 
-*[Posted](https://x.com/famulare_mike/status/1895616959083053369) February 28, 2025.*
+**Day 9** *February 28, 2025.*
 
 > tl;dr: I'm probably at least 5000x less contagious yesterday (day 8 of symptoms, day 5 of Paxlovid) than I was on day 2 (peak).
 
@@ -160,15 +160,15 @@ Unfortunately, I only have two good mask samples (because I wasn't planning on d
 
 The day 2 mask after an hour was positive, solidly at the mouth and juuuust barely at the top by the nose, out of the jet zone. (The side sample looks negative by eye, but the brightness dips very slightly, from background ~140/255 to test ~137/255, as seen with a color picker.)
 
-![Image](../media/1895616959083053369-1895617024023560371-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1895616959083053369-1895617024023560371-1.jpg)
 
 The day 8 mask, even after 11 hours, was NEGATIVE negative. No signal from background at all.
 
-![Image](../media/1895616959083053369-1895617040641400957-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1895616959083053369-1895617040641400957-1.jpg)
 
 So, just for fun, the figures below shows the precise estimate for the relative viral load for the nose and mask on day 8 vs day 2, and the upper bound for the mask.
 
-![Image](../media/1895616959083053369-1895617056697114989-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1895616959083053369-1895617056697114989-1.png)
 
 As you can see, quantitatively, I’m at least 5000x less contagious via the air than yesterday (and possibly infinitely less). So, I am very very likely no longer contagious! I’m also at least 70x less infectious by saliva. So I probably can't infect anyone else now!
 
@@ -188,17 +188,17 @@ Daughter holding negative. Thanks masks, HEPAs, and windows!
 
 ## Rebound
 
-*[Posted](https://x.com/famulare_mike/status/1897429800710758413) March 5, 2025.*
+**Day 14** *March 5, 2025.*
 
 The Famulare family COVID saga continues. Up today: rebound 🤬
 
 With my wife Marisa's consent, here is our estimated nose/throat viral load history relative to peak since I first tested positive on day 2 of my symptoms. We're both experiencing rebound!
 
-![Image](../media/1897429800710758413-1897436010059063614-1.jpg)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1897429800710758413-1897436010059063614-1.jpg)
 
 Here's the same with log10-y. So yeah, we've both rebounded. I took paxlovid days 3-7 (and have been on metformin since day 2). My load crashed by day 7 and went negative days 9 and 10. Marisa hasn't had any treatments, and never went negative, but 10-fold rebound regardless.
 
-![Image](../media/1897429800710758413-1897429818641408078-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1897429800710758413-1897429818641408078-1.png)
 
 First, it's annoying! We're very ready to be done. We're tired of not having Marisa's parents visit. Of masking around our toddler (who hasn't caught it yet, as far as tests and symptoms say). Of runny noses. Of being tired. And Marisa, who has had it worse, is tired of coughing!
 
@@ -216,7 +216,7 @@ That said, I've tried three different approaches to get a fecal rapid test, but 
 
 So anyway, stool sampling with rapid tests has been a letdown, but mask, hepa, nose, and throat sampling have been interesting! Here's a panel of days I tested samples from sites other than combined nose-throat. Y-axis is est. viral load relative to nose-throat day 2 (peak).
 
-![Image](../media/1897429800710758413-1897429919355035898-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1897429800710758413-1897429919355035898-1.png)
 
 First up, masks. tl;dr: mask and nose viral load tell different stories over time! And I'm very likely a lot less infectious via the air now than at the start.
 
@@ -224,7 +224,7 @@ As discussed above, on day 2, I was able to pull virus off a mask worn for an ho
 
 Overnight from day 2 to day 3, I was able to pull virus off a mask put inside my bedside hepa filter, showing that SARS-CoV-2 was travelling on fine aerosols. You see that quantified here, as the day 3 hepa measurement.
 
-![Image](../media/1897429800710758413-1897429962405372050-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1897429800710758413-1897429962405372050-1.png)
 
 On day 8, my nose-throat viral load dropped by a factor of 1000, give or take, and my mask sample was negative, despite wearing it for 11 hours. So good, nose way down, aerosol negative.
 
@@ -232,7 +232,7 @@ But, on day 12, my nose/throat sample is hot as hell again! Dammit, how infectio
 
 I wore a clean mask for 4.25 hours, through work, talking, singing Moo Baa Fa La La to my daughter, etc. Tested the mask. It was barely positive--at the limit of detection but it's there.
 
-![Image](../media/1897429800710758413-1897429993745199245-1.png)
+![Image](/assets/2026-06-19-My-First-COVID-Infection/twitter/media/1897429800710758413-1897429993745199245-1.png)
 
 But quantitatively, while my nose swab viral load on day 12 was about ~1/2 of the value on day 2 (so basically the same), the mask viral load is at least 500x lower! Overnight hepa was negative. This is great! There was very likely zero SARS-CoV-2 in my lungs last night.
 
@@ -247,6 +247,24 @@ NOW I STILL BETTER KEEP WASHING MY HANDS 😂
 So anyway, there's what I hope is a fascinating look into a single infection history, so far. I'm disappointed the stool tests are negative, but, as my symptoms calm down, I hope it's because there's very little virus there. I also really hope my wife and I clear this thing soon.
 
 Until then, I'll let you know if anything else interesting comes up. Thanks for reading along!
+
+## It's finally over!
+
+*Day 20* (new content)
+
+After 17 days for Marisa and 20 for me, we're finally done! 
+
+Two peaks of symptoms, two peaks of nasal viral load,
+
+![Image](/assets/2026-06-19-My-First-COVID-Infection/viral-load-relative-to-peak_linear_y_real_time.png)
+
+but, at least for me, only 1 peak of infectiousness.
+
+![Image](/assets/2026-06-19-My-First-COVID-Infection/alternate_samples_vs_nt_viral-load-relative-to-peak_adjusted.png)
+
+This bioaerosol stuff is so damn cool! Despite rebounding on the nasal swab completely, I probably never shed anything of import for anyone else after day 7.
+
+FDA, it would be nice if you didn't have to be someone like me to know that!
 
 ___
 
