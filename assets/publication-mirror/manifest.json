@@ -1,0 +1,1260 @@
+{
+  "generated_from": "assets/Famulare_CV.tex",
+  "generated_at": "2026-08-12T21:11:04.660Z",
+  "records": [
+    {
+      "section": "Conference Proceedings",
+      "number": 1,
+      "identifier": "10.1063/1.2405035",
+      "source_urls": [
+        "https://doi.org/10.1063/1.2405035"
+      ],
+      "local_pdf": "assets/publication-mirror/proceedings-01.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[1]] Schlamminger S, Hagedorn CA, Famulare MG, Pollack SE, and Gundlach JH (2006). High Sensitivity Torsion Balance Tests for LISA Proof Mass Modeling. AIP Conference Proceedings 873:151-157. doi:10.1063/1.2405035 \\\\; [local PDF] %-------- Media",
+      "acquired_from": "https://arxiv.org/pdf/gr-qc/0702053.pdf"
+    },
+    {
+      "section": "Conference Proceedings",
+      "number": 2,
+      "identifier": "10.25080/majora-212e5952-00e",
+      "source_urls": [
+        "https://doi.org/10.25080/majora-212e5952-00e"
+      ],
+      "local_pdf": "assets/publication-mirror/proceedings-02.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[2]] Kerr CC, Stuart RM, Mistry D, Abeysuriya RG, Cohen JA, George L, Jastrzebski M, Famulare M, Wenger E, Klein DJ (2022). Python vs. the pandemic: a case study in high-stakes software development. Proc. of the 21st Python in science comp. (SCIPY 2022). doi:10.25080/majora-212e5952-00e; [local PDF]",
+      "acquired_from": "https://proceedings.scipy.org/articles/majora-212e5952-00e.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 1,
+      "identifier": "10.1007/s10827-009-0142-x",
+      "source_urls": [
+        "https://doi.org/10.1007/s10827-009-0142-x"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-01.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[1]] Lundstrom BN, Famulare M, Sorenson LB, Spain WJ, and Fairhall AL (2009). Sensitivity of firing rate to input fluctuations depends on time scale separation between fast and slow variables in single neurons. J. Computational Neuroscience 27(2):227--290. doi:10.1007/s10827-009-0142-x \\\\; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC13133864?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 2,
+      "identifier": "10.1162/neco.2009.02-09-956",
+      "source_urls": [
+        "https://doi.org/10.1162/neco.2009.02-09-956"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-02.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[2]] Famulare M, Fairhall AL (2010). Feature selection in simple neurons: how coding depends on spiking dynamics. Neural Computation 22:581--598. doi:10.1162/neco.2009.02-09-956; [local PDF]",
+      "acquired_from": "https://arxiv.org/pdf/0902.2020.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 3,
+      "identifier": "10.1103/PhysRevE.83.041908",
+      "source_urls": [
+        "https://doi.org/10.1103/PhysRevE.83.041908"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-03.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[3]] Goldwyn JH, Imennov NS, Famulare M, and Shea-Brown E (2011). On stochastic differential equation models for ion channel noise in Hodgkin-Huxley neurons. Physical Review E 83:041908. doi:10.1103/PhysRevE.83.041908; [local PDF]",
+      "acquired_from": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevE.83.041908/fulltext"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 4,
+      "identifier": "10.1523/JNEUROSCI.3263-12.2013",
+      "source_urls": [
+        "https://doi.org/10.1523/JNEUROSCI.3263-12.2013"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-04.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[4]] Mease RA, Famulare M, Gjorgjieva J, Moody WJ, and Fairhall AL (2013). Emergence of adaptive computation by single neurons in the developing cortex. Journal of Neuroscience 33(30):12154--12170. doi:10.1523/JNEUROSCI.3263-12.2013; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC3721832?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 5,
+      "identifier": "10.1093/inthealth/ihv031",
+      "source_urls": [
+        "https://doi.org/10.1093/inthealth/ihv031"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-05.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[5]] Famulare M and Hu H (2015). Extracting transmission networks from phylogeographic data for epidemic and endemic diseases: Ebola virus in Sierra Leone, 2009 H1N1 pandemic influenza and polio in Nigeria. International Health 7(2):130--138. doi:10.1093/inthealth/ihv031; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC4492342?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 6,
+      "identifier": "10.1371/journal.pone.0135765",
+      "source_urls": [
+        "https://doi.org/10.1371/journal.pone.0135765"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-06.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[6]] Famulare M (2015). Has wild poliovirus been eliminated from Nigeria? PLOS One 10(8):e0135765. doi:10.1371/journal.pone.0135765; [local PDF]",
+      "acquired_from": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0135765&type=printable"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 7,
+      "identifier": "10.1128/JVI.01532-15",
+      "source_urls": [
+        "https://doi.org/10.1128/JVI.01532-15"
+      ],
+      "local_pdf": "assets/publication-mirror/Famulare_et_al_2016_Sabin_vaccine_reversion_in_the_field.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[7]] Famulare M, Change S, Iber J, Zhao K, Adeniji JA, Bukbuk D, Baba M, Behrend M, Burns CC, and Oberste MS (2016). Sabin vaccine reversion in the field: a comprehensive analysis of Sabin-like poliovirus isolates in Nigeria. Journal of Virology 90(1):317--331. doi:10.1128/JVI.01532-15;",
+      "candidate_urls": [
+        "https://journals.asm.org/doi/pdf/10.1128/JVI.01532-15",
+        "https://journals.asm.org/doi/pdf/10.1128/jvi.01532-15?download=true"
+      ],
+      "acquired_from": "user-supplied Downloads/Famulare et al._2016_Sabin Vaccine Reversion in the Field a Comprehensive Analysis of Sabin-Like Poliovirus Isolates in.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 8,
+      "identifier": "10.1016/S1473-3099(17)30358-4",
+      "source_urls": [
+        "https://doi.org/10.1016/S1473-3099(17)30358-4"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-08.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[8]] Taniuchi M, Famulare M, Zaman K, Uddin MJ, Upfill-Brown AM, Ahmed T, Saha P, Haque R, Bandyopadhyay AS, Modlin JF, Platts-Mills JA, Houpt ER, Yunus M, and Petri WA (2017). Community transmission of type 2 poliovirus after cessation of trivalent oral polio vaccine in Bangladesh: an open-label cluster-randomised trial and modelling study. Lancet Infectious Diseases 17(1):1069--1079. doi:10.1016/S1473-3099(17)30358-4; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC5610141?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 9,
+      "identifier": "10.1016/j.vaccine.2017.08.048",
+      "source_urls": [
+        "https://doi.org/10.1016/j.vaccine.2017.08.048"
+      ],
+      "local_pdf": "assets/publication-mirror/Kroiss_et_al_2017_Evaluating_cessation_of_type_2_oral_polio_vaccine.pdf",
+      "supplements": [
+        {
+          "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264410X17311362-mmc1.docx",
+          "local_file": "assets/publication-mirror/supplements/Kroiss_et_al_2017_supplement.docx"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[9]] Kroiss SJ, Famulare M, Lyons H, McCarthy KA, Mercer LD, Chabot-Couture G (2017). Evaluating cessation of the type 2 oral polio vaccine by modeling pre-and post-cessation detection rates. Vaccine 35(42):5674--5681. doi:10.1016/j.vaccine.2017.08.048;",
+      "candidate_urls": [
+        "https://api.elsevier.com/content/article/PII:S0264410X17311362?httpAccept=text/xml",
+        "https://api.elsevier.com/content/article/PII:S0264410X17311362?httpAccept=text/plain",
+        "https://www.sciencedirect.com/science/article/pii/S0264410X17311464/pdfft"
+      ],
+      "acquired_from": "user-supplied Downloads/Kroiss et al._2017_Evaluating cessation of the type 2 oral polio vaccine by modeling pre- and post-cessation detection.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 10,
+      "identifier": "10.1186/s12916-017-0937-y",
+      "source_urls": [
+        "https://doi.org/10.1186/s12916-017-0937-y"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-10.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[10]] McCarthy KA, Chabot-Couture G, Famulare M, Lyons HM, Mercer LD (2017). The risk of type 2 oral polio vaccine use in post-cessation outbreak response. BMC Medicine 15(1):175. doi:10.1186/s12916-017-0937-y; [local PDF]",
+      "acquired_from": "http://link.springer.com/content/pdf/10.1186/s12916-017-0937-y.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 11,
+      "identifier": "10.1371/journal.pbio.2002468",
+      "source_urls": [
+        "https://doi.org/10.1371/journal.pbio.2002468"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-11.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[11]] Famulare M, Selinger C, McCarthy KA, Eckhoff PA, Chabot-Couture G (2018). Assessing the stability of polio eradication after the withdrawal of oral polio vaccine. PLOS Biology 16(4):e2002468. doi:10.1371/journal.pbio.2002468; [local PDF]",
+      "acquired_from": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2002468&type=printable"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 12,
+      "identifier": "10.1371/journal.pone.0208336",
+      "source_urls": [
+        "https://doi.org/10.1371/journal.pone.0208336"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-12.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[12]] Kroiss SJ, Ahmadzai M, Ahmed J, Alam MM, Chabot-Couture G, Famulare M, Mahamud A, McCarthy KA, Mercer LD, Muhammad S, Safdar RM, Sharif S, Shaukat S, Shukla H, Lyons H (2018). Assessing the sensitivity of the polio environmental surveillance system. PLOS One 13(12):e0208336. doi:10.1371/journal.pone.0208336; [local PDF]",
+      "acquired_from": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208336&type=printable"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 13,
+      "identifier": "10.1136/bmjopen-2020-037295",
+      "source_urls": [
+        "https://doi.org/10.1136/bmjopen-2020-037295"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-13.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[13]] Chu HY, Boeckh M, Englund JA, Famulare M, Lutz BR, Nickerson DA, Rieder MJ, Starita LM, Adler A, Brandstetter E, Frazar CD, Han PD, Gulati RK, Hadfield J, Jackson ML, Kiavand A, Kimball LE, Lacombe K, Logue J, Lyon V, Newman KL, Sibley TR, Zigman Suschland ML, Wolf C, Shendure J, and Bedford T (2020). Protocol: The Seattle Flu Study: a multi-arm community-based prospective study protocol for assessing influenza prevalence, transmission, and genomic epidemiology. BMJ Open 10(10):e037295. doi:10.1136/bmjopen-2020-037295; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7542952?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 14,
+      "identifier": "10.1056/NEJMc2008646",
+      "source_urls": [
+        "https://doi.org/10.1056/NEJMc2008646"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-14.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[14]] Chu HY, Englund JA, Starita LM, Famulare M, Brandstetter E, Nickerson DA, Rieder MJ, Adler A, Lacombe K, Kim AE, Graham C, Logue J, Wolf CR, Heimonen J, McCullock DJ, Han PD, Sibley TR, Lee J, Ilcisin M, Fay K, Burstein R, Martin B, Lockwood CM, Thompson M, Lutz B, Jackson M, Hughes JP, Boeckh M, Shendure J, Bedford T (2020). Early detection of Covid-19 through a citywide pandemic surveillance platform. New England Journal of Medicine 383(2). doi:10.1056/NEJMc2008646; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7206929?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 15,
+      "identifier": "10.15585/mmwr.mm6922e1",
+      "source_urls": [
+        "https://doi.org/10.15585/mmwr.mm6922e1"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-15.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[15]] CDC COVID Response Team, Jorden MA, Rudman SL, Villarino E, Hoferka S, Patel MT, Bemis K, Simmons CR, Jespersen M, Johnson JI, Mytty E, Arends KD, Henderson JJ, Mathes RW, Weng CX, Duchin J, Lenahan J, Close N, Bedford T, Boeckh M, Chu HY, Englund JA, Famulare M, Nickerson DA, Rieder MJ, Shendure J, Starita LM, Armstrong GL, Butler JC, Coletta MA, Kite-Powell A, Bhatnagar J, Reagan-Steiner S, Tong S, Flannery B, Ferdinands JM, Chung JR (2020). Evidence for limited early spread of COVID-19 within the United States, January–February 2020. MMWR 69(22). doi:10.15585/mmwr.mm6922e1; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7315848?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 16,
+      "identifier": "10.1126/science.abb9263",
+      "source_urls": [
+        "https://doi.org/10.1126/science.abb9263"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-16.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[16]] Deng X, Gu W, Federman S, Du Plessis L, Pybus O, Faria N, Wang C, Yu G, Pan CY, Guevara H, Sotomayor-Gonzalez A, Zorn K, Gopez A, Servellita V, Hsu E, Miller S, Bedford T, Greninger A, Roychoudhury P, Famulare M, Chu HY, Shendure J, Starita L, Anderson C, Gangavarapu K, Zeller M, Spencer E, Andersen K, MacCannell D, Tong S, Armstrong G, Paden C, Li Y, Zhang Y, Morrow S, Willis M, Matyas B, Mase S, Kasirye O, Park M, Chan C, Yu A, Chai S, Villarino E, Bonin B, Wadfored D, and Chiu CY (2020). A Genomic Survey of SARS-CoV-2 Reveals Multiple Introductions into Northern California without a Predominant Lineage. Science 369(6503). doi:10.1126/science.abb9263; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7286545?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 17,
+      "identifier": "10.1126/science.abc0523",
+      "source_urls": [
+        "https://doi.org/10.1126/science.abc0523"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-17.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[17]] Bedford T, Greninger AL, Roychoudhury P, Starita LM, Famulare M, Huang ML, Nalla A, Pepper G, Reinhardt A, Xie H, Shrestha L, Nguyen TN, Adler A, Brandstetter E, Cho S, Giroux D, Han PD, Fay K, Frazar CD, Ilcisin M, Lacombe K, Lee J, Kiavand A, Richardson M, Sibley TR, Truong M, Wolf CR, Nickerson DA, Rieder MJ, Englund JA, Seattle Flu Study Investigators, Hadfield J, Hodcroft EB, Huddleston J, Moncla LH, M\\\"uller NF, Neher RA, Deng X, Gu W, Federman S, Chiu C, Duchin JS, Gautom R, Melly G, Hiatt B, Dykema P, Lindquist S, Queen K, Tao Y, Uehara A, Tong S, MacCannell D, Armstrong GL, Baird GS, Chu HY, Shendure J, Jerome KR (2020). Cryptic transmission of SARS-CoV-2 in Washington state. Science 370(6516). doi:10.1126/science.abc0523; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7810035?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 18,
+      "identifier": "10.1016/j.chom.2020.10.011",
+      "source_urls": [
+        "https://doi.org/10.1016/j.chom.2020.10.011"
+      ],
+      "local_pdf": "assets/publication-mirror/Valesano_et_al_2021_Early_evolution_of_oral_poliovirus_vaccine.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[18]] Valesano AL, Taniuchi M, Fitzsimmons WJ, Islam MO, Ahmed T, Zaman K, Haque R, Wong W, Famulare M, Lauring AS (2021). The early evolution of oral poliovirus vaccine is shaped by strong positive selection and tight transmission bottlenecks. Cell Host \\& Microbe 29(1). doi:10.1016/j.chom.2020.10.011;",
+      "candidate_urls": [
+        "https://api.elsevier.com/content/article/PII:S1931312820305746?httpAccept=text/xml",
+        "https://api.elsevier.com/content/article/PII:S1931312820305746?httpAccept=text/plain",
+        "https://www.sciencedirect.com/science/article/pii/S1931312820305746/pdfft",
+        "https://europepmc.org/articles/PMC7815045?pdf=render",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815045/pdf/"
+      ],
+      "acquired_from": "user-supplied Downloads/1-s2.0-S1931312820305746-main.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 19,
+      "identifier": "10.1093/cid/ciab131",
+      "source_urls": [
+        "https://doi.org/10.1093/cid/ciab131"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-19.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[19]] Jackson ML, Starita L, Biniry E, Phillips CH, Wellwood S, Cho S, Kiavand A, Truong M, Han P, Richardson M, Wolf CR, Heimonen J, Nickerson DA, Chu HY, Boeckh M, Englund JA, Famulare M, Lutz BR, Rieder MJ, Thompson M, Shendure J, Bedford T, Adler A, Brandstetter E, Bosua J, Frazar CD, Han PD, Gulati RK, Hadfield J, Huang S, Kimball LE, Lacombe K, Logue JK, Lyon V, Newman KL, Sibley TR, Zigman Suchsland ML, Seattle Flu Study Investigators (2021). Incidence of medically attended acute respiratory illnesses due to respiratory viruses across the life course during the 2018/19 influenza season. Clinical Infectious Diseases 73(5). doi:10.1093/cid/ciab131; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC7929037?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 20,
+      "identifier": "10.1038/s41467-021-23276-9",
+      "source_urls": [
+        "https://doi.org/10.1038/s41467-021-23276-9"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-20.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[20]] Kerr CC, Mistry D, Stuart RM, Rosenfeld K, Hart GR, Nu\\~nez RC, Cohen JA, Selvaraj P, Abeysuriya RG, Jastrzebski M, George L, Hagedorn B, Panovska-Griffiths J, Fagalde M, Duchin J, Famulare M, Klein DJ (2021). Controlling COVID-19 via test-trace-quarantine. Nature Communications 12(1):2993. doi:10.1038/s41467-021-23276-9; [local PDF]",
+      "acquired_from": "https://www.nature.com/articles/s41467-021-23276-9.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 21,
+      "identifier": "10.1126/scitranslmed.abf0202",
+      "source_urls": [
+        "https://doi.org/10.1126/scitranslmed.abf0202"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-21.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[21]] M\\\"uller NF, Wagner C, Frazar CD, Roychoudhury P, Lee J, Moncla LH, Pelle B, Richardson M, Ryke E, Xie H, Shrestha L, Addetia A, Rachleff VM, Lieberman NAP, Huang ML, Gautom R, Melly G, Hiatt B, Dykema P, Adler A, Brandstetter E, Han PD, Fay K, Ilcisin M, Lacombe K, Sibley TR, Truong M, Wolf CR, Boeck M, Englund JA, Famulare M, Lutz BR, Rieder MJ, Thompson M, Duchin JS, Starita LM, Chu HY, Shendure J, Jerome KR, Lingquist S, Greninger AL, Nickerson DA, Bedford T (2021). Viral genomes reveal patterns of the SARS-CoV-2 outbreak in Washington State. Science Translational Medicine 13(595):eabf0202. doi:10.1126/scitranslmed.abf0202; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC8158963?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 22,
+      "identifier": "10.1038/s41598-021-91338-5",
+      "source_urls": [
+        "https://doi.org/10.1038/s41598-021-91338-5"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-22.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[22]] Goyal A, Reeves DB, Thakkar N, Famulare M, Cardozo-Ojeda EF, Mayer BT, Schiffer JT (2021). Slight reduction in SARS-CoV-2 exposure viral load due to masking results in a significant reduction in transmission with widespread implementation. Scientific Reports 11(1):11838. doi:10.1038/s41598-021-91338-5; [local PDF]",
+      "acquired_from": "https://www.nature.com/articles/s41598-021-91338-5.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 23,
+      "identifier": "10.1016/j.lana.2021.100018",
+      "source_urls": [
+        "https://doi.org/10.1016/j.lana.2021.100018"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-23.pdf",
+      "supplements": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/9904098/bin/mmc1.xlsx",
+          "local_file": "assets/publication-mirror/supplements/journal-articles-23-mmc1.xlsx"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[23]] Tordoff DM, Greninger AL, Roychoudhury P, Shrestha L, Xie H, Jerome KR, Breit N, Huang ML, Famulare M, Herbeck JT (2021). Phylogenetic estimates of SARS-CoV-2 introductions into Washington State. Lancet Regional Health 1:100018. doi:10.1016/j.lana.2021.100018; [local PDF]; [supplement 1]",
+      "acquired_from": "https://europepmc.org/articles/PMC8733893?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 24,
+      "identifier": "10.1001/jamapediatrics.2021.2025",
+      "source_urls": [
+        "https://doi.org/10.1001/jamapediatrics.2021.2025"
+      ],
+      "local_pdf": "assets/publication-mirror/Chung_et_al_2021_Comparison_of_symptoms_and_RNA_levels_in_children_and_adults.pdf",
+      "supplements": [
+        {
+          "url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2780963/poi210036supp1_prod_1632764433.86452.pdf",
+          "local_file": "assets/publication-mirror/supplements/Chung_et_al_2021_supplement.pdf"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[24]] Chung E, Chow EJ, Wilcox NC, Burstein R, Brandstetter E, Han PD, Fay K, Pfau B, Adler A, Lacombe K, Lockwood CM, Uyeki TM, Shendure J, Duchin JS, Rieder MJ, Nickerson DA, Boeckh M, Famulare M, Hughes JP, Starita LM, Bedford T, Englund JA, Chu HY (2021). Comparison of symptoms and RNA levels in children and adults with SARS-CoV-2 infection in the community setting. JAMA Pediatrics 175(10):e212025. doi:10.1001/jamapediatrics.2021.2025;",
+      "candidate_urls": [
+        "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2780963/jamapediatrics_chung_2021_oi_210036_1632764433.85951.pdf",
+        "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2780963/jamapediatrics_chung_2021_oi_210036_1632764433.85951.pdf?resultClick=1",
+        "https://europepmc.org/articles/PMC8491103?pdf=render",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8491103/pdf/"
+      ],
+      "acquired_from": "user-supplied Downloads/jamapediatrics_chung_2021_oi_210036_1632764433.85951.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 25,
+      "identifier": "10.1371/journal.pcbi.1009149",
+      "source_urls": [
+        "https://doi.org/10.1371/journal.pcbi.1009149"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-25.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[25]] Kerr CC, Stuart RM, Mistry D, Abeysuriya R, Rosenfeld K, Hart GR, Nu\\~nez RC, Cohen JA, Selvaraj P, Hagedorn B, George L, Jastrzebski M, Izzo AS, Fowler G, Wagner A, Chang ST, Oron AP, Wenger EA, Panovska-Griffiths J, Famulare M, Klein DJ (2021). Covasim: an agent-based model of COVID-19 dynamics and interventions. PLOS Computational Biology 17(7):e1009149. doi:10.1371/journal.pcbi.1009149; [local PDF]",
+      "acquired_from": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1009149&type=printable"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 26,
+      "identifier": "10.1186/s12879-021-06028-4",
+      "source_urls": [
+        "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06028-4"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-26.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[26]] Jackson ML, Hart GR, McCulloch DJ, Adler A, Brandstetter E, Fay K, Han P, Lacombe K, Lee J, Sibley TR, Nickerson DA, Rieder MJ, Starita L, Englund JA, Bedford T, Chu H, Famulare M (2021). Effects of weather-related social distancing on city-scale transmission of respiratory viruses: a retrospective cohort study. BMC Infectious Diseases 21(1):335. doi:10.1186/s12879-021-06028-4; [local PDF]",
+      "acquired_from": "https://link.springer.com/content/pdf/10.1186/s12879-021-06028-4.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 27,
+      "identifier": "10.1371/journal.pcbi.1009690",
+      "source_urls": [
+        "https://doi.org/10.1371/journal.pcbi.1009690"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-27.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[27]] Famulare M, Wong W, Haque R, Platts-Mills JA, Saha P, Aziz AB, Ahmed T, Islam MO, Uddin MJ, Bandyopadhyay AS, Yunus M, Zaman Q, Taniuchi M (2021). Multiscale model for forecasting Sabin 2 vaccine virus household and community transmission. PLOS Computational Biology 17(2):e1009690. doi:10.1371/journal.pcbi.1009690; [local PDF]",
+      "acquired_from": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1009690&type=printable"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 28,
+      "identifier": "10.1093/cid/ciac279",
+      "source_urls": [
+        "https://doi.org/10.1093/cid/ciac279"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-28.pdf",
+      "supplements": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/9402594/bin/ciac279_supplementary_data.docx",
+          "local_file": "assets/publication-mirror/supplements/journal-articles-28-ciac279_supplementary_data.docx"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[28]] Paredes MI, Lunn SM, Famulare M, Frisbie LA, Painter I, Burstein R, Roychoudhury P, Xie H, Bakhash SA, Perez R, Lukes M, Ellis S, Sathees S, Mathias PC, Greninger A, Starita LM, Frazar CD, Ryke E, Zhong W, Gamboa L, Threlkeld M, Lee J, Nickerson DA, Bates DL, Hartman ME, Haugen E, Nguyen TN, Richards JD, Rodriguez JL, Stamatoyannopoulos JA, Thorland E, Melly G, Dykema PE, MacKellar DC, Gray HK, Singh A, Peterson JM, Russel D, Torres LM, Lindquist S, Bedford T, Allen KJ, Oltean H (2021). Associations between SARS-CoV-2 variants and risk of COVID-19 hospitalization among confirmed cases in Washington State: a retrospective cohort study. Clinical Infectious Diseases ciac279. doi:10.1093/cid/ciac279; [local PDF]; [supplement 1]",
+      "acquired_from": "https://europepmc.org/articles/PMC9047245?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 29,
+      "identifier": "10.1098/rsif.2022.0006",
+      "source_urls": [
+        "https://doi.org/10.1098/rsif.2022.0006"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-29.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[29]] Brouwer AF, Eisenberg MC, Shulman LM, Famulare M, Koopman JS, Kroiss SJ, Hindiyeh M, Manor Y, Grotto I, Eisenberg JNS (2022). The role of time-varying viral shedding in modelling environmental surveillance for public health: revisiting the 2013 poliovirus outbreak in Israel. J Roy Soc Interface 19:20220006. doi:10.1098/rsif.2022.0006; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC9114981?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 30,
+      "identifier": "10.1001/jamanetworkopen.2022.45861",
+      "source_urls": [
+        "https://doi.org/10.1001/jamanetworkopen.2022.45861"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-30.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[30]] Hansen C, Perofsky AC, Burstein R, Famulare M, Boyle S, Prentice R, Marshall C, McCormick BJJ, Reinhart D, Capodanno B, Truong M, Schwabe-Fry K, Kuchta K, Pfau B, Acker Z, Lee J, Sibley TR, McDermot E, Rodriguez-Salas L, Stone J, Gamboa L, Han PD, Duchin JS, Waghmare A, Englund JA, Shendure J, Bedford T, Chu HY, Starita LM, Viboud C (2022). Trends in Risk Factors and Symptoms Associated With SARS-CoV-2 and Rhinovirus Test Positivity in King County, Washington, June 2020 to July 2022. JAMA Network OPEN 5(12):e2245861. doi:10.1001/jamanetworkopen.2022.45861; [local PDF]",
+      "acquired_from": "https://bedford.io/pdfs/papers/hansen-sars-cov-2-risk-factors.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 31,
+      "identifier": "10.1016/j.celrep.2023.112308",
+      "source_urls": [
+        "https://doi.org/10.1016/j.celrep.2023.112308"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-31.pdf",
+      "supplements": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/10156583/bin/mmc2.xlsx",
+          "local_file": "assets/publication-mirror/supplements/journal-articles-31-mmc2.xlsx"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[31]] Cohen JA, Stuart RM, Panovska-Griffiths J, Mudimu E, Abeysuriya RG, Kerr CC, Famulare M, Klein DJ (2023). The changing impact of vaccines in the COVID-19 pandemic. Cell Reports S2211-1247(23)00319-4. doi:10.1016/j.celrep.2023.112308; [local PDF]; [supplement 1]",
+      "acquired_from": "https://europepmc.org/articles/PMC10015104?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 32,
+      "identifier": "10.1093/ve/vead044",
+      "source_urls": [
+        "https://doi.org/10.1093/ve/vead044"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-32.pdf",
+      "supplements": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/10491863/bin/vead044_supp.zip",
+          "local_file": "assets/publication-mirror/supplements/journal-articles-32-vead044_supp.zip"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[32]] Wong W, Gauld J, Famulare M (2023). From Vaccine to Pathogen: Modeling Sabin 2 Vaccine Virus Reversion and Evolutionary Epidemiology. Virus Evolution 9(2):vead044. doi:10.1093/ve/vead044; [local PDF]; [supplement 1]",
+      "acquired_from": "https://europepmc.org/articles/PMC10491863?pdf=render"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 33,
+      "identifier": "10.1126/science.adn3231",
+      "source_urls": [
+        "https://doi.org/10.1126/science.adn3231"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-33.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[33]] Streicker DG, Griffiths ME, Antia R, Bergner L, Bowman P, dos Santos de Moraes MV, Esvelt K, Famulare M, Gilbert A, He B, Jarvis MA, Kennedy DA, Kuzma J, Nasimiyu Wanyonyi C, Remien C, Rocke T, Rosenke K, Schreiner C, Sheen J, Simons D, Yordanova IA, Bull JJ, and Nuismer SL (2024). Developing transmissible vaccines for animal infections: Intrinsically safe designs and a staged transparent development process will be essential. Science 384:6693. doi:10.1126/science.adn3231; [local PDF]",
+      "acquired_from": "https://eprints.gla.ac.uk/323783/2/323783.pdf"
+    },
+    {
+      "section": "Journal Articles",
+      "number": 34,
+      "identifier": "10.1038/s41467-024-48528-2",
+      "source_urls": [
+        "https://doi.org/10.1038/s41467-024-48528-2"
+      ],
+      "local_pdf": "assets/publication-mirror/journal-34.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[34]] Perofsky AC, Hansen CL, Burstein R, Boyle S, Prentice R, Marshall C, Reinhart D, Capodanno B, Truong M, Schwabe-Fry K, Kuchta K, Pfau B, Acker Z, Lee J, Sibley TR, McDermot E, Rodriguez-Salas L, Stone J, Gamboa L, Han PD, Adler A, Waghmare A, Jackson ML, Famulare M, Shendure J, Bedford T, Chu HY, Englund JA, Starita LM, Viboud C (2024). Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. Nature Communications 15:4164. doi:10.1038/s41467-024-48528-2; [local PDF]",
+      "acquired_from": "https://www.nature.com/articles/s41467-024-48528-2.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 1,
+      "identifier": "10.48550/arXiv.1111.0097",
+      "source_urls": [
+        "https://doi.org/10.48550/arXiv.1111.0097"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-01.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[1]] Famulare M, Fairhall A (2011). Adaptive probabilistic neural coding from deterministic spiking neurons: analysis from first principles. arXiv doi:10.48550/arXiv.1111.0097; [local PDF]",
+      "acquired_from": "https://arxiv.org/pdf/1111.0097.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 2,
+      "identifier": "10.1101/2020.04.08.20058487",
+      "source_urls": [
+        "https://doi.org/10.1101/2020.04.08.20058487"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-02.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[2]] Chao DL, Oron AP, Srikrishna D, Famulare M (2020). Modeling layered non-pharmaceutical interventions against SARS-CoV-2 in the United States with Corvid. medrXiv 2020.04.08.20058487. doi:10.1101/2020.04.08.20058487; [local PDF]",
+      "acquired_from": "https://www.medrxiv.org/content/medrxiv/early/2020/04/11/2020.04.08.20058487.full.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 3,
+      "identifier": "10.1101/2021.05.31.21258018",
+      "source_urls": [
+        "https://doi.org/10.1101/2021.05.31.21258018"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-03.pdf",
+      "supplements": [
+        {
+          "url": "https://www.medrxiv.org/content/medrxiv/early/2021/09/28/2021.05.31.21258018/DC1/embed/media-1.pdf?download=true",
+          "local_file": "assets/publication-mirror/supplements/preprints-3-media-1.pdf"
+        }
+      ],
+      "status": "mirrored",
+      "citation_text": "[[3]] Cohen JA, Stuart RM, Rosenfeld K, Lyons H, White M, Kerr CC, Klein DJ, Famulare M (2021). Quantifying the role of naturally- and vaccine-derived neutralizing antibodies as a correlate of protection against COVID-19 variants. medrXiv 2021.05.31.21258018. doi:10.1101/2021.05.31.21258018; [local PDF]; [supplement 1]",
+      "acquired_from": "https://www.medrxiv.org/content/medrxiv/early/2021/09/28/2021.05.31.21258018.full.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 4,
+      "identifier": "10.1101/2022.02.04.22270474",
+      "source_urls": [
+        "https://doi.org/10.1101/2022.02.04.22270474"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-04.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[4]] Burstein R, Althouse BM, Adler A, Akullian A, Brandstetter E, Cho S, Emanuels A, Fay K, Gamboa L, Han P, Huden K, Ilcisin M, Izzo M, Jackson ML, Kim AE, Kimball L, Lacombe K, Lee J, Logue JK, Rogers J, Chung E, Sibley TR, Van Raay K, Wenger E, Wolf CR, Boeckh M, Chu H, Duchin J, Rieder M, Shendure J, Starita LM, Viboud C, Bedford T, Englund JA, Famulare M (2022). Interactions among 17 respiratory pathogens: a cross-sectional study using clinical and community surveillance data. medrXiv 2022.02.04.22270474. doi:10.1101/2022.02.04.22270474; [local PDF]",
+      "acquired_from": "https://europepmc.org/articles/PMC8845514?pdf=render"
+    },
+    {
+      "section": "Preprints",
+      "number": 5,
+      "identifier": "10.48550/arXiv.2205.02150",
+      "source_urls": [
+        "https://doi.org/10.48550/arXiv.2205.02150"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-05.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[5]] Thakkar N and Famulare M. COVID-19 epidemiology as emergent behavior on a dynamic transmission forest (2022). arXiv 2205.02150. doi:10.48550/arXiv.2205.02150; [local PDF]",
+      "acquired_from": "https://arxiv.org/pdf/2205.02150.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 6,
+      "identifier": "10.48550/arXiv.2311.16317",
+      "source_urls": [
+        "https://doi.org/10.48550/arXiv.2311.16317"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-06.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[6]] Thakkar N and Famulare M (2023). A generating function perspective on the transmission forest. arXiv 2311.16317. doi:10.48550/arXiv.2311.16317; [local PDF]",
+      "acquired_from": "https://arxiv.org/pdf/2311.16317.pdf"
+    },
+    {
+      "section": "Preprints",
+      "number": 7,
+      "identifier": "10.1101/2024.08.07.607080",
+      "source_urls": [
+        "https://doi.org/10.1101/2024.08.07.607080"
+      ],
+      "local_pdf": "assets/publication-mirror/preprint-07.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[7]] N\\'u\\~nez RC, Hart GR, Famulare M, Lorton C, Herbeck JT (2024). Using phylogenetic summary statistics for epidemiological inference. biorXiv 2024.08.07.607080. doi:10.1101/2024.08.07.607080; [local PDF]",
+      "acquired_from": "https://www.biorxiv.org/content/early/2024/08/07/2024.08.07.607080.full.pdf"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 1,
+      "identifier": "2020",
+      "source_urls": [
+        "https://institutefordiseasemodeling.github.io/COVID-public/analyses/individual_dynamics_estimates/nCoV_incubation_period.html"
+      ],
+      "local_pdf": "assets/publication-mirror/nCoV_ incubation period distribution.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[1]] Famulare M (26 Jan 2020). nCoV: incubation period distribution. (github) \\; [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 2,
+      "identifier": "2020",
+      "source_urls": [
+        "https://institutefordiseasemodeling.github.io/COVID-public/analyses/sitRep_local_transmission_outside_China/sitRep_local_transmission_outside_China.html"
+      ],
+      "local_pdf": "assets/publication-mirror/Situation Report_ first generation of local transmission outside of China.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[2]] Famulare M, Hart G, Althouse B, Hu H (Jan 2020). Situation Report: first generation of local transmission outside of China. (github); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 3,
+      "identifier": "2020",
+      "source_urls": [
+        "https://institutefordiseasemodeling.github.io/COVID-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html"
+      ],
+      "local_pdf": "assets/publication-mirror/2019-nCoV_ preliminary estimates of the confirmed-case-fatality-ratio and infection-fatality-ratio, and initial pandemic risk assessment.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[3]] Famulare M (4 Feb 2020 \\& revised 19 Feb 2020). 2019-nCoV: preliminary estimates of the confirmed-case-fatality-ratio and infection-fatality-ratio, and initial pandemic risk assessment. (github); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 4,
+      "identifier": "Working paper – model-based estimates of COVID-19 burden in King and Snohomish counties through April 7.pdf",
+      "source_urls": [
+        "https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Working paper – model-based estimates of COVID-19 burden in King and Snohomish counties through April 7.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[4]] Klein D, Hagedorn B, Keer C, Hu H, Bedford T, and Famulare M (10 Mar 2020). Working paper – model-based estimates of COVID-19 burden in King and Snohomish counties through April 7, 2020. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 5,
+      "identifier": "COVID_Modeling_NYC.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID_Modeling_NYC.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/COVID_Modeling_NYC.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[5]] Thakkar N, Klein DJ, Selvaraj P, Famulare M (14 Mar 2020). COVID in New York City: A Model-Based Perspective. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 6,
+      "identifier": "Understanding_impact_of_COVID_policy_change_Seattle_0.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Understanding_impact_of_COVID_policy_change_Seattle_0.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Understanding_impact_of_COVID_policy_change_Seattle_0.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[6]] Burstein R, Hu H, Thakkar N, Schroeder A, Famulare M, and Klein D (30 Mar 2020). Understanding the Impact of COVID-19 Policy Change in the Greater Seattle Area using Mobility Data. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 7,
+      "identifier": "Physical_distancing_working_and_still_needed_to_prevent_COVID-19_resurgence.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Physical_distancing_working_and_still_needed_to_prevent_COVID-19_resurgence.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Physical_distancing_working_and_still_needed_to_prevent_COVID-19_resurgence.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[7]] Thakkar N. Burstein R, Klein D, Schripsema J, Famulare M. Physical distancing is working and still needed to prevent COVID-19 resurgence in King, Snohomish, and Pierce counties (10 Apr 2020). (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 8,
+      "identifier": "SCAN-Technical-Report-1-v2-23-APR-2020.pdf",
+      "source_urls": [
+        "https://publichealthinsider.com/wp-content/uploads/2020/04/SCAN-Technical-Report-1-v2-23-APR-2020.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/SCAN-Technical-Report-1-v2-23-APR-2020.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[8]] Burstein R, Cowgill K, Famulare M, Shedure J (17 Apr 2020). SCAN Technical Report \\#1. (publichealthinsider.com); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 9,
+      "identifier": "Updated.analysis.of_.COVID-19.transmission.in_.King_.County.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Updated.analysis.of_.COVID-19.transmission.in_.King_.County.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Updated.analysis.of_.COVID-19.transmission.in_.King_.County.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[9]] Thakkar N, Burstein R, Schripsema J, Klein D, Famulare M (24 Apr 2020). Short report: Updated analysis of COVID-19 transmission in King County, WA. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 10,
+      "identifier": "Sustained_reductions_in_transmission_have_led_to_declining_COVID_19_prevalence_in_King_County_WA.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Sustained_reductions_in_transmission_have_led_to_declining_COVID_19_prevalence_in_King_County_WA.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Sustained_reductions_in_transmission_have_led_to_declining_COVID_19_prevalence_in_King_County_WA.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[10]] Thakkar N, Burstein R, Klein DJ, Famulare M (1 May 2020). Sustained reductions in transmission have led to declining COVID-19 prevalence in King County, WA. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 11,
+      "identifier": "COVID-19-transmission-likely-rising-through-April22-across-Washington-State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID-19-transmission-likely-rising-through-April22-across-Washington-State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/COVID-19-transmission-likely-rising-through-April22-across-Washington-State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[11]] Thakkar N, Famulare M (8 May 2020). COVID-19 transmission was likely rising through April 22 across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 12,
+      "identifier": "COVID-19_transmission_patterns_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/COVID-19_transmission_patterns_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/COVID-19_transmission_patterns_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[12]] Thakkar N, Lavista Ferres JM, Huynh G, Painter I, Famulare M (15 May 2020). WA Situation Report 1: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 13,
+      "identifier": "new-technical-report.pdf",
+      "source_urls": [
+        "https://publichealthinsider.com/wp-content/uploads/2020/06/new-technical-report.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/new-technical-report.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[13]] Burstein R, Cowgill K, Famulare M, Shendure J (22 May 2020). SCAN Data Results and Technical Report \\#2. (publichealthinsider.com); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 14,
+      "identifier": "WA_Situation_Report_2_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_2_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_2_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[14]] Huynh GH, Lavista Ferres JM, Thakkar N, Painter I, Famulare M (26 May 2020). WA Situation Report 2: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 15,
+      "identifier": "Comparing_COVID-19_dynamics_in_King_and_Yakima_counties.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Comparing_COVID-19_dynamics_in_King_and_Yakima_counties.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Comparing_COVID-19_dynamics_in_King_and_Yakima_counties.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[15]] Thakkar N, Zimmermann M, Burstein R, Wenger E, Famulare M (29 May 2020). Comparing COVID-19 dynamics in King and Yakima counties. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 16,
+      "identifier": "WA_Situation_Report_3_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_3_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_3_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[16]] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, Famulare M (8 Jun 2020). WA Situation Report 3: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 17,
+      "identifier": "WA_Situation_Report_4_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_4_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_4_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[17]] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, Famulare M (13 Jun 2020). WA Situation Report 4: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 18,
+      "identifier": "WA_Situation_Report_5_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_5_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_5_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[18]] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, Famulare M (19 Jun 2020). WA Situation Report 5: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 19,
+      "identifier": "WA_Situation_Report_6_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_6_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_6_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[19]] Huynh GH, Lavista Ferres JM, Thakkar N, Etzioni R, Painter I, Famulare M (26 Jun 2020). WA Situation Report 6: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 20,
+      "identifier": "Inequities_in_COVID-19_dynamics.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Inequities_in_COVID-19_dynamics.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Inequities_in_COVID-19_dynamics.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[20]] Zimmermann M, Burstein R, Bennette C, Chao DL, Famulare M (2 Jul 2020). COVID-19 epidemic shifts younger while inequities grow wider in Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 21,
+      "identifier": "2020",
+      "source_urls": [
+        "https://publichealthinsider.com/2020/07/02/wear-your-mask-and-keep-your-distance-we-need-you-to-fight-the-surge-of-covid-19-in-king-county/"
+      ],
+      "local_pdf": "assets/publication-mirror/Wear your mask and keep your distance! We need you to fight the surge of COVID-19 in King County – PUBLIC HEALTH INSIDER.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[21]] Famulare M, Hart G (2 Jul 2020). Wear your mask and keep your distance! We need you to fight the surge of COVID-19 in King County. (publichealthinsider.com); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 22,
+      "identifier": "WA_Situation_Report_7_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_7_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_7_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[22]] Thakkar N, Huynh GH, Etzioni R, Painter I, Lavista Ferres JM, Famulare M (2 Jul 2020). WA Situation Report 7: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]",
+      "acquired_from": "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_7_COVID-19_transmission_across_Washington_State.pdf"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 23,
+      "identifier": "WA_Situation_Report_8_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_8_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_8_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[23]] Etzioni R, Lavista Ferres JM, Huynh GH, Painter I, Gulati R, Thakkar N, Famulare M (26 Jun 2020). WA Situation Report 8: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 24,
+      "identifier": "Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Schools_are_not_islands_we_must_mitigate_community_transmission_to_reopen_schools.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[24]] Cohen J, Mistry D, Kerr C, Famulare M, Klein DJ (15 Jul 2020). Schools are not islands: we must mitigate community transmission to reopen schools. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 25,
+      "identifier": "WA_Situation_Report_9_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_9_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_9_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[25]] Etzioni R, Lavista Ferres JM, Burstein R, Huynh GH, Painter I, Gulati R, Thakkar N, Famulare M (17 Jul 2020). WA Situation Report 9: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 26,
+      "identifier": "WA_Situation_Report_10_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_10_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_10_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[26]] Thakkar N, Burstein R, Lavista Ferres JM, Etzioni R, Huynh GH, Painter I, Famulare M (24 Jul 2020). WA Situation Report 10: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 27,
+      "identifier": "WA_Situation_Report_11_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_11_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_11_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[27]] Etzioni R, Lavista Ferres JM, Burstein R, Huynh GH, Painter I, Gulati R, Thakkar N, Famulare M (31 Jul 2020). WA Situation Report 11: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 28,
+      "identifier": "8.3-SCAN-Technical-Report-3_FINAL_CLEAN.pdf",
+      "source_urls": [
+        "https://publichealthinsider.com/wp-content/uploads/2020/08/8.3-SCAN-Technical-Report-3_FINAL_CLEAN.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/8.3-SCAN-Technical-Report-3_FINAL_CLEAN.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[28]] Burstein R, Famulare M (3 Aug 2020). SCAN Data Results and Technical Report \\#3. (publichealthinsider.com); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 29,
+      "identifier": "WA_Situation_Report_12_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_12_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_12_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[29]] Lavista Ferres JM, Thakkar N, Etzioni R, Huynh GH, Painter I, Famulare M (7 Aug 2020). WA Situation Report 12: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 30,
+      "identifier": "WA_Situation_Report_13_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_13_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_13_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[30]] Etzioni R, Richardson B, Lavista Ferres JM, Thakkar N, Huynh GH, Painter I, Famulare M (14 Aug 2020). WA Situation Report 13: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]",
+      "acquired_from": "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_13_COVID-19_transmission_across_Washington_State.pdf"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 31,
+      "identifier": "One_state_many_outbreaks.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/One_state_many_outbreaks.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/One_state_many_outbreaks.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[31]] Thakkar N, Famulare M (18 Aug 2020). One state, many outbreaks: a transmission modeling perspective on current COVID-19 trends in King, Pierce, and Yakima counties. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 32,
+      "identifier": "WA_Situation_Report_14_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_14_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_14_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[32]] Richardson BA, Thakkar N, Lavista Ferres JM, Huynh GH, Etzioni R, Painter I, Famulare M (28 Aug 2020). WA Situation Report 14: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 33,
+      "identifier": "2020",
+      "source_urls": [
+        "https://publichealthinsider.com/2020/09/10/alongside-the-ongoing-transmission-of-covid-19-common-colds-are-on-the-rise-in-seattle-and-king-county/"
+      ],
+      "local_pdf": "assets/publication-mirror/Alongside the ongoing transmission of COVID-19, common colds are on the rise in Seattle and King County – PUBLIC HEALTH INSIDER.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[33]] Hart G, Famulare M (10 Sep 2020). Alongside the ongoing transmission of COVID-19, common colds are on the rise in Seattle and King County. (publichealthinsider.com); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 34,
+      "identifier": "WA_Situation_Report_15_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_15_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_15_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[34]] Painter I, Huynh GH, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Famulare M (11 Sep 2020). WA Situation Report 15: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 35,
+      "identifier": "WA_Situation_Report_16_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_16_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_16_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[35]] Painter I, Huynh GH, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Famulare M (18 Sep 2020). WA Situation Report 16: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 36,
+      "identifier": "WA_Situation_Report_17_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_17_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_17_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[36]] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (25 Sep 2020). WA Situation Report 17: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 37,
+      "identifier": "WA_Situation_Report_18_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_18_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_18_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[37]] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (14 Oct 2020). WA Situation Report 18: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 38,
+      "identifier": "WA_Situation_Report_19_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_19_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_19_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[38]] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (28 Oct 2020). WA Situation Report 19: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 39,
+      "identifier": "WA_Situation_Report_20_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_20_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_20_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[39]] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (10 Nov 2020). WA Situation Report 20: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 40,
+      "identifier": "WA_Covid_Mortality_Report.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Covid_Mortality_Report.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Covid_Mortality_Report.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[40]] Sashidhar D, Thakkar N, McCarthy K, Famulare M, Burstein B (24 Nov 2020). Survival rates among hospitalized COVID-19 patients in Washington State have improved. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 41,
+      "identifier": "WA_Situation_Report_21_COVID-19_transmission_across_Washington_State.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/WA_Situation_Report_21_COVID-19_transmission_across_Washington_State.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA_Situation_Report_21_COVID-19_transmission_across_Washington_State.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[41]] Painter I, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (25 Nov 2020). WA Situation Report 21: COVID-19 transmission across Washington State. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 42,
+      "identifier": "WA-COVID19-Situation-Report-820-114.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/WA-COVID19-Situation-Report-820-114.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/WA-COVID19-Situation-Report-820-114.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[42]] Painter I, Singh G, Lavista Ferres JM, Etzioni R, Richardson B, Thakkar N, Fowler G, Famulare M, Wasserman C (9 Dec 2020). WA Situation Report 22: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 43,
+      "identifier": "Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[43]] Thakkar N, Burstein R, Famulare M (16 Dec 2020). Towards robust, real-time, high-resolution COVID-19 prevalence and incidence estimation. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 44,
+      "identifier": "An_intuitive_heuristic_for_interpreting_COVID-19_test_positivity_and_cases_per_capita.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-03/reports/pdf/An_intuitive_heuristic_for_interpreting_COVID-19_test_positivity_and_cases_per_capita.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/An_intuitive_heuristic_for_interpreting_COVID-19_test_positivity_and_cases_per_capita.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[44]] Burstein R, Famulare M, Thakkar N (19 Jan 2021). An intuitive heuristic for interpreting COVID-19 test positivity and cases per capita. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 45,
+      "identifier": "Effect-of-NPIs-in-Yakima-County.pdf",
+      "source_urls": [
+        "https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Effect-of-NPIs-in-Yakima-County.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/Effect-of-NPIs-in-Yakima-County.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[45]] Nu\\~nez RC, Famulare M, Seaman V, and Klein DJ (27 Jan 2021). In search of an effective NPI blend for COVID-19 control in rural environments: lessons learned from the early epidemic control measures in Yakima County, Washington. (covid.idmod.org); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 46,
+      "identifier": "820-114-SituationReport-01272021.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-01272021.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-01272021.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[46]] Singh G, Painter I, Thakkar N, Famulare M, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (27 Jan 2021). WA Situation Report 25: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 47,
+      "identifier": "820-114-SituationReport-20210421.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210421.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210421.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[47]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (20 Apr 2021). WA Situation Report 31: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 48,
+      "identifier": "820-114-SituationReport-20210505.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210505.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210505.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[48]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (4 May 2021). WA Situation Report 32: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 49,
+      "identifier": "820-114-SituationReport-20210519.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210519.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210519.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[49]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (4 May 2021). WA Situation Report 33: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 50,
+      "identifier": "820-114-SituationReport-20210603.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210603.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210603.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[50]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (2 Jun 2021). WA Situation Report 34: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 51,
+      "identifier": "820-114-SituationReport-20210616.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210616.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210616.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[51]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (15 Jun 2021). WA Situation Report 35: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 52,
+      "identifier": "820-114-SituationReport-20210630.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210630.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210630.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[52]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (29 Jun 2021). WA Situation Report 36: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    },
+    {
+      "section": "Public Health Reports",
+      "number": 53,
+      "identifier": "820-114-SituationReport-20210721.pdf",
+      "source_urls": [
+        "https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/820-114-SituationReport-20210721.pdf"
+      ],
+      "local_pdf": "assets/publication-mirror/820-114-SituationReport-20210721.pdf",
+      "supplements": [],
+      "status": "mirrored",
+      "citation_text": "[[53]] Singh G, Painter I, Famulare M, Thakkar N, Lavista Ferres JM, Etzioni R, Richardson B, Wasserman C (21 Jul 2021). WA Situation Report 37: COVID-19 transmission across Washington State. (doh.wa.gov); [local PDF]"
+    }
+  ]
+}
